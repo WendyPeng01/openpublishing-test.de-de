@@ -1,0 +1,143 @@
+{
+  "9f5f9e8e98a690691aa9904ed29a2a010c1bf4e5": [
+    "openpublishing\\test\\abtesting\\content-ab-testing-flow.png"
+  ],
+  "2a131af24d52573900faf54bb34aea0ebaadb58f": [
+    "openpublishing\\test\\abtesting\\control-panel.md"
+  ],
+  "b73b8ccd489b2326f1b0c47d30be910c5c4788a7": [
+    "openpublishing\\test\\abtesting\\global-ab-testing-flow.png"
+  ],
+  "532748fbca6599349f0655e85e79d2103156bd9b": [
+    "openpublishing\\test\\abtesting\\iceberg.experimental.jpg"
+  ],
+  "7c634bd01edf790ef91ded6d44abee709be27adc": [
+    "openpublishing\\test\\abtesting\\iceberg.jpg"
+  ],
+  "b2156860b4bdd3d03dc41169ae87566d003ea970": [
+    "openpublishing\\test\\abtesting\\index.md"
+  ],
+  "f2d8e40529232e9898c297e3a0701cf3a832d561": [
+    "openpublishing\\test\\abtesting\\multiple-topics-bar.experimental.md"
+  ],
+  "079b91da083d4cf552a9785bd817314cc1f0c05a": [
+    "openpublishing\\test\\abtesting\\multiple-topics-bar.md"
+  ],
+  "2d72efc56b615020d9c907194d796c287cdff939": [
+    "openpublishing\\test\\abtesting\\multiple-topics-baz.experimental.md"
+  ],
+  "9a2f58583677d63397a3ce24f2ede67c1f5ebffb": [
+    "openpublishing\\test\\abtesting\\multiple-topics-baz.md"
+  ],
+  "3eac377920ef84b4a1266ef73468ea459e5d7cdf": [
+    "openpublishing\\test\\abtesting\\multiple-topics-foo.experimental.md"
+  ],
+  "6d14893946a025f324e39edce7ed8fca7a8a5625": [
+    "openpublishing\\test\\abtesting\\multiple-topics-foo.md"
+  ],
+  "7eaae8a11a43097d9079560566cbe605f6bfcf8f": [
+    "openpublishing\\test\\abtesting\\single-topic.experimental.md"
+  ],
+  "efb939282e86dd5d6abb0a49156d90c3e2e16e2f": [
+    "openpublishing\\test\\abtesting\\single-topic.md"
+  ],
+  "377436ada10ce7d4412b6b256396ea85ad93c5af": [
+    "openpublishing\\test\\conceptual\\Image\\ATA_Center_Configuration.JPG"
+  ],
+  "28b811e014fbf38741d81c7418c6bb70ead5df74": [
+    "openpublishing\\test\\conceptual\\Image\\ATA_Config_GW_Settings.jpg"
+  ],
+  "28bff0237cf9625b464859bd7f3dc309779c7fcb": [
+    "openpublishing\\test\\conceptual\\Image\\ATA_config_icon.JPG"
+  ],
+  "5381c4c0d584f8697c8053ef5c9ee7b1ab576be3": [
+    "openpublishing\\test\\conceptual\\Image\\ATA_Domain_Connectivity_User.JPG"
+  ],
+  "b79a81b193f258cfee46d1a6478d89e46c7eecdc": [
+    "openpublishing\\test\\conceptual\\Image\\ATA_Gateway_Configuration.JPG"
+  ],
+  "bb82c0e8ef39951a2f35466d9912fe622fdac06e": [
+    "openpublishing\\test\\conceptual\\Image\\ATA_performance_monitoring_add_counters.png"
+  ],
+  "ce4a21e892357049d70b5ff1aa708547ca715b17": [
+    "openpublishing\\test\\conceptual\\Image\\ATA_VPN_Subnets.JPG"
+  ],
+  "dddd652fb096923a6ac044e9d8c151dc1af2982f": [
+    "openpublishing\\test\\conceptual\\Image\\ATAGWDomainController.png"
+  ],
+  "24519e1e62df780035867ba37ee1ad5c2f49dcba": [
+    "openpublishing\\test\\conceptual\\index.md"
+  ],
+  "5a119a35f42c98afcd101d98424cf5da08a81ed4": [
+    "openpublishing\\test\\conceptual\\large.md"
+  ],
+  "5e7fffb2ce1a7a2840d88d84054d08e191a21926": [
+    "openpublishing\\test\\conceptual\\small.md"
+  ],
+  "15272571296910ce6ac4a87ab6406f0f9c22f246": [
+    "openpublishing\\test\\conceptual\\ui-components.md"
+  ],
+  "887febf591b5b91a952a863e8d17e71316b8932b": [
+    "openpublishing\\test\\hubpage\\Image\\azure_active_directory_icon.png"
+  ],
+  "e095fb4702c92b961abdb5889f6fa915b53089f3": [
+    "openpublishing\\test\\hubpage\\Image\\conditional access_exchange_icon.png"
+  ],
+  "4801d4b24f8c66abc1da68e075962c5cc820f930": [
+    "openpublishing\\test\\hubpage\\Image\\intune_byod_icon.png"
+  ],
+  "0f669e5642999152c9bdeb33b2306a43714cab79": [
+    "openpublishing\\test\\hubpage\\Image\\mobile_devices_icon.png"
+  ],
+  "b241a9a18fa3ab470534603d032fa7cf8ff0f066": [
+    "openpublishing\\test\\hubpage\\Image\\mobile_engagement_icon.png"
+  ],
+  "ebe91f1a883e96a88e6989616c9b07075e21415b": [
+    "openpublishing\\test\\hubpage\\index.md"
+  ],
+  "6436ab21767365976e2832b78b28a1062cd88c61": [
+    "openpublishing\\test\\index.md"
+  ],
+  "ab461ee969842b116ae71917bf13aad8c7d46419": [
+    "openpublishing\\test\\redirectUrl\\AbsoluteUrl.md"
+  ],
+  "af6e564603baf4fa350a6d32012c63533929f99d": [
+    "openpublishing\\test\\redirectUrl\\AbsoluteUrlWithAAD.md"
+  ],
+  "97f9643630550d318d05bd40c92984aad0e15fa6": [
+    "openpublishing\\test\\redirectUrl\\EmptyRelativeUrl.md"
+  ],
+  "df5c21d1b72e838c1ed9ab90b99fe6e517f7ce57": [
+    "openpublishing\\test\\redirectUrl\\index.md"
+  ],
+  "e1eecfa4a15569dcecca777198c4b842a601e997": [
+    "openpublishing\\test\\redirectUrl\\InvalidAbsoluteUrl.md"
+  ],
+  "f2c19bcda85343af7181484d46f5210bf6397e08": [
+    "openpublishing\\test\\redirectUrl\\InvalidRelativeUrl.md"
+  ],
+  "c8ce93c1a5249718623cd7cf68522458c16e411a": [
+    "openpublishing\\test\\redirectUrl\\RelativePage.md"
+  ],
+  "21ca3df676528bfd38463315cb4e1a2e0b7bfe27": [
+    "openpublishing\\test\\redirectUrl\\RelativeUrl.md"
+  ],
+  "6d2b50160b03e5b84aee01a3fa576535fc3ef20f": [
+    "openpublishing\\test\\reference\\index.md"
+  ],
+  "5398f70026456d9b70f53be51f27ec7c22c6b6a7": [
+    "openpublishing\\test\\restapi\\contacts-operations.md"
+  ],
+  "cea5a5636c53dc5c1a796db957bdfa7617ec83c2": [
+    "openpublishing\\test\\restapi\\entity-and-complex-type-reference.md"
+  ],
+  "6634f738b8d60ff203729eb957fa36f369492f47": [
+    "openpublishing\\test\\restapi\\index.md"
+  ],
+  "fdcba3f1cbf4d2f58308142276d5a8932ab0cd5f": [
+    "openpublishing\\test\\restapi\\TOC.md"
+  ],
+  "e54182fbd4c0b791c2f7251c7614b8b5afdbe032": [
+    "openpublishing\\test\\TOC.md"
+  ]
+}
