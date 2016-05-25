@@ -1,0 +1,34 @@
+{
+  "build": {
+    "content":
+      [
+        {
+          "files": [
+            "**/**.md",
+            "**/*.yml"
+          ],
+          "exclude": [
+            "**/obj/**",
+            "_themes/**"
+          ]
+        }
+      ],
+    "resource": [
+        {
+          "files": ["**/**.bmp", "**/**.gif", "**/**.ico", "**/**.jpg", "**/**.jpeg", "**/**.png","breadcrumb.json"],
+          "exclude": [
+            "**/obj/**",
+            "_themes/**"
+          ]
+        }
+    ],
+    "globalMetadata": {
+        "ROBOTS": "NOINDEX, NOFOLLOW",
+        "breadcrumb_path": "/openpublishing/test/breadcrumb.json"
+    },
+    "externalReference": [
+    ],
+    "template": "op.html",
+    "dest": "openpublishing/test"
+  }
+}
