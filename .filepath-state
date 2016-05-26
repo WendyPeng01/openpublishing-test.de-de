@@ -143,6 +143,9 @@
   "fdcba3f1cbf4d2f58308142276d5a8932ab0cd5f": [
     "openpublishing\\test\\restapi\\TOC.md"
   ],
+  "0f6e3655a6831c181e3c4d920e4e2a418a4f1db7": [
+    "openpublishing\\test\\TOC.md"
+  ],
   "e54182fbd4c0b791c2f7251c7614b8b5afdbe032": [
     "openpublishing\\test\\TOC.md"
   ],
@@ -152,7 +155,13 @@
   "807e1fd2ee56ea6d3cb6175a427b44b471458652": [
     "openpublishing\\test\\abtesting\\UM-Prerequisite.png"
   ],
+  "13055e694da2baccb9129b79593b328fa4f82c4b": [
+    "openpublishing\\test\\abtesting\\users-manual-content.md"
+  ],
   "8428865b986c25045585c67477975957a055cd8d": [
     "openpublishing\\test\\abtesting\\users-manual-content.md"
+  ],
+  "683891ac1ac0ad3ef4a7076b18279b98c77a3f3f": [
+    "openpublishing\\test\\abtesting\\UM-Cleanup-Content-Experiment.png"
   ]
 }
