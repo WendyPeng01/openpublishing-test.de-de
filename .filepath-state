@@ -143,6 +143,9 @@
   "807e1fd2ee56ea6d3cb6175a427b44b471458652": [
     "openpublishing\\test\\abtesting\\UM-Prerequisite.png"
   ],
+  "f196738630f6c27d759091340c0cf0bc61cb44bd": [
+    "openpublishing\\test\\abtesting\\users-manual-content.md"
+  ],
   "2a7b976f1feb12a9d41d2a4c86bbbc7e3483436a": [
     "openpublishing\\test\\abtesting\\users-manual-content.md"
   ],
@@ -158,14 +161,26 @@
   "683891ac1ac0ad3ef4a7076b18279b98c77a3f3f": [
     "openpublishing\\test\\abtesting\\UM-Cleanup-Content-Experiment.png"
   ],
+  "d8f60d16a863b25a5f10a18bc44a0c76614d4bd9": [
+    "openpublishing\\test\\abtesting\\UM-AB-Portal-Experiment-New.png"
+  ],
   "0944ca47792ca28872d79785b4ad482afc815db4": [
     "openpublishing\\test\\abtesting\\UM-AB-Portal-Experiment-New.png"
+  ],
+  "ed6e256aa0a4afebf3aa254f4b8555ed3aa96e73": [
+    "openpublishing\\test\\abtesting\\UM-AB-Portal-Experiments.png"
   ],
   "d0e283fc21dfe6cc56e2a7bf4d6d9f21721aa7bb": [
     "openpublishing\\test\\abtesting\\UM-AB-Portal-Experiments.png"
   ],
+  "7a5f1d3027f5c404b1d0b5f7e5a13859c98f7144": [
+    "openpublishing\\test\\abtesting\\UM-AB-Portal-Experiments-Action.png"
+  ],
   "5d3a37f233086af48eb656aee4089fc4cdb7b3ad": [
     "openpublishing\\test\\abtesting\\UM-AB-Portal-Experiments-Action.png"
+  ],
+  "fdefdf4e0c5a990e26aa3bfa0feb5e9b770eed1e": [
+    "openpublishing\\test\\abtesting\\UM-AB-Portal-Metrics.png"
   ],
   "ba8236c916168ef664ec671a88984d6522fdf900": [
     "openpublishing\\test\\abtesting\\UM-AB-Portal-Metrics.png"
@@ -173,10 +188,19 @@
   "3ef8bdc8c711e0d812939e0839510959e135cbf2": [
     "openpublishing\\test\\abtesting\\UM-AB-Portal-Metrics-Config.png"
   ],
+  "2e32dcb5e35020dafe50b8524c2faa1f98987d27": [
+    "openpublishing\\test\\abtesting\\UM-AB-Portal-Metrics-Result.png"
+  ],
   "a243078245ec47332f79cdd572df6526d2f632a6": [
     "openpublishing\\test\\abtesting\\UM-AB-Portal-Metrics-Result.png"
   ],
   "6b9ff10a197ad5bb1849ccd5eba49a57e7dd20a0": [
     "openpublishing\\test\\abtesting\\UM-OP-Portal.png"
+  ],
+  "b08419de5c61576d8cba079b263d09c14176abf1": [
+    "openpublishing\\test\\abtesting\\UM-AB-Portal-Metric-Report-Config.png"
+  ],
+  "e0a2cfb0f44f0ca1730d147d6ce0c7bbf12677c8": [
+    "openpublishing\\test\\abtesting\\UM-AB-Portal-Metric-Report-Result.png"
   ]
 }
