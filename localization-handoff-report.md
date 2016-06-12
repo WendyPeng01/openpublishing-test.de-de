@@ -6,14 +6,14 @@
 ## File List
  Source File | Status | Details 
  ----------- | ------ | ------- 
- [openpublishing\test\abtesting\users-manual-content.md](https://github.com/Microsoft/openpublishing-test/blob/ad6a6d0f9dc96ad696e90d979218ddb8e3948701/openpublishing/test/abtesting/users-manual-content.md) | HandedOffSuccess | [Details](#2cdb5c92caebd59d5007332ac7aa16f1b47214a933)
+ [openpublishing\test\abtesting\users-manual-content.md](https://github.com/Microsoft/openpublishing-test/blob/4b78579ec6c4e88c5d935a3cdc9207b05b5a5971/openpublishing/test/abtesting/users-manual-content.md) | HandedOffSuccess | [Details](#1050785fa7ac4058c5936f306a78577222ed31b533)
 
 ## Item Details
-##### <a name='2cdb5c92caebd59d5007332ac7aa16f1b47214a933'></a> Source: [openpublishing\test\abtesting\users-manual-content.md](https://github.com/Microsoft/openpublishing-test/blob/ad6a6d0f9dc96ad696e90d979218ddb8e3948701/openpublishing/test/abtesting/users-manual-content.md)
+##### <a name='1050785fa7ac4058c5936f306a78577222ed31b533'></a> Source: [openpublishing\test\abtesting\users-manual-content.md](https://github.com/Microsoft/openpublishing-test/blob/4b78579ec6c4e88c5d935a3cdc9207b05b5a5971/openpublishing/test/abtesting/users-manual-content.md)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [users-manual-content.b4aebd733aa89fe887cf8b8aa2ee374538ab72b8.de-de.xlf](https://github.com/openpublish/openpublishing-handoff-test/blob/5fb7bfe49babf328e1c828574dbff23478b7aea4/ol-handoff/openpublish/openpublishing-test.de-de/master/users-manual-content.b4aebd733aa89fe887cf8b8aa2ee374538ab72b8.de-de.xlf)
-* Handoff Datetime: 2016-06-12 04:32:27
+* Handoff File: [users-manual-content.b4aebd733aa89fe887cf8b8aa2ee374538ab72b8.de-de.xlf](https://github.com/openpublish/openpublishing-handoff-test/blob/8ec2e5f5e60d95ab8c2065ff5f81d91f45c9fe50/ol-handoff/openpublish/openpublishing-test.de-de/master/users-manual-content.b4aebd733aa89fe887cf8b8aa2ee374538ab72b8.de-de.xlf)
+* Handoff Datetime: 2016-06-12 05:59:57
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
