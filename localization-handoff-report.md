@@ -1,26 +1,11 @@
 # <a name='report-top'></a> Localization Handoff Report
 
 ## Summary
- Total Files | 1
+ Total Files | 0
 
 ## File List
- Source File | Status | Details 
- ----------- | ------ | ------- 
- [openpublishing\test\abtesting\index.md](https://github.com/Microsoft/openpublishing-test/blob/5ac55bf521ef3c7918cbad0f621cbc7891f294bf/openpublishing/test/abtesting/index.md) | HandedOffSuccess | [Details](#ac0e265a62582fd53b04e80de8d32a1e11795cea12)
 
 ## Item Details
-##### <a name='ac0e265a62582fd53b04e80de8d32a1e11795cea12'></a> Source: [openpublishing\test\abtesting\index.md](https://github.com/Microsoft/openpublishing-test/blob/5ac55bf521ef3c7918cbad0f621cbc7891f294bf/openpublishing/test/abtesting/index.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [index.1ccbda7a83b0df0ee5537fdcd6c2395c537bb9e8.de-de.xlf](https://github.com/openpublish/openpublishing-handoff-test/blob/589ae1fd4b0007d4994c47536b0694ae392f5201/ol-handoff/openpublish/openpublishing-test.de-de/master/index.1ccbda7a83b0df0ee5537fdcd6c2395c537bb9e8.de-de.xlf)
-* Handoff Datetime: 2016-06-12 07:00:41
-* Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
 
 ## Error Details
 
