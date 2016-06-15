@@ -217,5 +217,8 @@
   ],
   "dbf24c9c15f3ce94bbf59e75306a47ed63cd04fa": [
     "openpublishing\\test\\f1query\\index.md"
+  ],
+  "5d0a6359bd46c230b8f4c87634ac0001ed383bff": [
+    "openpublishing\\test\\f1query\\F1QueryIntegrationTest-1.md"
   ]
 }
