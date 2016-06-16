@@ -1,5 +1,5 @@
 {
-  "LastProcessedCommit": "19c229e259a165dab9005254223f4089c5600580",
+  "LastProcessedCommit": "36bf09e915408ec5b5e55bad41bd264c0c8019da",
   "LastTranslatedCommit": null,
   "Items": {
     "9f5f9e8e98a690691aa9904ed29a2a010c1bf4e5": {
@@ -2737,6 +2737,40 @@
       "HandoffFilePath": "ol-handoff\\openpublish\\openpublishing-test.de-de\\master\\F1QueryIntegrationTest-1.a955706bea62d947e29b3bc2ef3e7c8d75c7b462.de-de.xlf",
       "HandoffFileCommit": "1c123a42930cb056823bb95a4d51ad54665656ca",
       "HandoffDateTime": "2016-06-15T10:12:11.0832145Z",
+      "HandoffPriority": "",
+      "HandoffException": null,
+      "HandoffFailureTimes": 0,
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "HandbackException": null,
+      "HandbackFailureTimes": 0,
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveException": null,
+      "BilingualFilePath": null,
+      "BilingualFileCommit": null,
+      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualException": null
+    },
+    "45dd1d9b2f9bd7ffd6aacb362cb357d0d759ca08": {
+      "FileHash": "45dd1d9b2f9bd7ffd6aacb362cb357d0d759ca08",
+      "SourceFileCommit": "36bf09e915408ec5b5e55bad41bd264c0c8019da",
+      "SourceFilePath": "openpublishing\\test\\index.md",
+      "HandoffReason": 1,
+      "DependencyFrom": null,
+      "TokenReference": null,
+      "FilePathList": [
+        "openpublishing\\test\\index.md"
+      ],
+      "HasMetadata": false,
+      "HandoffFilePath": "ol-handoff\\openpublish\\openpublishing-test.de-de\\master\\index.9373ed93305bd176b9bcf02dce8ecdcbe15066e1.de-de.xlf",
+      "HandoffFileCommit": "884fa4144809989db05ae021b2d7c53c3cf0c8c9",
+      "HandoffDateTime": "2016-06-16T02:11:40.5676879Z",
       "HandoffPriority": "",
       "HandoffException": null,
       "HandoffFailureTimes": 0,
