@@ -1,23 +1,30 @@
-# Welcome!
+# Willkommen!
 
-## Purpose
-This repo is for open publishing e2e test.
+## Zweck
+Dieses Repository ist für open publishing e2e-Tests.
 
-Feature owners are encouraged to make changes of documents and resources in the repo to test e2e scenarios.
+Besitzer der Funktion werden empfohlen, Ändern von Dokumenten und Ressourcen in das Repository e2e-Szenarien zu testen.
 
-For OPS documentation, please refer to [openpublishing-docs](https://ppe.msdn.microsoft.com/en-us/openpublishing/docs?branch=master).
+OPS-Dokumentation finden Sie unter [Openpublishing Dokumente](https://ppe.msdn.microsoft.com/en-us/openpublishing/docs?branch=master).
 
-## Provisioning
-Currently, there is one docset in the repo: [openpublishing-test](openpublishing/test/index.md)
+## Bereitstellung
+Derzeit besteht eine Docset in das Repository: **Openpublishing-Test**
 
-> [!NOTE]
-> The docset is provisioned for both MSDN and Docs.
-> + [Link to MSDN published page](https://ppe.msdn.microsoft.com/en-us/openpublishing/test?branch=master)
-> + [Link to Docs](https://docspilot.azurewebsites.net/en-us/openpublishing/test/index?branch=master)
-> + [Link to Docs (Stage)](https://stage.docs.microsoft.com/en-us/openpublishing/test/index?branch=master)
-> + [Link to Docs (Prod)](https://docs.microsoft.com/en-us/openpublishing/test/index?branch=master)
+> [!NOTE] Die Docset ist für MSDN und Dokumente bereitgestellt.
+> + [Link zu den Dokumenten (Int)](https://docspilot.azurewebsites.net/en-us/openpublishing/test/index?branch=master)
+> + [Link zu den Dokumenten (Staging)](https://stage.docs.microsoft.com/en-us/openpublishing/test/index?branch=master)
+> + [Link zu den Dokumenten (Prod)](https://docs.microsoft.com/en-us/openpublishing/test/index?branch=master)
+> + [Link zu MSDN dynamisches Rendering-Stapel](https://ppe.msdn.microsoft.com/en-us/openpublishing/test?branch=master)
+> + [Link zu MSDN statische renderingstapel (Int)](https://opsmsdnint.azurewebsites.net/en-us/openpublishing/test/index?branch=master)
+> + [Verknüpfen Sie mit TechNet dynamisches Rendering-Stapel](https://ppe.technet.microsoft.com/en-us/openpublishing/test-tn/index?branch=master)
+> + [Verknüpfen Sie mit statischen renderingstapel TechNet](https://opstechnetint.azurewebsites.net/en-us/openpublishing/test-tn/index?branch=master)
 
-## How to contribute
-By default, members of [Microsoft/vsc-eng-team](https://github.com/orgs/Microsoft/teams/vsc-eng-team) team have write permission to the repo. Please contact the owner of the team if you'd like to contribute.
+## Wie Sie beitragen können
+Standardmäßig werden Mitglieder [Microsoft/Vsc-Eng-Team](https://github.com/orgs/Microsoft/teams/vsc-eng-team) Team haben Schreibberechtigungen für das Repository. Wenden Sie sich an den Besitzer des Teams, wenn beitragen sollen.
 
-You are encourage to modify the contents in your own branch, please create a branch named after your alias - DO NOT modify others' branches! 
+Es wird empfohlen, den Inhalt in Ihrer eigenen Verzweigung ändern, erstellen Sie eine Verzweigung mit dem Namen nach Ihren Alias - andere Verzweigungen nicht ändern. 
+
+
+<!--HONumber=May16_HO4-->
+
+
