@@ -1,5 +1,5 @@
 {
-  "LastProcessedCommit": "2b74048b8a326579303fa1d80818973db48c0740",
+  "LastProcessedCommit": "825da588c9d653fd79da108e6f04108751fa3214",
   "LastTranslatedCommit": "bc8995617c53cb85b3155daeebc3bbfd605971ca",
   "Items": {
     "9f5f9e8e98a690691aa9904ed29a2a010c1bf4e5": {
@@ -3247,6 +3247,78 @@
       "HandoffFilePath": "ol-handoff\\openpublish\\openpublishing-test.de-de\\master\\users-manual-content.b4aebd733aa89fe887cf8b8aa2ee374538ab72b8.de-de.xlf",
       "HandoffFileCommit": "b1394693b1d8f88c7d7cdbb8f6c0c4854f08611d",
       "HandoffDateTime": "2016-06-24T01:44:56.2115364Z",
+      "HandoffPriority": "",
+      "HandoffException": null,
+      "HandoffFailureTimes": 0,
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "HandbackException": null,
+      "HandbackFailureTimes": 0,
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveException": null,
+      "BilingualFilePath": null,
+      "BilingualFileCommit": null,
+      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualException": null
+    },
+    "e030b7bde60b0c2ad522034e0e2fb0f36c6a74b7": {
+      "FileHash": "e030b7bde60b0c2ad522034e0e2fb0f36c6a74b7",
+      "SourceFileCommit": "825da588c9d653fd79da108e6f04108751fa3214",
+      "SourceFilePath": "openpublishing\\test\\conceptual\\large.md",
+      "HandoffReason": 1,
+      "DependencyFrom": null,
+      "TokenReference": [
+        "openpublishing\\test\\token\\ATA.md"
+      ],
+      "FilePathList": [
+        "openpublishing\\test\\conceptual\\large.md"
+      ],
+      "HasMetadata": true,
+      "HandoffFilePath": "ol-handoff\\openpublish\\openpublishing-test.de-de\\master\\large.1ada80b65df96198694194b2dad9063e0b0ff35a.de-de.xlf",
+      "HandoffFileCommit": "d095ae6fed38b8f793baabd921e3c9dc7413bbfc",
+      "HandoffDateTime": "2016-06-24T06:40:32.2037728Z",
+      "HandoffPriority": "",
+      "HandoffException": null,
+      "HandoffFailureTimes": 0,
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "HandbackException": null,
+      "HandbackFailureTimes": 0,
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveException": null,
+      "BilingualFilePath": null,
+      "BilingualFileCommit": null,
+      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualException": null
+    },
+    "f79d0dafcd03aae651c12dff5732673689e40e12": {
+      "FileHash": "f79d0dafcd03aae651c12dff5732673689e40e12",
+      "SourceFileCommit": "825da588c9d653fd79da108e6f04108751fa3214",
+      "SourceFilePath": "openpublishing\\test\\token\\ATA.md",
+      "HandoffReason": 1,
+      "DependencyFrom": [
+        "openpublishing\\test\\conceptual\\large.md"
+      ],
+      "TokenReference": null,
+      "FilePathList": [
+        "openpublishing\\test\\token\\ATA.md"
+      ],
+      "HasMetadata": false,
+      "HandoffFilePath": "ol-handoff\\openpublish\\openpublishing-test.de-de\\master\\ATA.40006dede7d50654c4c37d1c7b486465a2508909.de-de.xlf",
+      "HandoffFileCommit": "d095ae6fed38b8f793baabd921e3c9dc7413bbfc",
+      "HandoffDateTime": "2016-06-24T06:40:32.2037728Z",
       "HandoffPriority": "",
       "HandoffException": null,
       "HandoffFailureTimes": 0,

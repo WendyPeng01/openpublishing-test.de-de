@@ -1,27 +1,40 @@
 # <a name='report-top'></a> Localization Handoff Report
 
 ## Summary
- Total Files | 1
+ Total Files | 2
 
 ## File List
  Source File | Status | Details 
  ----------- | ------ | ------- 
- [openpublishing\test\abtesting\users-manual-content.md](https://github.com/Microsoft/openpublishing-test/blob/2b74048b8a326579303fa1d80818973db48c0740/openpublishing/test/abtesting/users-manual-content.md) | OutofSyncHandedBackSuccess | [Details](#9787781066568e31adf68f88f7e2df70a6c9d87333)
+ [openpublishing\test\conceptual\large.md](https://github.com/Microsoft/openpublishing-test/blob/825da588c9d653fd79da108e6f04108751fa3214/openpublishing/test/conceptual/large.md) | OutofSyncHandedBackSuccess | [Details](#e030b7bde60b0c2ad522034e0e2fb0f36c6a74b744)
+ [openpublishing\test\token\ATA.md](https://github.com/Microsoft/openpublishing-test/blob/825da588c9d653fd79da108e6f04108751fa3214/openpublishing/test/token/ATA.md) | HandedOffSuccess | [Details](#f79d0dafcd03aae651c12dff5732673689e40e1285)
 
 ## Item Details
-##### <a name='9787781066568e31adf68f88f7e2df70a6c9d87333'></a> Source: [openpublishing\test\abtesting\users-manual-content.md](https://github.com/Microsoft/openpublishing-test/blob/2b74048b8a326579303fa1d80818973db48c0740/openpublishing/test/abtesting/users-manual-content.md)
+##### <a name='e030b7bde60b0c2ad522034e0e2fb0f36c6a74b744'></a> Source: [openpublishing\test\conceptual\large.md](https://github.com/Microsoft/openpublishing-test/blob/825da588c9d653fd79da108e6f04108751fa3214/openpublishing/test/conceptual/large.md)
 * Status: OutofSyncHandedBackSuccess
 * Target File: 
-* Handoff File: [users-manual-content.b4aebd733aa89fe887cf8b8aa2ee374538ab72b8.de-de.xlf](https://github.com/openpublish/openpublishing-handoff-test/blob/b1394693b1d8f88c7d7cdbb8f6c0c4854f08611d/ol-handoff/openpublish/openpublishing-test.de-de/master/users-manual-content.b4aebd733aa89fe887cf8b8aa2ee374538ab72b8.de-de.xlf)
-* Handoff Datetime: 2016-06-24 01:44:56
+* Handoff File: [large.1ada80b65df96198694194b2dad9063e0b0ff35a.de-de.xlf](https://github.com/openpublish/openpublishing-handoff-test/blob/d095ae6fed38b8f793baabd921e3c9dc7413bbfc/ol-handoff/openpublish/openpublishing-test.de-de/master/large.1ada80b65df96198694194b2dad9063e0b0ff35a.de-de.xlf)
+* Handoff Datetime: 2016-06-24 06:40:32
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Current Target File: [openpublishing\test\abtesting\users-manual-content.md](https://github.com/openpublish/openpublishing-test.de-de/blob/bc8995617c53cb85b3155daeebc3bbfd605971ca/openpublishing/test/abtesting/users-manual-content.md)
-* Current Handback File: [users-manual-content.b4aebd733aa89fe887cf8b8aa2ee374538ab72b8.de-de.xlf](https://github.com/openpublish/openpublishing-handback-test/blob/8c0ad9cace8e03e2f010e7aebba768d8040d98c7/ol-handback/openpublish/openpublishing-test.de-de/master/users-manual-content.b4aebd733aa89fe887cf8b8aa2ee374538ab72b8.de-de.xlf)
+* Current Target File: [openpublishing\test\conceptual\large.md](https://github.com/openpublish/openpublishing-test.de-de/blob/bc8995617c53cb85b3155daeebc3bbfd605971ca/openpublishing/test/conceptual/large.md)
+* Current Handback File: [large.1ada80b65df96198694194b2dad9063e0b0ff35a.de-de.xlf](https://github.com/openpublish/openpublishing-handback-test/blob/8c0ad9cace8e03e2f010e7aebba768d8040d98c7/ol-handback/openpublish/openpublishing-test.de-de/master/large.1ada80b65df96198694194b2dad9063e0b0ff35a.de-de.xlf)
 * Current Handback Datetime: 2016-06-21 17:49:24
+* [Back to Top](#report-top)
+
+##### <a name='f79d0dafcd03aae651c12dff5732673689e40e1285'></a> Source: [openpublishing\test\token\ATA.md](https://github.com/Microsoft/openpublishing-test/blob/825da588c9d653fd79da108e6f04108751fa3214/openpublishing/test/token/ATA.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [ATA.40006dede7d50654c4c37d1c7b486465a2508909.de-de.xlf](https://github.com/openpublish/openpublishing-handoff-test/blob/d095ae6fed38b8f793baabd921e3c9dc7413bbfc/ol-handoff/openpublish/openpublishing-test.de-de/master/ATA.40006dede7d50654c4c37d1c7b486465a2508909.de-de.xlf)
+* Handoff Datetime: 2016-06-24 06:40:32
+* Handoff Reason: Include
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
 
