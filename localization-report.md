@@ -49,7 +49,7 @@
  [openpublishing\test\f1query\f1_vblr6.chm50006_csharp_v16_en-us.md](https://github.com/Microsoft/openpublishing-test/blob/4ce87080a8aaf2c0427d84319a9556f166281ee0/openpublishing/test/f1query/f1_vblr6.chm50006_csharp_v16_en-us.md) | HandedOffSuccess | [Details](#f6e4b1aa5612ab50211246040b337b15736c054f52)
  [openpublishing\test\f1query\index.md](https://github.com/Microsoft/openpublishing-test/blob/4ce87080a8aaf2c0427d84319a9556f166281ee0/openpublishing/test/f1query/index.md) | HandedOffSuccess | [Details](#0512e5c2586e65b1cfc062acab18a2e0593b2f8353)
  [openpublishing\test\hubpage\Image\azure_active_directory_icon.png](https://github.com/Microsoft/openpublishing-test/blob/1ce7be7cf87b268e8d20213ec38cfeb4fcf0cd85/openpublishing/test/hubpage/Image/azure_active_directory_icon.png) | HandedOffSuccess | [Details](#887febf591b5b91a952a863e8d17e71316b8932b54)
- [openpublishing\test\hubpage\Image\conditional access_exchange_icon.png](https://github.com/Microsoft/openpublishing-test/blob/1ce7be7cf87b268e8d20213ec38cfeb4fcf0cd85/openpublishing/test/hubpage/Image/conditional access_exchange_icon.png) | HandedOffSuccess | [Details](#e095fb4702c92b961abdb5889f6fa915b53089f355)
+ [openpublishing\test\hubpage\Image\conditional access_exchange_icon.png](https://github.com/Microsoft/openpublishing-test/blob/1ce7be7cf87b268e8d20213ec38cfeb4fcf0cd85/openpublishing/test/hubpage/Image/conditional%20access_exchange_icon.png) | HandedOffSuccess | [Details](#e095fb4702c92b961abdb5889f6fa915b53089f355)
  [openpublishing\test\hubpage\Image\intune_byod_icon.png](https://github.com/Microsoft/openpublishing-test/blob/1ce7be7cf87b268e8d20213ec38cfeb4fcf0cd85/openpublishing/test/hubpage/Image/intune_byod_icon.png) | HandedOffSuccess | [Details](#4801d4b24f8c66abc1da68e075962c5cc820f93056)
  [openpublishing\test\hubpage\Image\mobile_devices_icon.png](https://github.com/Microsoft/openpublishing-test/blob/1ce7be7cf87b268e8d20213ec38cfeb4fcf0cd85/openpublishing/test/hubpage/Image/mobile_devices_icon.png) | HandedOffSuccess | [Details](#0f669e5642999152c9bdeb33b2306a43714cab7957)
  [openpublishing\test\hubpage\Image\mobile_engagement_icon.png](https://github.com/Microsoft/openpublishing-test/blob/1ce7be7cf87b268e8d20213ec38cfeb4fcf0cd85/openpublishing/test/hubpage/Image/mobile_engagement_icon.png) | HandedOffSuccess | [Details](#b241a9a18fa3ab470534603d032fa7cf8ff0f06658)
@@ -819,7 +819,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='e095fb4702c92b961abdb5889f6fa915b53089f355'></a> Source: [openpublishing\test\hubpage\Image\conditional access_exchange_icon.png](https://github.com/Microsoft/openpublishing-test/blob/1ce7be7cf87b268e8d20213ec38cfeb4fcf0cd85/openpublishing/test/hubpage/Image/conditional access_exchange_icon.png)
+##### <a name='e095fb4702c92b961abdb5889f6fa915b53089f355'></a> Source: [openpublishing\test\hubpage\Image\conditional access_exchange_icon.png](https://github.com/Microsoft/openpublishing-test/blob/1ce7be7cf87b268e8d20213ec38cfeb4fcf0cd85/openpublishing/test/hubpage/Image/conditional%20access_exchange_icon.png)
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [e095fb4702c92b961abdb5889f6fa915b53089f3.png](https://github.com/openpublish/openpublishing-handoff-test/blob/7308cbcef21576dcf45baee25b65aadd5b16f7d5/ol-handoff/openpublish/openpublishing-test.de-de/master/e095fb4702c92b961abdb5889f6fa915b53089f3.png)

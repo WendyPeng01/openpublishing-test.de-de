@@ -15,6 +15,7 @@
         "openpublishing\\test\\abtesting\\content-ab-testing-flow.png"
       ],
       "HasMetadata": false,
+      "TranslationType": 0,
       "HandoffFilePath": "ol-handoff\\openpublish\\openpublishing-test.de-de\\master\\9f5f9e8e98a690691aa9904ed29a2a010c1bf4e5.png",
       "HandoffFileCommit": "7308cbcef21576dcf45baee25b65aadd5b16f7d5",
       "HandoffDateTime": "2016-05-25T07:50:33.9767495Z",
@@ -49,6 +50,7 @@
         "openpublishing\\test\\abtesting\\control-panel.md"
       ],
       "HasMetadata": false,
+      "TranslationType": 0,
       "HandoffFilePath": "ol-handoff\\openpublish\\openpublishing-test.de-de\\master\\control-panel.611c914fc083e64635d4fcb7c78760cde4272425.de-de.xlf",
       "HandoffFileCommit": "7308cbcef21576dcf45baee25b65aadd5b16f7d5",
       "HandoffDateTime": "2016-05-25T07:50:33.9767495Z",
@@ -85,6 +87,7 @@
         "openpublishing\\test\\abtesting\\global-ab-testing-flow.png"
       ],
       "HasMetadata": false,
+      "TranslationType": 0,
       "HandoffFilePath": "ol-handoff\\openpublish\\openpublishing-test.de-de\\master\\b73b8ccd489b2326f1b0c47d30be910c5c4788a7.png",
       "HandoffFileCommit": "7308cbcef21576dcf45baee25b65aadd5b16f7d5",
       "HandoffDateTime": "2016-05-25T07:50:33.9767495Z",
@@ -121,6 +124,7 @@
         "openpublishing\\test\\abtesting\\iceberg.experimental.jpg"
       ],
       "HasMetadata": false,
+      "TranslationType": 0,
       "HandoffFilePath": "ol-handoff\\openpublish\\openpublishing-test.de-de\\master\\532748fbca6599349f0655e85e79d2103156bd9b.jpg",
       "HandoffFileCommit": "7308cbcef21576dcf45baee25b65aadd5b16f7d5",
       "HandoffDateTime": "2016-05-25T07:50:33.9767495Z",
@@ -158,6 +162,7 @@
         "openpublishing\\test\\abtesting\\iceberg.jpg"
       ],
       "HasMetadata": false,
+      "TranslationType": 0,
       "HandoffFilePath": "ol-handoff\\openpublish\\openpublishing-test.de-de\\master\\7c634bd01edf790ef91ded6d44abee709be27adc.jpg",
       "HandoffFileCommit": "7308cbcef21576dcf45baee25b65aadd5b16f7d5",
       "HandoffDateTime": "2016-05-25T07:50:33.9767495Z",
@@ -192,6 +197,7 @@
         "openpublishing\\test\\abtesting\\index.md"
       ],
       "HasMetadata": false,
+      "TranslationType": 0,
       "HandoffFilePath": "ol-handoff\\openpublish\\openpublishing-test.de-de\\master\\index.1ccbda7a83b0df0ee5537fdcd6c2395c537bb9e8.de-de.xlf",
       "HandoffFileCommit": "7308cbcef21576dcf45baee25b65aadd5b16f7d5",
       "HandoffDateTime": "2016-05-25T07:50:33.9767495Z",
@@ -226,6 +232,7 @@
         "openpublishing\\test\\abtesting\\multiple-topics-bar.experimental.md"
       ],
       "HasMetadata": true,
+      "TranslationType": 0,
       "HandoffFilePath": "ol-handoff\\openpublish\\openpublishing-test.de-de\\master\\multiple-topics-bar.experimental.9bbc3fdd6b4faf3f3f17c583f2e2c5aa7ca6d14d.de-de.xlf",
       "HandoffFileCommit": "7308cbcef21576dcf45baee25b65aadd5b16f7d5",
       "HandoffDateTime": "2016-05-25T07:50:33.9767495Z",
@@ -260,6 +267,7 @@
         "openpublishing\\test\\abtesting\\multiple-topics-bar.md"
       ],
       "HasMetadata": true,
+      "TranslationType": 0,
       "HandoffFilePath": "ol-handoff\\openpublish\\openpublishing-test.de-de\\master\\multiple-topics-bar.b2dc6798d40a4351c453299ae8b2cc8c6ae4ab4e.de-de.xlf",
       "HandoffFileCommit": "7308cbcef21576dcf45baee25b65aadd5b16f7d5",
       "HandoffDateTime": "2016-05-25T07:50:33.9767495Z",
@@ -294,6 +302,7 @@
         "openpublishing\\test\\abtesting\\multiple-topics-baz.experimental.md"
       ],
       "HasMetadata": true,
+      "TranslationType": 0,
       "HandoffFilePath": "ol-handoff\\openpublish\\openpublishing-test.de-de\\master\\multiple-topics-baz.experimental.9695f25e3786c84666a85d797741bca363b79f24.de-de.xlf",
       "HandoffFileCommit": "7308cbcef21576dcf45baee25b65aadd5b16f7d5",
       "HandoffDateTime": "2016-05-25T07:50:33.9767495Z",
@@ -328,6 +337,7 @@
         "openpublishing\\test\\abtesting\\multiple-topics-baz.md"
       ],
       "HasMetadata": true,
+      "TranslationType": 0,
       "HandoffFilePath": "ol-handoff\\openpublish\\openpublishing-test.de-de\\master\\multiple-topics-baz.96866be8084a8e2c2e6f42872b6cc406d216d6e2.de-de.xlf",
       "HandoffFileCommit": "7308cbcef21576dcf45baee25b65aadd5b16f7d5",
       "HandoffDateTime": "2016-05-25T07:50:33.9767495Z",
@@ -362,6 +372,7 @@
         "openpublishing\\test\\abtesting\\multiple-topics-foo.experimental.md"
       ],
       "HasMetadata": true,
+      "TranslationType": 0,
       "HandoffFilePath": "ol-handoff\\openpublish\\openpublishing-test.de-de\\master\\multiple-topics-foo.experimental.ec8f896807eb094f82861165b0cd0792b541ed98.de-de.xlf",
       "HandoffFileCommit": "7308cbcef21576dcf45baee25b65aadd5b16f7d5",
       "HandoffDateTime": "2016-05-25T07:50:33.9767495Z",
@@ -396,6 +407,7 @@
         "openpublishing\\test\\abtesting\\multiple-topics-foo.md"
       ],
       "HasMetadata": true,
+      "TranslationType": 0,
       "HandoffFilePath": "ol-handoff\\openpublish\\openpublishing-test.de-de\\master\\multiple-topics-foo.41e9841836ab4fd24846285274846c979199e46a.de-de.xlf",
       "HandoffFileCommit": "7308cbcef21576dcf45baee25b65aadd5b16f7d5",
       "HandoffDateTime": "2016-05-25T07:50:33.9767495Z",
@@ -430,6 +442,7 @@
         "openpublishing\\test\\abtesting\\single-topic.experimental.md"
       ],
       "HasMetadata": true,
+      "TranslationType": 0,
       "HandoffFilePath": "ol-handoff\\openpublish\\openpublishing-test.de-de\\master\\single-topic.experimental.8b4e516cbf2629e5a9f5320bb921ecc585dc68fd.de-de.xlf",
       "HandoffFileCommit": "7308cbcef21576dcf45baee25b65aadd5b16f7d5",
       "HandoffDateTime": "2016-05-25T07:50:33.9767495Z",
@@ -464,6 +477,7 @@
         "openpublishing\\test\\abtesting\\single-topic.md"
       ],
       "HasMetadata": true,
+      "TranslationType": 0,
       "HandoffFilePath": "ol-handoff\\openpublish\\openpublishing-test.de-de\\master\\single-topic.30dfa20aeacb6673b5dea3ff084ef31f9a7819e0.de-de.xlf",
       "HandoffFileCommit": "7308cbcef21576dcf45baee25b65aadd5b16f7d5",
       "HandoffDateTime": "2016-05-25T07:50:33.9767495Z",
@@ -500,6 +514,7 @@
         "openpublishing\\test\\conceptual\\Image\\ATA_Center_Configuration.JPG"
       ],
       "HasMetadata": false,
+      "TranslationType": 0,
       "HandoffFilePath": "ol-handoff\\openpublish\\openpublishing-test.de-de\\master\\377436ada10ce7d4412b6b256396ea85ad93c5af.JPG",
       "HandoffFileCommit": "7308cbcef21576dcf45baee25b65aadd5b16f7d5",
       "HandoffDateTime": "2016-05-25T07:50:33.9767495Z",
@@ -536,6 +551,7 @@
         "openpublishing\\test\\conceptual\\Image\\ATA_Config_GW_Settings.jpg"
       ],
       "HasMetadata": false,
+      "TranslationType": 0,
       "HandoffFilePath": "ol-handoff\\openpublish\\openpublishing-test.de-de\\master\\28b811e014fbf38741d81c7418c6bb70ead5df74.jpg",
       "HandoffFileCommit": "7308cbcef21576dcf45baee25b65aadd5b16f7d5",
       "HandoffDateTime": "2016-05-25T07:50:33.9767495Z",
@@ -572,6 +588,7 @@
         "openpublishing\\test\\conceptual\\Image\\ATA_config_icon.JPG"
       ],
       "HasMetadata": false,
+      "TranslationType": 0,
       "HandoffFilePath": "ol-handoff\\openpublish\\openpublishing-test.de-de\\master\\28bff0237cf9625b464859bd7f3dc309779c7fcb.JPG",
       "HandoffFileCommit": "7308cbcef21576dcf45baee25b65aadd5b16f7d5",
       "HandoffDateTime": "2016-05-25T07:50:33.9767495Z",
@@ -608,6 +625,7 @@
         "openpublishing\\test\\conceptual\\Image\\ATA_Domain_Connectivity_User.JPG"
       ],
       "HasMetadata": false,
+      "TranslationType": 0,
       "HandoffFilePath": "ol-handoff\\openpublish\\openpublishing-test.de-de\\master\\5381c4c0d584f8697c8053ef5c9ee7b1ab576be3.JPG",
       "HandoffFileCommit": "7308cbcef21576dcf45baee25b65aadd5b16f7d5",
       "HandoffDateTime": "2016-05-25T07:50:33.9767495Z",
@@ -644,6 +662,7 @@
         "openpublishing\\test\\conceptual\\Image\\ATA_Gateway_Configuration.JPG"
       ],
       "HasMetadata": false,
+      "TranslationType": 0,
       "HandoffFilePath": "ol-handoff\\openpublish\\openpublishing-test.de-de\\master\\b79a81b193f258cfee46d1a6478d89e46c7eecdc.JPG",
       "HandoffFileCommit": "7308cbcef21576dcf45baee25b65aadd5b16f7d5",
       "HandoffDateTime": "2016-05-25T07:50:33.9767495Z",
@@ -680,6 +699,7 @@
         "openpublishing\\test\\conceptual\\Image\\ATA_performance_monitoring_add_counters.png"
       ],
       "HasMetadata": false,
+      "TranslationType": 0,
       "HandoffFilePath": "ol-handoff\\openpublish\\openpublishing-test.de-de\\master\\bb82c0e8ef39951a2f35466d9912fe622fdac06e.png",
       "HandoffFileCommit": "7308cbcef21576dcf45baee25b65aadd5b16f7d5",
       "HandoffDateTime": "2016-05-25T07:50:33.9767495Z",
@@ -716,6 +736,7 @@
         "openpublishing\\test\\conceptual\\Image\\ATA_VPN_Subnets.JPG"
       ],
       "HasMetadata": false,
+      "TranslationType": 0,
       "HandoffFilePath": "ol-handoff\\openpublish\\openpublishing-test.de-de\\master\\ce4a21e892357049d70b5ff1aa708547ca715b17.JPG",
       "HandoffFileCommit": "7308cbcef21576dcf45baee25b65aadd5b16f7d5",
       "HandoffDateTime": "2016-05-25T07:50:33.9767495Z",
@@ -752,6 +773,7 @@
         "openpublishing\\test\\conceptual\\Image\\ATAGWDomainController.png"
       ],
       "HasMetadata": false,
+      "TranslationType": 0,
       "HandoffFilePath": "ol-handoff\\openpublish\\openpublishing-test.de-de\\master\\dddd652fb096923a6ac044e9d8c151dc1af2982f.png",
       "HandoffFileCommit": "7308cbcef21576dcf45baee25b65aadd5b16f7d5",
       "HandoffDateTime": "2016-05-25T07:50:33.9767495Z",
@@ -786,6 +808,7 @@
         "openpublishing\\test\\conceptual\\index.md"
       ],
       "HasMetadata": false,
+      "TranslationType": 0,
       "HandoffFilePath": "ol-handoff\\openpublish\\openpublishing-test.de-de\\master\\index.c9c0369d0b155b081723894540fda2e788d91baf.de-de.xlf",
       "HandoffFileCommit": "7308cbcef21576dcf45baee25b65aadd5b16f7d5",
       "HandoffDateTime": "2016-05-25T07:50:33.9767495Z",
@@ -820,6 +843,7 @@
         "openpublishing\\test\\conceptual\\large.md"
       ],
       "HasMetadata": true,
+      "TranslationType": 0,
       "HandoffFilePath": "ol-handoff\\openpublish\\openpublishing-test.de-de\\master\\large.1ada80b65df96198694194b2dad9063e0b0ff35a.de-de.xlf",
       "HandoffFileCommit": "7308cbcef21576dcf45baee25b65aadd5b16f7d5",
       "HandoffDateTime": "2016-05-25T07:50:33.9767495Z",
@@ -854,6 +878,7 @@
         "openpublishing\\test\\conceptual\\small.md"
       ],
       "HasMetadata": true,
+      "TranslationType": 0,
       "HandoffFilePath": "ol-handoff\\openpublish\\openpublishing-test.de-de\\master\\small.7784cb202c2cbbbca6538cb14d51a50e91054011.de-de.xlf",
       "HandoffFileCommit": "7308cbcef21576dcf45baee25b65aadd5b16f7d5",
       "HandoffDateTime": "2016-05-25T07:50:33.9767495Z",
@@ -888,6 +913,7 @@
         "openpublishing\\test\\conceptual\\ui-components.md"
       ],
       "HasMetadata": true,
+      "TranslationType": 0,
       "HandoffFilePath": "ol-handoff\\openpublish\\openpublishing-test.de-de\\master\\ui-components.dcec11372e71c4c665652bab5c7d58946b0a5468.de-de.xlf",
       "HandoffFileCommit": "7308cbcef21576dcf45baee25b65aadd5b16f7d5",
       "HandoffDateTime": "2016-05-25T07:50:33.9767495Z",
@@ -924,6 +950,7 @@
         "openpublishing\\test\\hubpage\\Image\\azure_active_directory_icon.png"
       ],
       "HasMetadata": false,
+      "TranslationType": 0,
       "HandoffFilePath": "ol-handoff\\openpublish\\openpublishing-test.de-de\\master\\887febf591b5b91a952a863e8d17e71316b8932b.png",
       "HandoffFileCommit": "7308cbcef21576dcf45baee25b65aadd5b16f7d5",
       "HandoffDateTime": "2016-05-25T07:50:33.9767495Z",
@@ -960,6 +987,7 @@
         "openpublishing\\test\\hubpage\\Image\\conditional access_exchange_icon.png"
       ],
       "HasMetadata": false,
+      "TranslationType": 0,
       "HandoffFilePath": "ol-handoff\\openpublish\\openpublishing-test.de-de\\master\\e095fb4702c92b961abdb5889f6fa915b53089f3.png",
       "HandoffFileCommit": "7308cbcef21576dcf45baee25b65aadd5b16f7d5",
       "HandoffDateTime": "2016-05-25T07:50:33.9767495Z",
@@ -996,6 +1024,7 @@
         "openpublishing\\test\\hubpage\\Image\\intune_byod_icon.png"
       ],
       "HasMetadata": false,
+      "TranslationType": 0,
       "HandoffFilePath": "ol-handoff\\openpublish\\openpublishing-test.de-de\\master\\4801d4b24f8c66abc1da68e075962c5cc820f930.png",
       "HandoffFileCommit": "7308cbcef21576dcf45baee25b65aadd5b16f7d5",
       "HandoffDateTime": "2016-05-25T07:50:33.9767495Z",
@@ -1032,6 +1061,7 @@
         "openpublishing\\test\\hubpage\\Image\\mobile_devices_icon.png"
       ],
       "HasMetadata": false,
+      "TranslationType": 0,
       "HandoffFilePath": "ol-handoff\\openpublish\\openpublishing-test.de-de\\master\\0f669e5642999152c9bdeb33b2306a43714cab79.png",
       "HandoffFileCommit": "7308cbcef21576dcf45baee25b65aadd5b16f7d5",
       "HandoffDateTime": "2016-05-25T07:50:33.9767495Z",
@@ -1068,6 +1098,7 @@
         "openpublishing\\test\\hubpage\\Image\\mobile_engagement_icon.png"
       ],
       "HasMetadata": false,
+      "TranslationType": 0,
       "HandoffFilePath": "ol-handoff\\openpublish\\openpublishing-test.de-de\\master\\b241a9a18fa3ab470534603d032fa7cf8ff0f066.png",
       "HandoffFileCommit": "7308cbcef21576dcf45baee25b65aadd5b16f7d5",
       "HandoffDateTime": "2016-05-25T07:50:33.9767495Z",
@@ -1102,6 +1133,7 @@
         "openpublishing\\test\\hubpage\\index.md"
       ],
       "HasMetadata": true,
+      "TranslationType": 0,
       "HandoffFilePath": "ol-handoff\\openpublish\\openpublishing-test.de-de\\master\\index.e680af2eb257e7b4b907a3e7e3364826a5f7ad25.de-de.xlf",
       "HandoffFileCommit": "7308cbcef21576dcf45baee25b65aadd5b16f7d5",
       "HandoffDateTime": "2016-05-25T07:50:33.9767495Z",
@@ -1136,6 +1168,7 @@
         "openpublishing\\test\\index.md"
       ],
       "HasMetadata": false,
+      "TranslationType": 0,
       "HandoffFilePath": "ol-handoff\\openpublish\\openpublishing-test.de-de\\master\\index.9373ed93305bd176b9bcf02dce8ecdcbe15066e1.de-de.xlf",
       "HandoffFileCommit": "7308cbcef21576dcf45baee25b65aadd5b16f7d5",
       "HandoffDateTime": "2016-05-25T07:50:33.9767495Z",
@@ -1170,6 +1203,7 @@
         "openpublishing\\test\\redirectUrl\\AbsoluteUrl.md"
       ],
       "HasMetadata": true,
+      "TranslationType": 0,
       "HandoffFilePath": "ol-handoff\\openpublish\\openpublishing-test.de-de\\master\\AbsoluteUrl.8b3d944bba6453aba07ab868b257ade0656a3747.de-de.xlf",
       "HandoffFileCommit": "7308cbcef21576dcf45baee25b65aadd5b16f7d5",
       "HandoffDateTime": "2016-05-25T07:50:33.9767495Z",
@@ -1204,6 +1238,7 @@
         "openpublishing\\test\\redirectUrl\\AbsoluteUrlWithAAD.md"
       ],
       "HasMetadata": true,
+      "TranslationType": 0,
       "HandoffFilePath": "ol-handoff\\openpublish\\openpublishing-test.de-de\\master\\AbsoluteUrlWithAAD.3945bfecc85805ad5d2609e4150a510ddf55f536.de-de.xlf",
       "HandoffFileCommit": "7308cbcef21576dcf45baee25b65aadd5b16f7d5",
       "HandoffDateTime": "2016-05-25T07:50:33.9767495Z",
@@ -1238,6 +1273,7 @@
         "openpublishing\\test\\redirectUrl\\EmptyRelativeUrl.md"
       ],
       "HasMetadata": true,
+      "TranslationType": 0,
       "HandoffFilePath": "ol-handoff\\openpublish\\openpublishing-test.de-de\\master\\EmptyRelativeUrl.71865166daff573b6978a9ed4d135ac088a036c8.de-de.xlf",
       "HandoffFileCommit": "7308cbcef21576dcf45baee25b65aadd5b16f7d5",
       "HandoffDateTime": "2016-05-25T07:50:33.9767495Z",
@@ -1272,6 +1308,7 @@
         "openpublishing\\test\\redirectUrl\\index.md"
       ],
       "HasMetadata": true,
+      "TranslationType": 0,
       "HandoffFilePath": "ol-handoff\\openpublish\\openpublishing-test.de-de\\master\\index.d3796100377452b5bedb3e374d6fa97c546002ad.de-de.xlf",
       "HandoffFileCommit": "7308cbcef21576dcf45baee25b65aadd5b16f7d5",
       "HandoffDateTime": "2016-05-25T07:50:33.9767495Z",
@@ -1306,6 +1343,7 @@
         "openpublishing\\test\\redirectUrl\\InvalidAbsoluteUrl.md"
       ],
       "HasMetadata": true,
+      "TranslationType": 0,
       "HandoffFilePath": "ol-handoff\\openpublish\\openpublishing-test.de-de\\master\\InvalidAbsoluteUrl.3d35a91ba19b3d44a9c2a81ae471ad307e04c99e.de-de.xlf",
       "HandoffFileCommit": "7308cbcef21576dcf45baee25b65aadd5b16f7d5",
       "HandoffDateTime": "2016-05-25T07:50:33.9767495Z",
@@ -1340,6 +1378,7 @@
         "openpublishing\\test\\redirectUrl\\InvalidRelativeUrl.md"
       ],
       "HasMetadata": true,
+      "TranslationType": 0,
       "HandoffFilePath": "ol-handoff\\openpublish\\openpublishing-test.de-de\\master\\InvalidRelativeUrl.c80646d86643e3163e939eadf93798e7f6786df1.de-de.xlf",
       "HandoffFileCommit": "7308cbcef21576dcf45baee25b65aadd5b16f7d5",
       "HandoffDateTime": "2016-05-25T07:50:33.9767495Z",
@@ -1374,6 +1413,7 @@
         "openpublishing\\test\\redirectUrl\\RelativePage.md"
       ],
       "HasMetadata": true,
+      "TranslationType": 0,
       "HandoffFilePath": "ol-handoff\\openpublish\\openpublishing-test.de-de\\master\\RelativePage.7174d65c97ce6e8c2cbe8430fa2c92194291e42f.de-de.xlf",
       "HandoffFileCommit": "7308cbcef21576dcf45baee25b65aadd5b16f7d5",
       "HandoffDateTime": "2016-05-25T07:50:33.9767495Z",
@@ -1408,6 +1448,7 @@
         "openpublishing\\test\\redirectUrl\\RelativeUrl.md"
       ],
       "HasMetadata": true,
+      "TranslationType": 0,
       "HandoffFilePath": "ol-handoff\\openpublish\\openpublishing-test.de-de\\master\\RelativeUrl.55b6680466f3af93757bba9640ee05efd816931c.de-de.xlf",
       "HandoffFileCommit": "7308cbcef21576dcf45baee25b65aadd5b16f7d5",
       "HandoffDateTime": "2016-05-25T07:50:33.9767495Z",
@@ -1442,6 +1483,7 @@
         "openpublishing\\test\\reference\\index.md"
       ],
       "HasMetadata": false,
+      "TranslationType": 0,
       "HandoffFilePath": "ol-handoff\\openpublish\\openpublishing-test.de-de\\master\\index.e9474ea5527f26245e807f6aaf427cb25a81f6e1.de-de.xlf",
       "HandoffFileCommit": "7308cbcef21576dcf45baee25b65aadd5b16f7d5",
       "HandoffDateTime": "2016-05-25T07:50:33.9767495Z",
@@ -1476,6 +1518,7 @@
         "openpublishing\\test\\restapi\\contacts-operations.md"
       ],
       "HasMetadata": true,
+      "TranslationType": 0,
       "HandoffFilePath": "ol-handoff\\openpublish\\openpublishing-test.de-de\\master\\contacts-operations.a201e952311565856c026d87189a869cf38f6bc9.de-de.xlf",
       "HandoffFileCommit": "7308cbcef21576dcf45baee25b65aadd5b16f7d5",
       "HandoffDateTime": "2016-05-25T07:50:33.9767495Z",
@@ -1510,6 +1553,7 @@
         "openpublishing\\test\\restapi\\entity-and-complex-type-reference.md"
       ],
       "HasMetadata": true,
+      "TranslationType": 0,
       "HandoffFilePath": "ol-handoff\\openpublish\\openpublishing-test.de-de\\master\\entity-and-complex-type-reference.13ce6f04ba2195bafbf358ad95a6379cf8e662d3.de-de.xlf",
       "HandoffFileCommit": "7308cbcef21576dcf45baee25b65aadd5b16f7d5",
       "HandoffDateTime": "2016-05-25T07:50:33.9767495Z",
@@ -1544,6 +1588,7 @@
         "openpublishing\\test\\restapi\\index.md"
       ],
       "HasMetadata": false,
+      "TranslationType": 0,
       "HandoffFilePath": "ol-handoff\\openpublish\\openpublishing-test.de-de\\master\\index.0e2537923c463f008e00297b3d0c9da0d247c264.de-de.xlf",
       "HandoffFileCommit": "7308cbcef21576dcf45baee25b65aadd5b16f7d5",
       "HandoffDateTime": "2016-05-25T07:50:33.9767495Z",
@@ -1578,6 +1623,7 @@
         "openpublishing\\test\\restapi\\TOC.md"
       ],
       "HasMetadata": false,
+      "TranslationType": 0,
       "HandoffFilePath": "ol-handoff\\openpublish\\openpublishing-test.de-de\\master\\TOC.c470cf695035ba020c763912e8871ba89266b704.de-de.xlf",
       "HandoffFileCommit": "7308cbcef21576dcf45baee25b65aadd5b16f7d5",
       "HandoffDateTime": "2016-05-25T07:50:33.9767495Z",
@@ -1612,6 +1658,7 @@
         "openpublishing\\test\\TOC.md"
       ],
       "HasMetadata": false,
+      "TranslationType": 0,
       "HandoffFilePath": "ol-handoff\\openpublish\\openpublishing-test.de-de\\master\\TOC.aff33f4763a521dfe8256a4d8a4caf592c09b34b.de-de.xlf",
       "HandoffFileCommit": "7308cbcef21576dcf45baee25b65aadd5b16f7d5",
       "HandoffDateTime": "2016-05-25T07:50:33.9767495Z",
@@ -1646,6 +1693,7 @@
         "openpublishing\\test\\index.md"
       ],
       "HasMetadata": false,
+      "TranslationType": 0,
       "HandoffFilePath": "ol-handoff\\openpublish\\openpublishing-test.de-de\\master\\index.9373ed93305bd176b9bcf02dce8ecdcbe15066e1.de-de.xlf",
       "HandoffFileCommit": "e8f244120f28e2714825d59105dd52bde6bf26e8",
       "HandoffDateTime": "2016-05-26T05:24:18.5949313Z",
@@ -1680,6 +1728,7 @@
         "openpublishing\\test\\index.md"
       ],
       "HasMetadata": false,
+      "TranslationType": 0,
       "HandoffFilePath": "ol-handoff\\openpublish\\openpublishing-test.de-de\\master\\index.9373ed93305bd176b9bcf02dce8ecdcbe15066e1.de-de.xlf",
       "HandoffFileCommit": "5ad74a10f8bf3cad38789163bc3cd7dc6533ceed",
       "HandoffDateTime": "2016-05-26T05:54:30.1531179Z",
@@ -1716,6 +1765,7 @@
         "openpublishing\\test\\abtesting\\UM-New-Content-Experiment.png"
       ],
       "HasMetadata": false,
+      "TranslationType": 0,
       "HandoffFilePath": "ol-handoff\\openpublish\\openpublishing-test.de-de\\master\\9880407fcee1bdacd4b99a78656f846b39beb4ce.png",
       "HandoffFileCommit": "123c4acabd9248c9a8f0f143951ed7cb976c81fc",
       "HandoffDateTime": "2016-05-26T09:52:21.1388206Z",
@@ -1752,6 +1802,7 @@
         "openpublishing\\test\\abtesting\\UM-Prerequisite.png"
       ],
       "HasMetadata": false,
+      "TranslationType": 0,
       "HandoffFilePath": "ol-handoff\\openpublish\\openpublishing-test.de-de\\master\\807e1fd2ee56ea6d3cb6175a427b44b471458652.png",
       "HandoffFileCommit": "123c4acabd9248c9a8f0f143951ed7cb976c81fc",
       "HandoffDateTime": "2016-05-26T09:52:21.1388206Z",
@@ -1786,6 +1837,7 @@
         "openpublishing\\test\\abtesting\\users-manual-content.md"
       ],
       "HasMetadata": false,
+      "TranslationType": 0,
       "HandoffFilePath": "ol-handoff\\openpublish\\openpublishing-test.de-de\\master\\users-manual-content.b4aebd733aa89fe887cf8b8aa2ee374538ab72b8.de-de.xlf",
       "HandoffFileCommit": "123c4acabd9248c9a8f0f143951ed7cb976c81fc",
       "HandoffDateTime": "2016-05-26T09:52:21.1388206Z",
@@ -1822,6 +1874,7 @@
         "openpublishing\\test\\abtesting\\UM-Cleanup-Content-Experiment.png"
       ],
       "HasMetadata": false,
+      "TranslationType": 0,
       "HandoffFilePath": "ol-handoff\\openpublish\\openpublishing-test.de-de\\master\\683891ac1ac0ad3ef4a7076b18279b98c77a3f3f.png",
       "HandoffFileCommit": "d54b8c8c5d02434121678c9bc46086e22a3fc9b2",
       "HandoffDateTime": "2016-05-26T14:53:16.9994927Z",
@@ -1856,6 +1909,7 @@
         "openpublishing\\test\\abtesting\\users-manual-content.md"
       ],
       "HasMetadata": false,
+      "TranslationType": 0,
       "HandoffFilePath": "ol-handoff\\openpublish\\openpublishing-test.de-de\\master\\users-manual-content.b4aebd733aa89fe887cf8b8aa2ee374538ab72b8.de-de.xlf",
       "HandoffFileCommit": "d54b8c8c5d02434121678c9bc46086e22a3fc9b2",
       "HandoffDateTime": "2016-05-26T14:53:16.9994927Z",
@@ -1890,6 +1944,7 @@
         "openpublishing\\test\\TOC.md"
       ],
       "HasMetadata": false,
+      "TranslationType": 0,
       "HandoffFilePath": "ol-handoff\\openpublish\\openpublishing-test.de-de\\master\\TOC.aff33f4763a521dfe8256a4d8a4caf592c09b34b.de-de.xlf",
       "HandoffFileCommit": "d54b8c8c5d02434121678c9bc46086e22a3fc9b2",
       "HandoffDateTime": "2016-05-26T14:53:16.9994927Z",
@@ -1924,6 +1979,7 @@
         "openpublishing\\test\\abtesting\\users-manual-content.md"
       ],
       "HasMetadata": false,
+      "TranslationType": 0,
       "HandoffFilePath": "ol-handoff\\openpublish\\openpublishing-test.de-de\\master\\users-manual-content.b4aebd733aa89fe887cf8b8aa2ee374538ab72b8.de-de.xlf",
       "HandoffFileCommit": "b0171c98979eebb420b3e5ea6e1cfada44403e1d",
       "HandoffDateTime": "2016-05-27T07:22:49.5973723Z",
@@ -1960,6 +2016,7 @@
         "openpublishing\\test\\abtesting\\UM-AB-Portal-Experiment-New.png"
       ],
       "HasMetadata": false,
+      "TranslationType": 0,
       "HandoffFilePath": "ol-handoff\\openpublish\\openpublishing-test.de-de\\master\\0944ca47792ca28872d79785b4ad482afc815db4.png",
       "HandoffFileCommit": "60577e3c9c3a6999c0db55adfd2762339b99d4db",
       "HandoffDateTime": "2016-05-27T07:53:03.8962836Z",
@@ -1996,6 +2053,7 @@
         "openpublishing\\test\\abtesting\\UM-AB-Portal-Experiments.png"
       ],
       "HasMetadata": false,
+      "TranslationType": 0,
       "HandoffFilePath": "ol-handoff\\openpublish\\openpublishing-test.de-de\\master\\d0e283fc21dfe6cc56e2a7bf4d6d9f21721aa7bb.png",
       "HandoffFileCommit": "60577e3c9c3a6999c0db55adfd2762339b99d4db",
       "HandoffDateTime": "2016-05-27T07:53:03.8962836Z",
@@ -2032,6 +2090,7 @@
         "openpublishing\\test\\abtesting\\UM-AB-Portal-Experiments-Action.png"
       ],
       "HasMetadata": false,
+      "TranslationType": 0,
       "HandoffFilePath": "ol-handoff\\openpublish\\openpublishing-test.de-de\\master\\5d3a37f233086af48eb656aee4089fc4cdb7b3ad.png",
       "HandoffFileCommit": "60577e3c9c3a6999c0db55adfd2762339b99d4db",
       "HandoffDateTime": "2016-05-27T07:53:03.8962836Z",
@@ -2068,6 +2127,7 @@
         "openpublishing\\test\\abtesting\\UM-AB-Portal-Metrics.png"
       ],
       "HasMetadata": false,
+      "TranslationType": 0,
       "HandoffFilePath": "ol-handoff\\openpublish\\openpublishing-test.de-de\\master\\ba8236c916168ef664ec671a88984d6522fdf900.png",
       "HandoffFileCommit": "60577e3c9c3a6999c0db55adfd2762339b99d4db",
       "HandoffDateTime": "2016-05-27T07:53:03.8962836Z",
@@ -2104,6 +2164,7 @@
         "openpublishing\\test\\abtesting\\UM-AB-Portal-Metrics-Config.png"
       ],
       "HasMetadata": false,
+      "TranslationType": 0,
       "HandoffFilePath": "ol-handoff\\openpublish\\openpublishing-test.de-de\\master\\3ef8bdc8c711e0d812939e0839510959e135cbf2.png",
       "HandoffFileCommit": "60577e3c9c3a6999c0db55adfd2762339b99d4db",
       "HandoffDateTime": "2016-05-27T07:53:03.8962836Z",
@@ -2140,6 +2201,7 @@
         "openpublishing\\test\\abtesting\\UM-AB-Portal-Metrics-Result.png"
       ],
       "HasMetadata": false,
+      "TranslationType": 0,
       "HandoffFilePath": "ol-handoff\\openpublish\\openpublishing-test.de-de\\master\\a243078245ec47332f79cdd572df6526d2f632a6.png",
       "HandoffFileCommit": "60577e3c9c3a6999c0db55adfd2762339b99d4db",
       "HandoffDateTime": "2016-05-27T07:53:03.8962836Z",
@@ -2176,6 +2238,7 @@
         "openpublishing\\test\\abtesting\\UM-OP-Portal.png"
       ],
       "HasMetadata": false,
+      "TranslationType": 0,
       "HandoffFilePath": "ol-handoff\\openpublish\\openpublishing-test.de-de\\master\\6b9ff10a197ad5bb1849ccd5eba49a57e7dd20a0.png",
       "HandoffFileCommit": "60577e3c9c3a6999c0db55adfd2762339b99d4db",
       "HandoffDateTime": "2016-05-27T07:53:03.8962836Z",
@@ -2210,6 +2273,7 @@
         "openpublishing\\test\\abtesting\\users-manual-content.md"
       ],
       "HasMetadata": false,
+      "TranslationType": 0,
       "HandoffFilePath": "ol-handoff\\openpublish\\openpublishing-test.de-de\\master\\users-manual-content.b4aebd733aa89fe887cf8b8aa2ee374538ab72b8.de-de.xlf",
       "HandoffFileCommit": "60577e3c9c3a6999c0db55adfd2762339b99d4db",
       "HandoffDateTime": "2016-05-27T07:53:03.8962836Z",
@@ -2244,6 +2308,7 @@
         "openpublishing\\test\\hubpage\\index.md"
       ],
       "HasMetadata": true,
+      "TranslationType": 0,
       "HandoffFilePath": "ol-handoff\\openpublish\\openpublishing-test.de-de\\master\\index.e680af2eb257e7b4b907a3e7e3364826a5f7ad25.de-de.xlf",
       "HandoffFileCommit": "2a8409195f0c80914b0a5b0ae21f3af44392768f",
       "HandoffDateTime": "2016-05-31T03:09:49.5522703Z",
@@ -2280,6 +2345,7 @@
         "openpublishing\\test\\abtesting\\UM-AB-Portal-Experiment-New.png"
       ],
       "HasMetadata": false,
+      "TranslationType": 0,
       "HandoffFilePath": "ol-handoff\\openpublish\\openpublishing-test.de-de\\master\\d8f60d16a863b25a5f10a18bc44a0c76614d4bd9.png",
       "HandoffFileCommit": "42e3f097c3991e846bf9d8217500c4fe5a736101",
       "HandoffDateTime": "2016-06-12T02:31:46.6364688Z",
@@ -2316,6 +2382,7 @@
         "openpublishing\\test\\abtesting\\UM-AB-Portal-Experiments.png"
       ],
       "HasMetadata": false,
+      "TranslationType": 0,
       "HandoffFilePath": "ol-handoff\\openpublish\\openpublishing-test.de-de\\master\\ed6e256aa0a4afebf3aa254f4b8555ed3aa96e73.png",
       "HandoffFileCommit": "42e3f097c3991e846bf9d8217500c4fe5a736101",
       "HandoffDateTime": "2016-06-12T02:31:46.6364688Z",
@@ -2352,6 +2419,7 @@
         "openpublishing\\test\\abtesting\\UM-AB-Portal-Experiments-Action.png"
       ],
       "HasMetadata": false,
+      "TranslationType": 0,
       "HandoffFilePath": "ol-handoff\\openpublish\\openpublishing-test.de-de\\master\\7a5f1d3027f5c404b1d0b5f7e5a13859c98f7144.png",
       "HandoffFileCommit": "42e3f097c3991e846bf9d8217500c4fe5a736101",
       "HandoffDateTime": "2016-06-12T02:31:46.6364688Z",
@@ -2388,6 +2456,7 @@
         "openpublishing\\test\\abtesting\\UM-AB-Portal-Metric-Report-Config.png"
       ],
       "HasMetadata": false,
+      "TranslationType": 0,
       "HandoffFilePath": "ol-handoff\\openpublish\\openpublishing-test.de-de\\master\\b08419de5c61576d8cba079b263d09c14176abf1.png",
       "HandoffFileCommit": "42e3f097c3991e846bf9d8217500c4fe5a736101",
       "HandoffDateTime": "2016-06-12T02:31:46.6364688Z",
@@ -2424,6 +2493,7 @@
         "openpublishing\\test\\abtesting\\UM-AB-Portal-Metric-Report-Result.png"
       ],
       "HasMetadata": false,
+      "TranslationType": 0,
       "HandoffFilePath": "ol-handoff\\openpublish\\openpublishing-test.de-de\\master\\e0a2cfb0f44f0ca1730d147d6ce0c7bbf12677c8.png",
       "HandoffFileCommit": "42e3f097c3991e846bf9d8217500c4fe5a736101",
       "HandoffDateTime": "2016-06-12T02:31:46.6364688Z",
@@ -2460,6 +2530,7 @@
         "openpublishing\\test\\abtesting\\UM-AB-Portal-Metrics.png"
       ],
       "HasMetadata": false,
+      "TranslationType": 0,
       "HandoffFilePath": "ol-handoff\\openpublish\\openpublishing-test.de-de\\master\\fdefdf4e0c5a990e26aa3bfa0feb5e9b770eed1e.png",
       "HandoffFileCommit": "42e3f097c3991e846bf9d8217500c4fe5a736101",
       "HandoffDateTime": "2016-06-12T02:31:46.6364688Z",
@@ -2496,6 +2567,7 @@
         "openpublishing\\test\\abtesting\\UM-AB-Portal-Metrics-Result.png"
       ],
       "HasMetadata": false,
+      "TranslationType": 0,
       "HandoffFilePath": "ol-handoff\\openpublish\\openpublishing-test.de-de\\master\\2e32dcb5e35020dafe50b8524c2faa1f98987d27.png",
       "HandoffFileCommit": "42e3f097c3991e846bf9d8217500c4fe5a736101",
       "HandoffDateTime": "2016-06-12T02:31:46.6364688Z",
@@ -2530,6 +2602,7 @@
         "openpublishing\\test\\abtesting\\users-manual-content.md"
       ],
       "HasMetadata": false,
+      "TranslationType": 0,
       "HandoffFilePath": "ol-handoff\\openpublish\\openpublishing-test.de-de\\master\\users-manual-content.b4aebd733aa89fe887cf8b8aa2ee374538ab72b8.de-de.xlf",
       "HandoffFileCommit": "42e3f097c3991e846bf9d8217500c4fe5a736101",
       "HandoffDateTime": "2016-06-12T02:31:46.6364688Z",
@@ -2564,6 +2637,7 @@
         "openpublishing\\test\\abtesting\\users-manual-content.md"
       ],
       "HasMetadata": false,
+      "TranslationType": 0,
       "HandoffFilePath": "ol-handoff\\openpublish\\openpublishing-test.de-de\\master\\users-manual-content.b4aebd733aa89fe887cf8b8aa2ee374538ab72b8.de-de.xlf",
       "HandoffFileCommit": "5fb7bfe49babf328e1c828574dbff23478b7aea4",
       "HandoffDateTime": "2016-06-12T04:32:27.7321665Z",
@@ -2598,6 +2672,7 @@
         "openpublishing\\test\\abtesting\\users-manual-content.md"
       ],
       "HasMetadata": false,
+      "TranslationType": 0,
       "HandoffFilePath": "ol-handoff\\openpublish\\openpublishing-test.de-de\\master\\users-manual-content.b4aebd733aa89fe887cf8b8aa2ee374538ab72b8.de-de.xlf",
       "HandoffFileCommit": "8ec2e5f5e60d95ab8c2065ff5f81d91f45c9fe50",
       "HandoffDateTime": "2016-06-12T05:59:57.7968548Z",
@@ -2632,6 +2707,7 @@
         "openpublishing\\test\\abtesting\\users-manual-content.md"
       ],
       "HasMetadata": false,
+      "TranslationType": 0,
       "HandoffFilePath": "ol-handoff\\openpublish\\openpublishing-test.de-de\\master\\users-manual-content.b4aebd733aa89fe887cf8b8aa2ee374538ab72b8.de-de.xlf",
       "HandoffFileCommit": "320ccc356b07be821cb884f3cfe4b48b1b131eb0",
       "HandoffDateTime": "2016-06-12T06:30:26.2320981Z",
@@ -2666,6 +2742,7 @@
         "openpublishing\\test\\abtesting\\index.md"
       ],
       "HasMetadata": false,
+      "TranslationType": 0,
       "HandoffFilePath": "ol-handoff\\openpublish\\openpublishing-test.de-de\\master\\index.1ccbda7a83b0df0ee5537fdcd6c2395c537bb9e8.de-de.xlf",
       "HandoffFileCommit": "589ae1fd4b0007d4994c47536b0694ae392f5201",
       "HandoffDateTime": "2016-06-12T07:00:41.6786149Z",
@@ -2700,6 +2777,7 @@
         "openpublishing\\test\\f1query\\index.md"
       ],
       "HasMetadata": false,
+      "TranslationType": 0,
       "HandoffFilePath": "ol-handoff\\openpublish\\openpublishing-test.de-de\\master\\index.87419c3db469fda983e0d21da78034030aab1efe.de-de.xlf",
       "HandoffFileCommit": "69b1967d01a83693c241cef00d79b8992a4c0f7c",
       "HandoffDateTime": "2016-06-15T05:40:40.0291668Z",
@@ -2734,6 +2812,7 @@
         "openpublishing\\test\\f1query\\F1QueryIntegrationTest-1.md"
       ],
       "HasMetadata": true,
+      "TranslationType": 0,
       "HandoffFilePath": "ol-handoff\\openpublish\\openpublishing-test.de-de\\master\\F1QueryIntegrationTest-1.a955706bea62d947e29b3bc2ef3e7c8d75c7b462.de-de.xlf",
       "HandoffFileCommit": "1c123a42930cb056823bb95a4d51ad54665656ca",
       "HandoffDateTime": "2016-06-15T10:12:11.0832145Z",
@@ -2768,6 +2847,7 @@
         "openpublishing\\test\\index.md"
       ],
       "HasMetadata": false,
+      "TranslationType": 0,
       "HandoffFilePath": "ol-handoff\\openpublish\\openpublishing-test.de-de\\master\\index.9373ed93305bd176b9bcf02dce8ecdcbe15066e1.de-de.xlf",
       "HandoffFileCommit": "884fa4144809989db05ae021b2d7c53c3cf0c8c9",
       "HandoffDateTime": "2016-06-16T02:11:40.5676879Z",
@@ -2802,6 +2882,7 @@
         "openpublishing\\test\\f1query\\F1QueryIntegrationTest-1.md"
       ],
       "HasMetadata": true,
+      "TranslationType": 0,
       "HandoffFilePath": "ol-handoff\\openpublish\\openpublishing-test.de-de\\master\\F1QueryIntegrationTest-1.a955706bea62d947e29b3bc2ef3e7c8d75c7b462.de-de.xlf",
       "HandoffFileCommit": "8c3d25395d31ea86605181c91e118f5fd8492c23",
       "HandoffDateTime": "2016-06-16T03:42:16.641698Z",
@@ -2836,6 +2917,7 @@
         "openpublishing\\test\\f1query\\F1QueryIntegrationTest-2.md"
       ],
       "HasMetadata": true,
+      "TranslationType": 0,
       "HandoffFilePath": "ol-handoff\\openpublish\\openpublishing-test.de-de\\master\\F1QueryIntegrationTest-2.9d5b370291294db723a8f0b82b12f8b3544cc0e6.de-de.xlf",
       "HandoffFileCommit": "19aa0b08ec5675d5ec2b2f1636291aa94e4d9f5d",
       "HandoffDateTime": "2016-06-16T07:16:00.2647966Z",
@@ -2870,6 +2952,7 @@
         "openpublishing\\test\\f1query\\f1_vbaac10.chm10207_csharp_v15_en-us.md"
       ],
       "HasMetadata": true,
+      "TranslationType": 0,
       "HandoffFilePath": "ol-handoff\\openpublish\\openpublishing-test.de-de\\master\\f1_vbaac10.chm10207_csharp_v15_en-us.a994065d0ce241a64475c5b7b7f69169fe6f5d02.de-de.xlf",
       "HandoffFileCommit": "edffedbb3132bfbc9aa34db0f08201b70bab3f92",
       "HandoffDateTime": "2016-06-17T08:45:31.5099491Z",
@@ -2904,6 +2987,7 @@
         "openpublishing\\test\\f1query\\f1_vbaac10.chm10207_csharp_v15_zh-cn.md"
       ],
       "HasMetadata": true,
+      "TranslationType": 0,
       "HandoffFilePath": "ol-handoff\\openpublish\\openpublishing-test.de-de\\master\\f1_vbaac10.chm10207_csharp_v15_zh-cn.d2267c7652080e7412c514a84d2a55fdfc1fff16.de-de.xlf",
       "HandoffFileCommit": "edffedbb3132bfbc9aa34db0f08201b70bab3f92",
       "HandoffDateTime": "2016-06-17T08:45:31.5099491Z",
@@ -2938,6 +3022,7 @@
         "openpublishing\\test\\f1query\\f1_vbaac10.chm10207_csharp_v16_en-us.md"
       ],
       "HasMetadata": true,
+      "TranslationType": 0,
       "HandoffFilePath": "ol-handoff\\openpublish\\openpublishing-test.de-de\\master\\f1_vbaac10.chm10207_csharp_v16_en-us.9370af4a646abd028c946ae6680723bf963e6aa1.de-de.xlf",
       "HandoffFileCommit": "edffedbb3132bfbc9aa34db0f08201b70bab3f92",
       "HandoffDateTime": "2016-06-17T08:45:31.5099491Z",
@@ -2972,6 +3057,7 @@
         "openpublishing\\test\\f1query\\f1_vbaac10.chm10207_fsharp_v15_en-us.md"
       ],
       "HasMetadata": true,
+      "TranslationType": 0,
       "HandoffFilePath": "ol-handoff\\openpublish\\openpublishing-test.de-de\\master\\f1_vbaac10.chm10207_fsharp_v15_en-us.beef7f065c74660858a89d776e328d341ce4cd6c.de-de.xlf",
       "HandoffFileCommit": "edffedbb3132bfbc9aa34db0f08201b70bab3f92",
       "HandoffDateTime": "2016-06-17T08:45:31.5099491Z",
@@ -3006,6 +3092,7 @@
         "openpublishing\\test\\f1query\\f1_vblr6.chm50006_csharp_v16_en-us.md"
       ],
       "HasMetadata": true,
+      "TranslationType": 0,
       "HandoffFilePath": "ol-handoff\\openpublish\\openpublishing-test.de-de\\master\\f1_vblr6.chm50006_csharp_v16_en-us.bd7fd1ba34d2285b39e033d219137fb4e294cdf6.de-de.xlf",
       "HandoffFileCommit": "edffedbb3132bfbc9aa34db0f08201b70bab3f92",
       "HandoffDateTime": "2016-06-17T08:45:31.5099491Z",
@@ -3040,6 +3127,7 @@
         "openpublishing\\test\\f1query\\index.md"
       ],
       "HasMetadata": true,
+      "TranslationType": 0,
       "HandoffFilePath": "ol-handoff\\openpublish\\openpublishing-test.de-de\\master\\index.87419c3db469fda983e0d21da78034030aab1efe.de-de.xlf",
       "HandoffFileCommit": "edffedbb3132bfbc9aa34db0f08201b70bab3f92",
       "HandoffDateTime": "2016-06-17T08:45:31.5099491Z",
@@ -3074,6 +3162,7 @@
         "openpublishing\\test\\f1query\\f1_vbaac10.chm13359_csharp_v15_en-us.md"
       ],
       "HasMetadata": true,
+      "TranslationType": 0,
       "HandoffFilePath": "ol-handoff\\openpublish\\openpublishing-test.de-de\\master\\f1_vbaac10.chm13359_csharp_v15_en-us.4eefe008727d7d7a1d065f485f0863b4b9de93bf.de-de.xlf",
       "HandoffFileCommit": "3f10f854d9d75e8f06268e5cf97b0110dcb28500",
       "HandoffDateTime": "2016-06-20T06:44:42.7509509Z",
@@ -3108,6 +3197,7 @@
         "openpublishing\\test\\f1query\\f1_vbaac10.chm13359_csharp_v15_zh-cn.md"
       ],
       "HasMetadata": true,
+      "TranslationType": 0,
       "HandoffFilePath": "ol-handoff\\openpublish\\openpublishing-test.de-de\\master\\f1_vbaac10.chm13359_csharp_v15_zh-cn.7ea7cab004253bd8af0c4b035ac175906b6da700.de-de.xlf",
       "HandoffFileCommit": "3f10f854d9d75e8f06268e5cf97b0110dcb28500",
       "HandoffDateTime": "2016-06-20T06:44:42.7509509Z",
@@ -3142,6 +3232,7 @@
         "openpublishing\\test\\f1query\\f1_vbaac10.chm13359_csharp_v16_en-us.md"
       ],
       "HasMetadata": true,
+      "TranslationType": 0,
       "HandoffFilePath": "ol-handoff\\openpublish\\openpublishing-test.de-de\\master\\f1_vbaac10.chm13359_csharp_v16_en-us.1840e739c7935892fb8c162bd7ace9adf361e010.de-de.xlf",
       "HandoffFileCommit": "3f10f854d9d75e8f06268e5cf97b0110dcb28500",
       "HandoffDateTime": "2016-06-20T06:44:42.7509509Z",
@@ -3176,6 +3267,7 @@
         "openpublishing\\test\\f1query\\f1_vbaac10.chm13359_fsharp_v15_en-us.md"
       ],
       "HasMetadata": true,
+      "TranslationType": 0,
       "HandoffFilePath": "ol-handoff\\openpublish\\openpublishing-test.de-de\\master\\f1_vbaac10.chm13359_fsharp_v15_en-us.2b94bef7d3ff0aca8cb05e921d1738da98187dd5.de-de.xlf",
       "HandoffFileCommit": "3f10f854d9d75e8f06268e5cf97b0110dcb28500",
       "HandoffDateTime": "2016-06-20T06:44:42.7509509Z",
@@ -3210,6 +3302,7 @@
         "openpublishing\\test\\TOC.md"
       ],
       "HasMetadata": false,
+      "TranslationType": 0,
       "HandoffFilePath": "ol-handoff\\openpublish\\openpublishing-test.de-de\\master\\TOC.aff33f4763a521dfe8256a4d8a4caf592c09b34b.de-de.xlf",
       "HandoffFileCommit": "3f10f854d9d75e8f06268e5cf97b0110dcb28500",
       "HandoffDateTime": "2016-06-20T06:44:42.7509509Z",
@@ -3244,6 +3337,7 @@
         "openpublishing\\test\\abtesting\\users-manual-content.md"
       ],
       "HasMetadata": false,
+      "TranslationType": 0,
       "HandoffFilePath": "ol-handoff\\openpublish\\openpublishing-test.de-de\\master\\users-manual-content.b4aebd733aa89fe887cf8b8aa2ee374538ab72b8.de-de.xlf",
       "HandoffFileCommit": "b1394693b1d8f88c7d7cdbb8f6c0c4854f08611d",
       "HandoffDateTime": "2016-06-24T01:44:56.2115364Z",
@@ -3280,6 +3374,7 @@
         "openpublishing\\test\\conceptual\\large.md"
       ],
       "HasMetadata": true,
+      "TranslationType": 0,
       "HandoffFilePath": "ol-handoff\\openpublish\\openpublishing-test.de-de\\master\\large.1ada80b65df96198694194b2dad9063e0b0ff35a.de-de.xlf",
       "HandoffFileCommit": "d095ae6fed38b8f793baabd921e3c9dc7413bbfc",
       "HandoffDateTime": "2016-06-24T06:40:32.2037728Z",
@@ -3316,6 +3411,7 @@
         "openpublishing\\test\\token\\ATA.md"
       ],
       "HasMetadata": false,
+      "TranslationType": 0,
       "HandoffFilePath": "ol-handoff\\openpublish\\openpublishing-test.de-de\\master\\ATA.40006dede7d50654c4c37d1c7b486465a2508909.de-de.xlf",
       "HandoffFileCommit": "d095ae6fed38b8f793baabd921e3c9dc7413bbfc",
       "HandoffDateTime": "2016-06-24T06:40:32.2037728Z",
