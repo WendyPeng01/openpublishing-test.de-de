@@ -1,6 +1,6 @@
 {
   "LastProcessedCommit": "6bf369aac7979cd878d522cfe6a1df0572a8d726",
-  "LastTranslatedCommit": "301f577cf9c8372d534160e55e57825f9013a5df",
+  "LastTranslatedCommit": "ddcab27ed60279edc152381b7e944a1a1c820245",
   "Items": {
     "9f5f9e8e98a690691aa9904ed29a2a010c1bf4e5": {
       "FileHash": "9f5f9e8e98a690691aa9904ed29a2a010c1bf4e5",
@@ -26,7 +26,7 @@
       "TargetFilePath": null,
       "HandbackFilePath": null,
       "HandbackFileCommit": null,
-      "HandbackDateTime": "2016-06-29T20:45:08.8562846Z",
+      "HandbackDateTime": "2016-06-29T21:15:25.6494097Z",
       "HandbackException": {
         "internal_error_code": "handback_transform_failed",
         "internal_error_message": "Handback file: C:\\ol\\master\\opt.handback\\2be177\\ol-handback\\openpublish\\openpublishing-test.de-de\\master\\9f5f9e8e98a690691aa9904ed29a2a010c1bf4e5.png failed.",
@@ -36,7 +36,7 @@
         "stack_trace": "   at System.Xml.XmlTextReaderImpl.Throw(Exception e)\r\n   at System.Xml.XmlTextReaderImpl.InvalidCharRecovery(Int32& bytesCount, Int32& charsCount)\r\n   at System.Xml.XmlTextReaderImpl.GetChars(Int32 maxCharsCount)\r\n   at System.Xml.XmlTextReaderImpl.ReadData()\r\n   at System.Xml.XmlTextReaderImpl.ParseXmlDeclaration(Boolean isTextDecl)\r\n   at System.Xml.XmlTextReaderImpl.Read()\r\n   at System.Xml.Linq.XDocument.Load(XmlReader reader, LoadOptions options)\r\n   at System.Xml.Linq.XDocument.Load(String uri, LoadOptions options)\r\n   at Microsoft.OpenLocalization.Localization.LocalizationCore.ValidateHandbackFile(TranslationStateItem translationStateItem, String filePath, String handbackPriority, String handoffFilePath) in C:\\Jenkins\\workspace\\OpenLocalization-Prod\\src\\OpenLocalization\\Localization\\HandbackCore.cs:line 205\r\n   at Microsoft.OpenLocalization.Localization.LocalizationCore.<>c__DisplayClass5_0.<GetHandbackFiles>b__0(String file) in C:\\Jenkins\\workspace\\OpenLocalization-Prod\\src\\OpenLocalization\\Localization\\HandbackCore.cs:line 396",
         "extended_information": null
       },
-      "HandbackFailureTimes": 3,
+      "HandbackFailureTimes": 4,
       "UpdatedDateTime": "0001-01-01T00:00:00",
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
