@@ -5,10 +5,10 @@
  -------- | ----- 
  Total Files | 88
 [ Handoff Failed Files ](#handoff-failed-list)| 0
-[ Handoff Success Files ](#handoff-success-list)| 16
+[ Handoff Success Files ](#handoff-success-list)| 15
 [ Archive Failed Files ](#archive-failed-list)| 0
 [ Archive Success Files ](#archive-success-list)| 0
-[ Handback Failed Files ](#handback-failed-list)| 21
+[ Handback Failed Files ](#handback-failed-list)| 22
 [ Out Of Sync Handback Files ](#outofsync-handback-success-list)| 31
 [ In Sync Handback Files ](#insync-handback-success-list)| 0
 [ Ignored Files ](#ignored-list)| 20
@@ -18,7 +18,6 @@
 ## <a name='handoff-success-list'></a> Handoff Success File List
  Source File | Status | Details 
  ----------- | ------ | ------- 
- [openpublishing\test\abtesting\content-ab-testing-flow.png](https://github.com/Microsoft/openpublishing-test/blob/2c0809abb1ca855e11015291ca9bb9f088aa3b4d/openpublishing/test/abtesting/content-ab-testing-flow.png) | HandedOffSuccess | [Details](#9f5f9e8e98a690691aa9904ed29a2a010c1bf4e56)
  [openpublishing\test\abtesting\UM-AB-Portal-Metric-Report-Config.png](https://github.com/Microsoft/openpublishing-test/blob/b0a6781e51aca147e972d8ba7508b58a498bf57d/openpublishing/test/abtesting/UM-AB-Portal-Metric-Report-Config.png) | HandedOffSuccess | [Details](#b08419de5c61576d8cba079b263d09c14176abf124)
  [openpublishing\test\abtesting\UM-AB-Portal-Metric-Report-Result.png](https://github.com/Microsoft/openpublishing-test/blob/b0a6781e51aca147e972d8ba7508b58a498bf57d/openpublishing/test/abtesting/UM-AB-Portal-Metric-Report-Result.png) | HandedOffSuccess | [Details](#e0a2cfb0f44f0ca1730d147d6ce0c7bbf12677c825)
  [openpublishing\test\f1query\f1_vbaac10.chm13359_csharp_v15_en-us.md](https://github.com/Microsoft/openpublishing-test/blob/281e9c2f04a72d068d5b31c82e90712d664f82fb/openpublishing/test/f1query/f1_vbaac10.chm13359_csharp_v15_en-us.md) | HandedOffSuccess | [Details](#1862565c19ca6d0ab195d0295a4c5e48f2477b2e48)
@@ -42,6 +41,7 @@
 ## <a name='handback-failed-list'></a> Handback Failed File List
  Source File | Status | Details 
  ----------- | ------ | ------- 
+ [openpublishing\test\abtesting\content-ab-testing-flow.png](https://github.com/Microsoft/openpublishing-test/blob/2c0809abb1ca855e11015291ca9bb9f088aa3b4d/openpublishing/test/abtesting/content-ab-testing-flow.png) | HandedBackFailed | [Details](#9f5f9e8e98a690691aa9904ed29a2a010c1bf4e56)
  [openpublishing\test\abtesting\global-ab-testing-flow.png](https://github.com/Microsoft/openpublishing-test/blob/2c0809abb1ca855e11015291ca9bb9f088aa3b4d/openpublishing/test/abtesting/global-ab-testing-flow.png) | HandedBackFailed | [Details](#b73b8ccd489b2326f1b0c47d30be910c5c4788a78)
  [openpublishing\test\abtesting\iceberg.experimental.jpg](https://github.com/Microsoft/openpublishing-test/blob/912e3e489b53010448e5ffedb546fe735ed78e92/openpublishing/test/abtesting/iceberg.experimental.jpg) | HandedBackFailed | [Details](#532748fbca6599349f0655e85e79d2103156bd9b9)
  [openpublishing\test\abtesting\iceberg.jpg](https://github.com/Microsoft/openpublishing-test/blob/2da5f4a65a0182980ba63ff3d4b57f53e710fa5f/openpublishing/test/abtesting/iceberg.jpg) | HandedBackFailed | [Details](#7c634bd01edf790ef91ded6d44abee709be27adc10)
@@ -199,7 +199,7 @@
 * [Back to Top](#report-top)
 
 ##### <a name='9f5f9e8e98a690691aa9904ed29a2a010c1bf4e56'></a> Source: [openpublishing\test\abtesting\content-ab-testing-flow.png](https://github.com/Microsoft/openpublishing-test/blob/2c0809abb1ca855e11015291ca9bb9f088aa3b4d/openpublishing/test/abtesting/content-ab-testing-flow.png)
-* Status: HandedOffSuccess
+* Status: HandedBackFailed
 * Target File: 
 * Handoff File: [9f5f9e8e98a690691aa9904ed29a2a010c1bf4e5.png](https://github.com/openpublish/openpublishing-handoff-test/blob/7308cbcef21576dcf45baee25b65aadd5b16f7d5/ol-handoff/openpublish/openpublishing-test.de-de/master/9f5f9e8e98a690691aa9904ed29a2a010c1bf4e5.png)
 * Handoff Datetime: 2016-05-25 07:50:33
@@ -209,6 +209,7 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
+* Handback Error: [handback_transform_failed](#9f5f9e8e98a690691aa9904ed29a2a010c1bf4e56handback_transform_failed)
 * [Back to Top](#report-top)
 
 ##### <a name='2a131af24d52573900faf54bb34aea0ebaadb58f7'></a> Source: [openpublishing\test\abtesting\control-panel.md](https://github.com/Microsoft/openpublishing-test/blob/22434e01f7f64f85e86d1a133d7a48c0508483e1/openpublishing/test/abtesting/control-panel.md)
@@ -1244,6 +1245,12 @@
 
 
 ## Error Details
+##### <a name='9f5f9e8e98a690691aa9904ed29a2a010c1bf4e56handback_transform_failed'></a> Source: [openpublishing\test\abtesting\content-ab-testing-flow.png](#9f5f9e8e98a690691aa9904ed29a2a010c1bf4e56)
+* Error Code: handback_transform_failed
+* Error Message: Handback file: C:\ol\master\opt.handback\2be177\ol-handback\openpublish\openpublishing-test.de-de\master\9f5f9e8e98a690691aa9904ed29a2a010c1bf4e5.png failed.
+* Retriable: False
+* Error Details: {"internal_error_code":"handback_transform_failed","internal_error_message":"Handback file: C:\\ol\\master\\opt.handback\\2be177\\ol-handback\\openpublish\\openpublishing-test.de-de\\master\\9f5f9e8e98a690691aa9904ed29a2a010c1bf4e5.png failed.","internal_error_retriable":false,"exception_message":"Invalid character in the given encoding. Line 1, position 1.","exception_type":"System.Xml.XmlException","stack_trace":"   at System.Xml.XmlTextReaderImpl.Throw(Exception e)\r\n   at System.Xml.XmlTextReaderImpl.InvalidCharRecovery(Int32& bytesCount, Int32& charsCount)\r\n   at System.Xml.XmlTextReaderImpl.GetChars(Int32 maxCharsCount)\r\n   at System.Xml.XmlTextReaderImpl.ReadData()\r\n   at System.Xml.XmlTextReaderImpl.ParseXmlDeclaration(Boolean isTextDecl)\r\n   at System.Xml.XmlTextReaderImpl.Read()\r\n   at System.Xml.Linq.XDocument.Load(XmlReader reader, LoadOptions options)\r\n   at System.Xml.Linq.XDocument.Load(String uri, LoadOptions options)\r\n   at Microsoft.OpenLocalization.Localization.LocalizationCore.ValidateHandbackFile(TranslationStateItem translationStateItem, String filePath, String handbackPriority, String handoffFilePath) in C:\\Jenkins\\workspace\\OpenLocalization-Prod\\src\\OpenLocalization\\Localization\\HandbackCore.cs:line 205\r\n   at Microsoft.OpenLocalization.Localization.LocalizationCore.<>c__DisplayClass5_0.<GetHandbackFiles>b__0(String file) in C:\\Jenkins\\workspace\\OpenLocalization-Prod\\src\\OpenLocalization\\Localization\\HandbackCore.cs:line 396","extended_information":null}
+
 ##### <a name='b73b8ccd489b2326f1b0c47d30be910c5c4788a78handback_transform_failed'></a> Source: [openpublishing\test\abtesting\global-ab-testing-flow.png](#b73b8ccd489b2326f1b0c47d30be910c5c4788a78)
 * Error Code: handback_transform_failed
 * Error Message: Handback file: C:\ol\master\opt.handback\2be177\ol-handback\openpublish\openpublishing-test.de-de\master\b73b8ccd489b2326f1b0c47d30be910c5c4788a7.png failed.
