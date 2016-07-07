@@ -1,29 +1,11 @@
 # <a name='report-top'></a> Localization Handoff Report
 
 ## Summary
- Total Files | 1
+ Total Files | 0
 
 ## File List
- Source File | Status | Details 
- ----------- | ------ | ------- 
- [openpublishing\test\restapi\contacts-operations.md](https://github.com/Microsoft/openpublishing-test/blob/bac5bd157c70a4cb2ddfc1328c78a7520d6ebefa/openpublishing/test/restapi/contacts-operations.md) | OutofSyncHandedBackSuccess | [Details](#0f4ae8a7a9939d3dbfcd1cb5a45365e03056959880)
 
 ## Item Details
-##### <a name='0f4ae8a7a9939d3dbfcd1cb5a45365e03056959880'></a> Source: [openpublishing\test\restapi\contacts-operations.md](https://github.com/Microsoft/openpublishing-test/blob/bac5bd157c70a4cb2ddfc1328c78a7520d6ebefa/openpublishing/test/restapi/contacts-operations.md)
-* Status: OutofSyncHandedBackSuccess
-* Target File: 
-* Handoff File: [contacts-operations.a201e952311565856c026d87189a869cf38f6bc9.de-de.xlf](https://github.com/openpublish/openpublishing-handoff-test/blob/ac1ebef3a20b6da0095d43ed029f0bedb0c32273/ol-handoff/openpublish/openpublishing-test.de-de/master/contacts-operations.a201e952311565856c026d87189a869cf38f6bc9.de-de.xlf)
-* Handoff Datetime: 2016-07-06 08:48:39
-* Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* Current Target File: [openpublishing\test\restapi\contacts-operations.md](https://github.com/openpublish/openpublishing-test.de-de/blob/bc8995617c53cb85b3155daeebc3bbfd605971ca/openpublishing/test/restapi/contacts-operations.md)
-* Current Handback File: [contacts-operations.a201e952311565856c026d87189a869cf38f6bc9.de-de.xlf](https://github.com/openpublish/openpublishing-handback-test/blob/8c0ad9cace8e03e2f010e7aebba768d8040d98c7/ol-handback/openpublish/openpublishing-test.de-de/master/contacts-operations.a201e952311565856c026d87189a869cf38f6bc9.de-de.xlf)
-* Current Handback Datetime: 2016-06-21 17:49:24
-* [Back to Top](#report-top)
-
 
 ## Error Details
 
