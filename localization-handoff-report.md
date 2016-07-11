@@ -1,11 +1,42 @@
 # <a name='report-top'></a> Localization Handoff Report
 
 ## Summary
- Total Files | 0
+ Total Files | 2
 
 ## File List
+ Source File | Status | Details 
+ ----------- | ------ | ------- 
+ [openpublishing\test\hubpage\index.md](https://github.com/Microsoft/openpublishing-test/blob/38a7d023dce193c55509cb7058192957f826a3c4/openpublishing/test/hubpage/index.md) | OutofSyncHandedBackSuccess | [Details](#b44b882c6b4382abdb108471d9a18b08aabf481a59)
+ [openpublishing\test\hubpage\msdn.md](https://github.com/Microsoft/openpublishing-test/blob/bf0e9a516bf34d369866835691530b56968e4eac/openpublishing/test/hubpage/msdn.md) | HandedOffSuccess | [Details](#28f160393d0bbd874a24bb765a7ac0dfae828f8860)
 
 ## Item Details
+##### <a name='b44b882c6b4382abdb108471d9a18b08aabf481a59'></a> Source: [openpublishing\test\hubpage\index.md](https://github.com/Microsoft/openpublishing-test/blob/38a7d023dce193c55509cb7058192957f826a3c4/openpublishing/test/hubpage/index.md)
+* Status: OutofSyncHandedBackSuccess
+* Target File: 
+* Handoff File: [index.e680af2eb257e7b4b907a3e7e3364826a5f7ad25.de-de.xlf](https://github.com/openpublish/openpublishing-handoff-test/blob/caf61d54d4e45113a6466d2066b9c2d9b0db6ae0/ol-handoff/openpublish/openpublishing-test.de-de/master/index.e680af2eb257e7b4b907a3e7e3364826a5f7ad25.de-de.xlf)
+* Handoff Datetime: 2016-07-11 06:49:25
+* Handoff Reason: Include
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Current Target File: [openpublishing\test\hubpage\index.md](https://github.com/openpublish/openpublishing-test.de-de/blob/bc8995617c53cb85b3155daeebc3bbfd605971ca/openpublishing/test/hubpage/index.md)
+* Current Handback File: [index.e680af2eb257e7b4b907a3e7e3364826a5f7ad25.de-de.xlf](https://github.com/openpublish/openpublishing-handback-test/blob/8c0ad9cace8e03e2f010e7aebba768d8040d98c7/ol-handback/openpublish/openpublishing-test.de-de/master/index.e680af2eb257e7b4b907a3e7e3364826a5f7ad25.de-de.xlf)
+* Current Handback Datetime: 2016-06-21 17:49:24
+* [Back to Top](#report-top)
+
+##### <a name='28f160393d0bbd874a24bb765a7ac0dfae828f8860'></a> Source: [openpublishing\test\hubpage\msdn.md](https://github.com/Microsoft/openpublishing-test/blob/bf0e9a516bf34d369866835691530b56968e4eac/openpublishing/test/hubpage/msdn.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [msdn.de28cca66842bd8f2e58e75685f37e825f005856.de-de.xlf](https://github.com/openpublish/openpublishing-handoff-test/blob/caf61d54d4e45113a6466d2066b9c2d9b0db6ae0/ol-handoff/openpublish/openpublishing-test.de-de/master/msdn.de28cca66842bd8f2e58e75685f37e825f005856.de-de.xlf)
+* Handoff Datetime: 2016-07-11 06:49:25
+* Handoff Reason: Include
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* [Back to Top](#report-top)
+
 
 ## Error Details
 

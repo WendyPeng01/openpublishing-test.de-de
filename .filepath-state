@@ -83,6 +83,9 @@
   "15272571296910ce6ac4a87ab6406f0f9c22f246": [
     "openpublishing\\test\\conceptual\\ui-components.md"
   ],
+  "b44b882c6b4382abdb108471d9a18b08aabf481a": [
+    "openpublishing\\test\\hubpage\\index.md"
+  ],
   "783dbf7e1f919ced12eb8e642d898864c64cf44e": [
     "openpublishing\\test\\hubpage\\index.md"
   ],
@@ -232,6 +235,9 @@
   ],
   "f79d0dafcd03aae651c12dff5732673689e40e12": [
     "openpublishing\\test\\token\\ATA.md"
+  ],
+  "28f160393d0bbd874a24bb765a7ac0dfae828f88": [
+    "openpublishing\\test\\hubpage\\msdn.md"
   ],
   "a7834f26dbf93dac50093035a947afc9a24053cc": [
     "openpublishing\\test\\hubpage\\msdn.md"
