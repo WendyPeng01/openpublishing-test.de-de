@@ -212,26 +212,14 @@
   "e0a2cfb0f44f0ca1730d147d6ce0c7bbf12677c8": [
     "openpublishing\\test\\abtesting\\UM-AB-Portal-Metric-Report-Result.png"
   ],
+  "627bd46f965e770d57e56efac4a2288b99168e68": [
+    "openpublishing\\test\\f1query\\index.md"
+  ],
   "0512e5c2586e65b1cfc062acab18a2e0593b2f83": [
     "openpublishing\\test\\f1query\\index.md"
   ],
   "dbf24c9c15f3ce94bbf59e75306a47ed63cd04fa": [
     "openpublishing\\test\\f1query\\index.md"
-  ],
-  "f6e4b1aa5612ab50211246040b337b15736c054f": [
-    "openpublishing\\test\\f1query\\f1_vblr6.chm50006_csharp_v16_en-us.md"
-  ],
-  "1862565c19ca6d0ab195d0295a4c5e48f2477b2e": [
-    "openpublishing\\test\\f1query\\f1_vbaac10.chm13359_csharp_v15_en-us.md"
-  ],
-  "421d7308d929a41b426f670829c673a49e72e5c6": [
-    "openpublishing\\test\\f1query\\f1_vbaac10.chm13359_csharp_v15_zh-cn.md"
-  ],
-  "e564137b41b7a1081148898dfd2e824500175bb8": [
-    "openpublishing\\test\\f1query\\f1_vbaac10.chm13359_csharp_v16_en-us.md"
-  ],
-  "38dd2654bc47dde75c0200107d597dafea60d7cd": [
-    "openpublishing\\test\\f1query\\f1_vbaac10.chm13359_fsharp_v15_en-us.md"
   ],
   "f79d0dafcd03aae651c12dff5732673689e40e12": [
     "openpublishing\\test\\token\\ATA.md"
@@ -241,5 +229,14 @@
   ],
   "a7834f26dbf93dac50093035a947afc9a24053cc": [
     "openpublishing\\test\\hubpage\\msdn.md"
+  ],
+  "265c933fc20b14ef79b000c564889a3d88ea6a9d": [
+    "openpublishing\\test\\f1query\\f1_vbaac10.chm13359_csharp.md"
+  ],
+  "38c8105f4fbb0dfec22e6e51f869227c97f71e4d": [
+    "openpublishing\\test\\f1query\\f1_vbaac10.chm13359_fsharp.md"
+  ],
+  "e2aed9302c7cb8e539ce56533550f9fa41d6b3dd": [
+    "openpublishing\\test\\f1query\\f1_vblr6.chm50006_csharp.md"
   ]
 }
