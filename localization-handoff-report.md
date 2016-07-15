@@ -1,26 +1,11 @@
 # <a name='report-top'></a> Localization Handoff Report
 
 ## Summary
- Total Files | 1
+ Total Files | 0
 
 ## File List
- Source File | Status | Details 
- ----------- | ------ | ------- 
- [openpublishing\test\hubpage\msdn.md](https://github.com/Microsoft/openpublishing-test/blob/88ad90a9ca08bf78ff10d594d31fe3ad532cccb3/openpublishing/test/hubpage/msdn.md) | HandedOffSuccess | [Details](#e0ebe8dfd51f384cb86214ede18631e97b536fe258)
 
 ## Item Details
-##### <a name='e0ebe8dfd51f384cb86214ede18631e97b536fe258'></a> Source: [openpublishing\test\hubpage\msdn.md](https://github.com/Microsoft/openpublishing-test/blob/88ad90a9ca08bf78ff10d594d31fe3ad532cccb3/openpublishing/test/hubpage/msdn.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [msdn.de28cca66842bd8f2e58e75685f37e825f005856.de-de.xlf](https://github.com/openpublish/openpublishing-handoff-test/blob/ccc055bc4a18a0bf69b82cf734950399c0127182/ol-handoff/openpublish/openpublishing-test.de-de/master/msdn.de28cca66842bd8f2e58e75685f37e825f005856.de-de.xlf)
-* Handoff Datetime: 2016-07-13 06:20:25
-* Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
 
 ## Error Details
 
