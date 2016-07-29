@@ -137,6 +137,9 @@
   "fdcba3f1cbf4d2f58308142276d5a8932ab0cd5f": [
     "openpublishing\\test\\restapi\\TOC.md"
   ],
+  "deb041f88a6858d0c8e0edb7ae2beed8be2abf95": [
+    "openpublishing\\test\\TOC.md"
+  ],
   "ac9d0eb727ba23b3fa6df69ee2d2eb6fb5a3a2a2": [
     "openpublishing\\test\\TOC.md"
   ],
@@ -247,5 +250,8 @@
   ],
   "e2aed9302c7cb8e539ce56533550f9fa41d6b3dd": [
     "openpublishing\\test\\f1query\\f1_vblr6.chm50006_csharp.md"
+  ],
+  "d2850f3636299983caf8c4adbc7bb01c110252c6": [
+    "openpublishing\\test\\swagger\\build.md"
   ]
 }
