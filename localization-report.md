@@ -93,36 +93,36 @@
  [openpublishing\test\restapi\entity-and-complex-type-reference.md](https://github.com/Microsoft/openpublishing-test/blob/002218238f017f48603b6fb52b16156f9dfa30b6/openpublishing/test/restapi/entity-and-complex-type-reference.md) | OutofSyncHandedBackSuccess | [Details](#cea5a5636c53dc5c1a796db957bdfa7617ec83c280)
  [openpublishing\test\restapi\index.md](https://github.com/Microsoft/openpublishing-test/blob/002218238f017f48603b6fb52b16156f9dfa30b6/openpublishing/test/restapi/index.md) | OutofSyncHandedBackSuccess | [Details](#6634f738b8d60ff203729eb957fa36f369492f4781)
  [openpublishing\test\restapi\TOC.md](https://github.com/Microsoft/openpublishing-test/blob/002218238f017f48603b6fb52b16156f9dfa30b6/openpublishing/test/restapi/TOC.md) | OutofSyncHandedBackSuccess | [Details](#fdcba3f1cbf4d2f58308142276d5a8932ab0cd5f82)
- [openpublishing\test\TOC.md](https://github.com/Microsoft/openpublishing-test/blob/7f2c2e3c193be95357f7700838defee4f830504a/openpublishing/test/TOC.md) | OutofSyncHandedBackSuccess | [Details](#407963e1fe67b11e4a0959efd55b55b993444abd83)
+ [openpublishing\test\TOC.md](https://github.com/Microsoft/openpublishing-test/blob/6685a5ef5767bf21da19e2476d5704d0a79c4326/openpublishing/test/TOC.md) | OutofSyncHandedBackSuccess | [Details](#ac9d0eb727ba23b3fa6df69ee2d2eb6fb5a3a2a283)
 
 ## <a name='insync-handback-success-list'></a> In Sync Handback File Success List
 
 ## <a name='ignored-list'></a> Ignored File List
  Source File | Status | Details 
  ----------- | ------ | ------- 
- [.gitignore](https://github.com/Microsoft/openpublishing-test/blob/9c4be4832cfbabec9f4ce35db5cf41a488e12fac/.gitignore) | Ignored | [Details](#7c4de7495fb4bb76bd8b9102a4ab583ce46e5cad0)
- [.gitmodules](https://github.com/Microsoft/openpublishing-test/blob/9c4be4832cfbabec9f4ce35db5cf41a488e12fac/.gitmodules) | Ignored | [Details](#c48302af8a3607313785b2ea0277f312322d33491)
- [.localization-config](https://github.com/Microsoft/openpublishing-test/blob/9c4be4832cfbabec9f4ce35db5cf41a488e12fac/.localization-config) | Ignored | [Details](#fd098fed00dd7b76db38ffa0f643797a4345097f2)
- [.openpublishing.build.ps1](https://github.com/Microsoft/openpublishing-test/blob/9c4be4832cfbabec9f4ce35db5cf41a488e12fac/.openpublishing.build.ps1) | Ignored | [Details](#543ad6a2f8038238cc5552bc8accd89176f3e9973)
- [.openpublishing.publish.config.json](https://github.com/Microsoft/openpublishing-test/blob/9c4be4832cfbabec9f4ce35db5cf41a488e12fac/.openpublishing.publish.config.json) | Ignored | [Details](#bc54f7a90b87914f5501c6107ee208e14be06abb4)
- [openpublishing\test\abtesting\abtesting-flow.pptx](https://github.com/Microsoft/openpublishing-test/blob/9c4be4832cfbabec9f4ce35db5cf41a488e12fac/openpublishing/test/abtesting/abtesting-flow.pptx) | Ignored | [Details](#abfc6c3fc0feb7118c319e3ab8ccb3de2a78e0835)
- [openpublishing\test\abtesting\iceberg.jpg.meta](https://github.com/Microsoft/openpublishing-test/blob/9c4be4832cfbabec9f4ce35db5cf41a488e12fac/openpublishing/test/abtesting/iceberg.jpg.meta) | Ignored | [Details](#0d23558e222c5d26a6f04258b15b1598c71f36b211)
- [openpublishing\test\breadcrumb.json](https://github.com/Microsoft/openpublishing-test/blob/9c4be4832cfbabec9f4ce35db5cf41a488e12fac/openpublishing/test/breadcrumb.json) | Ignored | [Details](#11f7f09f59b15936b758fe9f92e71ce0d579b87434)
- [openpublishing\test\docfx.json](https://github.com/Microsoft/openpublishing-test/blob/9c4be4832cfbabec9f4ce35db5cf41a488e12fac/openpublishing/test/docfx.json) | Ignored | [Details](#02935486754ebb2760f44d8ca2e0ba14285eaf0347)
- [openpublishing\test\reference\Microsoft.IdentityModel.Clients.ActiveDirectory.AdalError.yml](https://github.com/Microsoft/openpublishing-test/blob/9c4be4832cfbabec9f4ce35db5cf41a488e12fac/openpublishing/test/reference/Microsoft.IdentityModel.Clients.ActiveDirectory.AdalError.yml) | Ignored | [Details](#8efa248694b51fbba64dc7a90ecd2487e240161369)
- [openpublishing\test\reference\Microsoft.IdentityModel.Clients.ActiveDirectory.AuthenticationContextDelegate.yml](https://github.com/Microsoft/openpublishing-test/blob/9c4be4832cfbabec9f4ce35db5cf41a488e12fac/openpublishing/test/reference/Microsoft.IdentityModel.Clients.ActiveDirectory.AuthenticationContextDelegate.yml) | Ignored | [Details](#91ccc0797e71ef0049087876fd39a0a5e68d1ac970)
- [openpublishing\test\reference\Microsoft.IdentityModel.Clients.ActiveDirectory.AuthenticationParameters.yml](https://github.com/Microsoft/openpublishing-test/blob/9c4be4832cfbabec9f4ce35db5cf41a488e12fac/openpublishing/test/reference/Microsoft.IdentityModel.Clients.ActiveDirectory.AuthenticationParameters.yml) | Ignored | [Details](#9aa2daa4d85889612e0b2925c0b3b961be9b4fa271)
- [openpublishing\test\reference\Microsoft.IdentityModel.Clients.ActiveDirectory.AuthenticationStatus.yml](https://github.com/Microsoft/openpublishing-test/blob/9c4be4832cfbabec9f4ce35db5cf41a488e12fac/openpublishing/test/reference/Microsoft.IdentityModel.Clients.ActiveDirectory.AuthenticationStatus.yml) | Ignored | [Details](#f8ae6d14f40566d9521582a316a102d6c948fabc72)
- [openpublishing\test\reference\Microsoft.IdentityModel.Clients.ActiveDirectory.yml](https://github.com/Microsoft/openpublishing-test/blob/9c4be4832cfbabec9f4ce35db5cf41a488e12fac/openpublishing/test/reference/Microsoft.IdentityModel.Clients.ActiveDirectory.yml) | Ignored | [Details](#1ae5de1f75b377918c66f267e56b23ea5b8b65b073)
- [openpublishing\test\reference\System.Action.yml](https://github.com/Microsoft/openpublishing-test/blob/9c4be4832cfbabec9f4ce35db5cf41a488e12fac/openpublishing/test/reference/System.Action.yml) | Ignored | [Details](#a6fd0d2b102017dac05fed3b651cb0f0fd2ebd0274)
- [openpublishing\test\reference\System.Linq.Expressions.Expression.yml](https://github.com/Microsoft/openpublishing-test/blob/9c4be4832cfbabec9f4ce35db5cf41a488e12fac/openpublishing/test/reference/System.Linq.Expressions.Expression.yml) | Ignored | [Details](#9a0d3bb5c263492b69254bf48bcb16d8fddc3af975)
- [openpublishing\test\reference\System.String.yml](https://github.com/Microsoft/openpublishing-test/blob/9c4be4832cfbabec9f4ce35db5cf41a488e12fac/openpublishing/test/reference/System.String.yml) | Ignored | [Details](#b737e43e31b6038811a8f7d5faa55e887c1f44fe76)
- [openpublishing\test\reference\toc.yml](https://github.com/Microsoft/openpublishing-test/blob/9c4be4832cfbabec9f4ce35db5cf41a488e12fac/openpublishing/test/reference/toc.yml) | Ignored | [Details](#3267f5af4ee17fcd396ee2754d3530e3497bff6177)
- [openpublishing\test\restapi\contacts_swagger2.json](https://github.com/Microsoft/openpublishing-test/blob/9c4be4832cfbabec9f4ce35db5cf41a488e12fac/openpublishing/test/restapi/contacts_swagger2.json) | Ignored | [Details](#4fb306e4e0242f2cc8e12886bc62daf81498ed5c79)
- [README.md](https://github.com/Microsoft/openpublishing-test/blob/9c4be4832cfbabec9f4ce35db5cf41a488e12fac/README.md) | Ignored | [Details](#d479c01597909ce087df82416d35b5e61fc57b0985)
+ [.gitignore](https://github.com/Microsoft/openpublishing-test/blob/cd214886e888323fba034c4c2f804afd1485e128/.gitignore) | Ignored | [Details](#7c4de7495fb4bb76bd8b9102a4ab583ce46e5cad0)
+ [.gitmodules](https://github.com/Microsoft/openpublishing-test/blob/cd214886e888323fba034c4c2f804afd1485e128/.gitmodules) | Ignored | [Details](#c48302af8a3607313785b2ea0277f312322d33491)
+ [.localization-config](https://github.com/Microsoft/openpublishing-test/blob/cd214886e888323fba034c4c2f804afd1485e128/.localization-config) | Ignored | [Details](#fd098fed00dd7b76db38ffa0f643797a4345097f2)
+ [.openpublishing.build.ps1](https://github.com/Microsoft/openpublishing-test/blob/cd214886e888323fba034c4c2f804afd1485e128/.openpublishing.build.ps1) | Ignored | [Details](#543ad6a2f8038238cc5552bc8accd89176f3e9973)
+ [.openpublishing.publish.config.json](https://github.com/Microsoft/openpublishing-test/blob/cd214886e888323fba034c4c2f804afd1485e128/.openpublishing.publish.config.json) | Ignored | [Details](#bc54f7a90b87914f5501c6107ee208e14be06abb4)
+ [openpublishing\test\abtesting\abtesting-flow.pptx](https://github.com/Microsoft/openpublishing-test/blob/cd214886e888323fba034c4c2f804afd1485e128/openpublishing/test/abtesting/abtesting-flow.pptx) | Ignored | [Details](#abfc6c3fc0feb7118c319e3ab8ccb3de2a78e0835)
+ [openpublishing\test\abtesting\iceberg.jpg.meta](https://github.com/Microsoft/openpublishing-test/blob/cd214886e888323fba034c4c2f804afd1485e128/openpublishing/test/abtesting/iceberg.jpg.meta) | Ignored | [Details](#0d23558e222c5d26a6f04258b15b1598c71f36b211)
+ [openpublishing\test\breadcrumb.json](https://github.com/Microsoft/openpublishing-test/blob/cd214886e888323fba034c4c2f804afd1485e128/openpublishing/test/breadcrumb.json) | Ignored | [Details](#11f7f09f59b15936b758fe9f92e71ce0d579b87434)
+ [openpublishing\test\docfx.json](https://github.com/Microsoft/openpublishing-test/blob/cd214886e888323fba034c4c2f804afd1485e128/openpublishing/test/docfx.json) | Ignored | [Details](#02935486754ebb2760f44d8ca2e0ba14285eaf0347)
+ [openpublishing\test\reference\Microsoft.IdentityModel.Clients.ActiveDirectory.AdalError.yml](https://github.com/Microsoft/openpublishing-test/blob/cd214886e888323fba034c4c2f804afd1485e128/openpublishing/test/reference/Microsoft.IdentityModel.Clients.ActiveDirectory.AdalError.yml) | Ignored | [Details](#8efa248694b51fbba64dc7a90ecd2487e240161369)
+ [openpublishing\test\reference\Microsoft.IdentityModel.Clients.ActiveDirectory.AuthenticationContextDelegate.yml](https://github.com/Microsoft/openpublishing-test/blob/cd214886e888323fba034c4c2f804afd1485e128/openpublishing/test/reference/Microsoft.IdentityModel.Clients.ActiveDirectory.AuthenticationContextDelegate.yml) | Ignored | [Details](#91ccc0797e71ef0049087876fd39a0a5e68d1ac970)
+ [openpublishing\test\reference\Microsoft.IdentityModel.Clients.ActiveDirectory.AuthenticationParameters.yml](https://github.com/Microsoft/openpublishing-test/blob/cd214886e888323fba034c4c2f804afd1485e128/openpublishing/test/reference/Microsoft.IdentityModel.Clients.ActiveDirectory.AuthenticationParameters.yml) | Ignored | [Details](#9aa2daa4d85889612e0b2925c0b3b961be9b4fa271)
+ [openpublishing\test\reference\Microsoft.IdentityModel.Clients.ActiveDirectory.AuthenticationStatus.yml](https://github.com/Microsoft/openpublishing-test/blob/cd214886e888323fba034c4c2f804afd1485e128/openpublishing/test/reference/Microsoft.IdentityModel.Clients.ActiveDirectory.AuthenticationStatus.yml) | Ignored | [Details](#f8ae6d14f40566d9521582a316a102d6c948fabc72)
+ [openpublishing\test\reference\Microsoft.IdentityModel.Clients.ActiveDirectory.yml](https://github.com/Microsoft/openpublishing-test/blob/cd214886e888323fba034c4c2f804afd1485e128/openpublishing/test/reference/Microsoft.IdentityModel.Clients.ActiveDirectory.yml) | Ignored | [Details](#1ae5de1f75b377918c66f267e56b23ea5b8b65b073)
+ [openpublishing\test\reference\System.Action.yml](https://github.com/Microsoft/openpublishing-test/blob/cd214886e888323fba034c4c2f804afd1485e128/openpublishing/test/reference/System.Action.yml) | Ignored | [Details](#a6fd0d2b102017dac05fed3b651cb0f0fd2ebd0274)
+ [openpublishing\test\reference\System.Linq.Expressions.Expression.yml](https://github.com/Microsoft/openpublishing-test/blob/cd214886e888323fba034c4c2f804afd1485e128/openpublishing/test/reference/System.Linq.Expressions.Expression.yml) | Ignored | [Details](#9a0d3bb5c263492b69254bf48bcb16d8fddc3af975)
+ [openpublishing\test\reference\System.String.yml](https://github.com/Microsoft/openpublishing-test/blob/cd214886e888323fba034c4c2f804afd1485e128/openpublishing/test/reference/System.String.yml) | Ignored | [Details](#b737e43e31b6038811a8f7d5faa55e887c1f44fe76)
+ [openpublishing\test\reference\toc.yml](https://github.com/Microsoft/openpublishing-test/blob/cd214886e888323fba034c4c2f804afd1485e128/openpublishing/test/reference/toc.yml) | Ignored | [Details](#3267f5af4ee17fcd396ee2754d3530e3497bff6177)
+ [openpublishing\test\restapi\contacts_swagger2.json](https://github.com/Microsoft/openpublishing-test/blob/cd214886e888323fba034c4c2f804afd1485e128/openpublishing/test/restapi/contacts_swagger2.json) | Ignored | [Details](#4fb306e4e0242f2cc8e12886bc62daf81498ed5c79)
+ [README.md](https://github.com/Microsoft/openpublishing-test/blob/cd214886e888323fba034c4c2f804afd1485e128/README.md) | Ignored | [Details](#d479c01597909ce087df82416d35b5e61fc57b0985)
 
 ## Item Details
-##### <a name='7c4de7495fb4bb76bd8b9102a4ab583ce46e5cad0'></a> Source: [.gitignore](https://github.com/Microsoft/openpublishing-test/blob/9c4be4832cfbabec9f4ce35db5cf41a488e12fac/.gitignore)
+##### <a name='7c4de7495fb4bb76bd8b9102a4ab583ce46e5cad0'></a> Source: [.gitignore](https://github.com/Microsoft/openpublishing-test/blob/cd214886e888323fba034c4c2f804afd1485e128/.gitignore)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -134,7 +134,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='c48302af8a3607313785b2ea0277f312322d33491'></a> Source: [.gitmodules](https://github.com/Microsoft/openpublishing-test/blob/9c4be4832cfbabec9f4ce35db5cf41a488e12fac/.gitmodules)
+##### <a name='c48302af8a3607313785b2ea0277f312322d33491'></a> Source: [.gitmodules](https://github.com/Microsoft/openpublishing-test/blob/cd214886e888323fba034c4c2f804afd1485e128/.gitmodules)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -146,7 +146,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='fd098fed00dd7b76db38ffa0f643797a4345097f2'></a> Source: [.localization-config](https://github.com/Microsoft/openpublishing-test/blob/9c4be4832cfbabec9f4ce35db5cf41a488e12fac/.localization-config)
+##### <a name='fd098fed00dd7b76db38ffa0f643797a4345097f2'></a> Source: [.localization-config](https://github.com/Microsoft/openpublishing-test/blob/cd214886e888323fba034c4c2f804afd1485e128/.localization-config)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -158,7 +158,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='543ad6a2f8038238cc5552bc8accd89176f3e9973'></a> Source: [.openpublishing.build.ps1](https://github.com/Microsoft/openpublishing-test/blob/9c4be4832cfbabec9f4ce35db5cf41a488e12fac/.openpublishing.build.ps1)
+##### <a name='543ad6a2f8038238cc5552bc8accd89176f3e9973'></a> Source: [.openpublishing.build.ps1](https://github.com/Microsoft/openpublishing-test/blob/cd214886e888323fba034c4c2f804afd1485e128/.openpublishing.build.ps1)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -170,7 +170,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='bc54f7a90b87914f5501c6107ee208e14be06abb4'></a> Source: [.openpublishing.publish.config.json](https://github.com/Microsoft/openpublishing-test/blob/9c4be4832cfbabec9f4ce35db5cf41a488e12fac/.openpublishing.publish.config.json)
+##### <a name='bc54f7a90b87914f5501c6107ee208e14be06abb4'></a> Source: [.openpublishing.publish.config.json](https://github.com/Microsoft/openpublishing-test/blob/cd214886e888323fba034c4c2f804afd1485e128/.openpublishing.publish.config.json)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -182,7 +182,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='abfc6c3fc0feb7118c319e3ab8ccb3de2a78e0835'></a> Source: [openpublishing\test\abtesting\abtesting-flow.pptx](https://github.com/Microsoft/openpublishing-test/blob/9c4be4832cfbabec9f4ce35db5cf41a488e12fac/openpublishing/test/abtesting/abtesting-flow.pptx)
+##### <a name='abfc6c3fc0feb7118c319e3ab8ccb3de2a78e0835'></a> Source: [openpublishing\test\abtesting\abtesting-flow.pptx](https://github.com/Microsoft/openpublishing-test/blob/cd214886e888323fba034c4c2f804afd1485e128/openpublishing/test/abtesting/abtesting-flow.pptx)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -258,7 +258,7 @@
 * Handback Datetime: 2016-07-18 08:37:13
 * [Back to Top](#report-top)
 
-##### <a name='0d23558e222c5d26a6f04258b15b1598c71f36b211'></a> Source: [openpublishing\test\abtesting\iceberg.jpg.meta](https://github.com/Microsoft/openpublishing-test/blob/9c4be4832cfbabec9f4ce35db5cf41a488e12fac/openpublishing/test/abtesting/iceberg.jpg.meta)
+##### <a name='0d23558e222c5d26a6f04258b15b1598c71f36b211'></a> Source: [openpublishing\test\abtesting\iceberg.jpg.meta](https://github.com/Microsoft/openpublishing-test/blob/cd214886e888323fba034c4c2f804afd1485e128/openpublishing/test/abtesting/iceberg.jpg.meta)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -567,7 +567,7 @@
 * Current Handback Datetime: 2016-06-21 17:49:24
 * [Back to Top](#report-top)
 
-##### <a name='11f7f09f59b15936b758fe9f92e71ce0d579b87434'></a> Source: [openpublishing\test\breadcrumb.json](https://github.com/Microsoft/openpublishing-test/blob/9c4be4832cfbabec9f4ce35db5cf41a488e12fac/openpublishing/test/breadcrumb.json)
+##### <a name='11f7f09f59b15936b758fe9f92e71ce0d579b87434'></a> Source: [openpublishing\test\breadcrumb.json](https://github.com/Microsoft/openpublishing-test/blob/cd214886e888323fba034c4c2f804afd1485e128/openpublishing/test/breadcrumb.json)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -734,7 +734,7 @@
 * Handback Datetime: 2016-06-21 17:49:24
 * [Back to Top](#report-top)
 
-##### <a name='02935486754ebb2760f44d8ca2e0ba14285eaf0347'></a> Source: [openpublishing\test\docfx.json](https://github.com/Microsoft/openpublishing-test/blob/9c4be4832cfbabec9f4ce35db5cf41a488e12fac/openpublishing/test/docfx.json)
+##### <a name='02935486754ebb2760f44d8ca2e0ba14285eaf0347'></a> Source: [openpublishing\test\docfx.json](https://github.com/Microsoft/openpublishing-test/blob/cd214886e888323fba034c4c2f804afd1485e128/openpublishing/test/docfx.json)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -1009,7 +1009,7 @@
 * Handback Datetime: 2016-06-21 17:49:24
 * [Back to Top](#report-top)
 
-##### <a name='8efa248694b51fbba64dc7a90ecd2487e240161369'></a> Source: [openpublishing\test\reference\Microsoft.IdentityModel.Clients.ActiveDirectory.AdalError.yml](https://github.com/Microsoft/openpublishing-test/blob/9c4be4832cfbabec9f4ce35db5cf41a488e12fac/openpublishing/test/reference/Microsoft.IdentityModel.Clients.ActiveDirectory.AdalError.yml)
+##### <a name='8efa248694b51fbba64dc7a90ecd2487e240161369'></a> Source: [openpublishing\test\reference\Microsoft.IdentityModel.Clients.ActiveDirectory.AdalError.yml](https://github.com/Microsoft/openpublishing-test/blob/cd214886e888323fba034c4c2f804afd1485e128/openpublishing/test/reference/Microsoft.IdentityModel.Clients.ActiveDirectory.AdalError.yml)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -1021,7 +1021,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='91ccc0797e71ef0049087876fd39a0a5e68d1ac970'></a> Source: [openpublishing\test\reference\Microsoft.IdentityModel.Clients.ActiveDirectory.AuthenticationContextDelegate.yml](https://github.com/Microsoft/openpublishing-test/blob/9c4be4832cfbabec9f4ce35db5cf41a488e12fac/openpublishing/test/reference/Microsoft.IdentityModel.Clients.ActiveDirectory.AuthenticationContextDelegate.yml)
+##### <a name='91ccc0797e71ef0049087876fd39a0a5e68d1ac970'></a> Source: [openpublishing\test\reference\Microsoft.IdentityModel.Clients.ActiveDirectory.AuthenticationContextDelegate.yml](https://github.com/Microsoft/openpublishing-test/blob/cd214886e888323fba034c4c2f804afd1485e128/openpublishing/test/reference/Microsoft.IdentityModel.Clients.ActiveDirectory.AuthenticationContextDelegate.yml)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -1033,7 +1033,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='9aa2daa4d85889612e0b2925c0b3b961be9b4fa271'></a> Source: [openpublishing\test\reference\Microsoft.IdentityModel.Clients.ActiveDirectory.AuthenticationParameters.yml](https://github.com/Microsoft/openpublishing-test/blob/9c4be4832cfbabec9f4ce35db5cf41a488e12fac/openpublishing/test/reference/Microsoft.IdentityModel.Clients.ActiveDirectory.AuthenticationParameters.yml)
+##### <a name='9aa2daa4d85889612e0b2925c0b3b961be9b4fa271'></a> Source: [openpublishing\test\reference\Microsoft.IdentityModel.Clients.ActiveDirectory.AuthenticationParameters.yml](https://github.com/Microsoft/openpublishing-test/blob/cd214886e888323fba034c4c2f804afd1485e128/openpublishing/test/reference/Microsoft.IdentityModel.Clients.ActiveDirectory.AuthenticationParameters.yml)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -1045,7 +1045,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='f8ae6d14f40566d9521582a316a102d6c948fabc72'></a> Source: [openpublishing\test\reference\Microsoft.IdentityModel.Clients.ActiveDirectory.AuthenticationStatus.yml](https://github.com/Microsoft/openpublishing-test/blob/9c4be4832cfbabec9f4ce35db5cf41a488e12fac/openpublishing/test/reference/Microsoft.IdentityModel.Clients.ActiveDirectory.AuthenticationStatus.yml)
+##### <a name='f8ae6d14f40566d9521582a316a102d6c948fabc72'></a> Source: [openpublishing\test\reference\Microsoft.IdentityModel.Clients.ActiveDirectory.AuthenticationStatus.yml](https://github.com/Microsoft/openpublishing-test/blob/cd214886e888323fba034c4c2f804afd1485e128/openpublishing/test/reference/Microsoft.IdentityModel.Clients.ActiveDirectory.AuthenticationStatus.yml)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -1057,7 +1057,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='1ae5de1f75b377918c66f267e56b23ea5b8b65b073'></a> Source: [openpublishing\test\reference\Microsoft.IdentityModel.Clients.ActiveDirectory.yml](https://github.com/Microsoft/openpublishing-test/blob/9c4be4832cfbabec9f4ce35db5cf41a488e12fac/openpublishing/test/reference/Microsoft.IdentityModel.Clients.ActiveDirectory.yml)
+##### <a name='1ae5de1f75b377918c66f267e56b23ea5b8b65b073'></a> Source: [openpublishing\test\reference\Microsoft.IdentityModel.Clients.ActiveDirectory.yml](https://github.com/Microsoft/openpublishing-test/blob/cd214886e888323fba034c4c2f804afd1485e128/openpublishing/test/reference/Microsoft.IdentityModel.Clients.ActiveDirectory.yml)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -1069,7 +1069,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='a6fd0d2b102017dac05fed3b651cb0f0fd2ebd0274'></a> Source: [openpublishing\test\reference\System.Action.yml](https://github.com/Microsoft/openpublishing-test/blob/9c4be4832cfbabec9f4ce35db5cf41a488e12fac/openpublishing/test/reference/System.Action.yml)
+##### <a name='a6fd0d2b102017dac05fed3b651cb0f0fd2ebd0274'></a> Source: [openpublishing\test\reference\System.Action.yml](https://github.com/Microsoft/openpublishing-test/blob/cd214886e888323fba034c4c2f804afd1485e128/openpublishing/test/reference/System.Action.yml)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -1081,7 +1081,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='9a0d3bb5c263492b69254bf48bcb16d8fddc3af975'></a> Source: [openpublishing\test\reference\System.Linq.Expressions.Expression.yml](https://github.com/Microsoft/openpublishing-test/blob/9c4be4832cfbabec9f4ce35db5cf41a488e12fac/openpublishing/test/reference/System.Linq.Expressions.Expression.yml)
+##### <a name='9a0d3bb5c263492b69254bf48bcb16d8fddc3af975'></a> Source: [openpublishing\test\reference\System.Linq.Expressions.Expression.yml](https://github.com/Microsoft/openpublishing-test/blob/cd214886e888323fba034c4c2f804afd1485e128/openpublishing/test/reference/System.Linq.Expressions.Expression.yml)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -1093,7 +1093,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='b737e43e31b6038811a8f7d5faa55e887c1f44fe76'></a> Source: [openpublishing\test\reference\System.String.yml](https://github.com/Microsoft/openpublishing-test/blob/9c4be4832cfbabec9f4ce35db5cf41a488e12fac/openpublishing/test/reference/System.String.yml)
+##### <a name='b737e43e31b6038811a8f7d5faa55e887c1f44fe76'></a> Source: [openpublishing\test\reference\System.String.yml](https://github.com/Microsoft/openpublishing-test/blob/cd214886e888323fba034c4c2f804afd1485e128/openpublishing/test/reference/System.String.yml)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -1105,7 +1105,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='3267f5af4ee17fcd396ee2754d3530e3497bff6177'></a> Source: [openpublishing\test\reference\toc.yml](https://github.com/Microsoft/openpublishing-test/blob/9c4be4832cfbabec9f4ce35db5cf41a488e12fac/openpublishing/test/reference/toc.yml)
+##### <a name='3267f5af4ee17fcd396ee2754d3530e3497bff6177'></a> Source: [openpublishing\test\reference\toc.yml](https://github.com/Microsoft/openpublishing-test/blob/cd214886e888323fba034c4c2f804afd1485e128/openpublishing/test/reference/toc.yml)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -1117,7 +1117,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='4fb306e4e0242f2cc8e12886bc62daf81498ed5c79'></a> Source: [openpublishing\test\restapi\contacts_swagger2.json](https://github.com/Microsoft/openpublishing-test/blob/9c4be4832cfbabec9f4ce35db5cf41a488e12fac/openpublishing/test/restapi/contacts_swagger2.json)
+##### <a name='4fb306e4e0242f2cc8e12886bc62daf81498ed5c79'></a> Source: [openpublishing\test\restapi\contacts_swagger2.json](https://github.com/Microsoft/openpublishing-test/blob/cd214886e888323fba034c4c2f804afd1485e128/openpublishing/test/restapi/contacts_swagger2.json)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -1180,11 +1180,11 @@
 * Handback Datetime: 2016-06-21 17:49:24
 * [Back to Top](#report-top)
 
-##### <a name='407963e1fe67b11e4a0959efd55b55b993444abd83'></a> Source: [openpublishing\test\TOC.md](https://github.com/Microsoft/openpublishing-test/blob/7f2c2e3c193be95357f7700838defee4f830504a/openpublishing/test/TOC.md)
+##### <a name='ac9d0eb727ba23b3fa6df69ee2d2eb6fb5a3a2a283'></a> Source: [openpublishing\test\TOC.md](https://github.com/Microsoft/openpublishing-test/blob/6685a5ef5767bf21da19e2476d5704d0a79c4326/openpublishing/test/TOC.md)
 * Status: OutofSyncHandedBackSuccess
 * Target File: 
-* Handoff File: [TOC.aff33f4763a521dfe8256a4d8a4caf592c09b34b.de-de.xlf](https://github.com/openpublish/openpublishing-handoff-test/blob/3f10f854d9d75e8f06268e5cf97b0110dcb28500/ol-handoff/openpublish/openpublishing-test.de-de/master/TOC.aff33f4763a521dfe8256a4d8a4caf592c09b34b.de-de.xlf)
-* Handoff Datetime: 2016-06-20 06:44:42
+* Handoff File: [TOC.aff33f4763a521dfe8256a4d8a4caf592c09b34b.de-de.xlf](https://github.com/openpublish/openpublishing-handoff-test/blob/df33703e9acb28ccd1d25edcd88785d3cfe4f296/ol-handoff/openpublish/openpublishing-test.de-de/master/TOC.aff33f4763a521dfe8256a4d8a4caf592c09b34b.de-de.xlf)
+* Handoff Datetime: 2016-07-29 11:40:51
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -1207,7 +1207,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='d479c01597909ce087df82416d35b5e61fc57b0985'></a> Source: [README.md](https://github.com/Microsoft/openpublishing-test/blob/9c4be4832cfbabec9f4ce35db5cf41a488e12fac/README.md)
+##### <a name='d479c01597909ce087df82416d35b5e61fc57b0985'></a> Source: [README.md](https://github.com/Microsoft/openpublishing-test/blob/cd214886e888323fba034c4c2f804afd1485e128/README.md)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
