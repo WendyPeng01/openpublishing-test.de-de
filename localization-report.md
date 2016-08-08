@@ -5,11 +5,11 @@
  -------- | ----- 
  Total Files | 121
 [ Handoff Failed Files ](#handoff-failed-list)| 0
-[ Handoff Success Files ](#handoff-success-list)| 16
+[ Handoff Success Files ](#handoff-success-list)| 69
 [ Archive Failed Files ](#archive-failed-list)| 0
 [ Archive Success Files ](#archive-success-list)| 0
 [ Handback Failed Files ](#handback-failed-list)| 0
-[ Out Of Sync Handback Files ](#outofsync-handback-success-list)| 53
+[ Out Of Sync Handback Files ](#outofsync-handback-success-list)| 0
 [ In Sync Handback Files ](#insync-handback-success-list)| 0
 [ Ignored Files ](#ignored-list)| 52
 
@@ -19,9 +19,46 @@
  Source File | Status | Details 
  ----------- | ------ | ------- 
  [openpublishing\test\404.md](https://github.com/Microsoft/openpublishing-test/blob/064c2b49fb52f82f016ec9afdfe8d4fc24d323d0/openpublishing/test/404.md) | HandedOffSuccess | [Details](#bbb7a35b59976605a8f6264507743d6c7c5999a45)
+ [openpublishing\test\abtesting\content-ab-testing-flow.png](https://github.com/Microsoft/openpublishing-test/blob/2c0809abb1ca855e11015291ca9bb9f088aa3b4d/openpublishing/test/abtesting/content-ab-testing-flow.png) | HandedOffSuccess | [Details](#9f5f9e8e98a690691aa9904ed29a2a010c1bf4e57)
+ [openpublishing\test\abtesting\control-panel.md](https://github.com/Microsoft/openpublishing-test/blob/22434e01f7f64f85e86d1a133d7a48c0508483e1/openpublishing/test/abtesting/control-panel.md) | HandedOffSuccess | [Details](#2a131af24d52573900faf54bb34aea0ebaadb58f8)
+ [openpublishing\test\abtesting\global-ab-testing-flow.png](https://github.com/Microsoft/openpublishing-test/blob/2c0809abb1ca855e11015291ca9bb9f088aa3b4d/openpublishing/test/abtesting/global-ab-testing-flow.png) | HandedOffSuccess | [Details](#b73b8ccd489b2326f1b0c47d30be910c5c4788a79)
+ [openpublishing\test\abtesting\iceberg.experimental.jpg](https://github.com/Microsoft/openpublishing-test/blob/912e3e489b53010448e5ffedb546fe735ed78e92/openpublishing/test/abtesting/iceberg.experimental.jpg) | HandedOffSuccess | [Details](#532748fbca6599349f0655e85e79d2103156bd9b10)
+ [openpublishing\test\abtesting\iceberg.jpg](https://github.com/Microsoft/openpublishing-test/blob/2da5f4a65a0182980ba63ff3d4b57f53e710fa5f/openpublishing/test/abtesting/iceberg.jpg) | HandedOffSuccess | [Details](#7c634bd01edf790ef91ded6d44abee709be27adc11)
+ [openpublishing\test\abtesting\index.md](https://github.com/Microsoft/openpublishing-test/blob/5ac55bf521ef3c7918cbad0f621cbc7891f294bf/openpublishing/test/abtesting/index.md) | HandedOffSuccess | [Details](#ac0e265a62582fd53b04e80de8d32a1e11795cea13)
+ [openpublishing\test\abtesting\multiple-topics-bar.experimental.md](https://github.com/Microsoft/openpublishing-test/blob/c1fedee77b6c4e62b2738ce35dabe3731c7e0750/openpublishing/test/abtesting/multiple-topics-bar.experimental.md) | HandedOffSuccess | [Details](#f2d8e40529232e9898c297e3a0701cf3a832d56114)
+ [openpublishing\test\abtesting\multiple-topics-bar.md](https://github.com/Microsoft/openpublishing-test/blob/c1fedee77b6c4e62b2738ce35dabe3731c7e0750/openpublishing/test/abtesting/multiple-topics-bar.md) | HandedOffSuccess | [Details](#079b91da083d4cf552a9785bd817314cc1f0c05a15)
+ [openpublishing\test\abtesting\multiple-topics-baz.experimental.md](https://github.com/Microsoft/openpublishing-test/blob/c1fedee77b6c4e62b2738ce35dabe3731c7e0750/openpublishing/test/abtesting/multiple-topics-baz.experimental.md) | HandedOffSuccess | [Details](#2d72efc56b615020d9c907194d796c287cdff93916)
+ [openpublishing\test\abtesting\multiple-topics-baz.md](https://github.com/Microsoft/openpublishing-test/blob/c1fedee77b6c4e62b2738ce35dabe3731c7e0750/openpublishing/test/abtesting/multiple-topics-baz.md) | HandedOffSuccess | [Details](#9a2f58583677d63397a3ce24f2ede67c1f5ebffb17)
+ [openpublishing\test\abtesting\multiple-topics-foo.experimental.md](https://github.com/Microsoft/openpublishing-test/blob/c1fedee77b6c4e62b2738ce35dabe3731c7e0750/openpublishing/test/abtesting/multiple-topics-foo.experimental.md) | HandedOffSuccess | [Details](#3eac377920ef84b4a1266ef73468ea459e5d7cdf18)
+ [openpublishing\test\abtesting\multiple-topics-foo.md](https://github.com/Microsoft/openpublishing-test/blob/c1fedee77b6c4e62b2738ce35dabe3731c7e0750/openpublishing/test/abtesting/multiple-topics-foo.md) | HandedOffSuccess | [Details](#6d14893946a025f324e39edce7ed8fca7a8a562519)
+ [openpublishing\test\abtesting\single-topic.experimental.md](https://github.com/Microsoft/openpublishing-test/blob/71685b693a2720beb1b63040c6576217e9bcb8e7/openpublishing/test/abtesting/single-topic.experimental.md) | HandedOffSuccess | [Details](#7eaae8a11a43097d9079560566cbe605f6bfcf8f20)
+ [openpublishing\test\abtesting\single-topic.md](https://github.com/Microsoft/openpublishing-test/blob/71685b693a2720beb1b63040c6576217e9bcb8e7/openpublishing/test/abtesting/single-topic.md) | HandedOffSuccess | [Details](#efb939282e86dd5d6abb0a49156d90c3e2e16e2f21)
+ [openpublishing\test\abtesting\UM-AB-Portal-Experiment-New.png](https://github.com/Microsoft/openpublishing-test/blob/b0a6781e51aca147e972d8ba7508b58a498bf57d/openpublishing/test/abtesting/UM-AB-Portal-Experiment-New.png) | HandedOffSuccess | [Details](#d8f60d16a863b25a5f10a18bc44a0c76614d4bd922)
+ [openpublishing\test\abtesting\UM-AB-Portal-Experiments.png](https://github.com/Microsoft/openpublishing-test/blob/b0a6781e51aca147e972d8ba7508b58a498bf57d/openpublishing/test/abtesting/UM-AB-Portal-Experiments.png) | HandedOffSuccess | [Details](#ed6e256aa0a4afebf3aa254f4b8555ed3aa96e7324)
+ [openpublishing\test\abtesting\UM-AB-Portal-Experiments-Action.png](https://github.com/Microsoft/openpublishing-test/blob/b0a6781e51aca147e972d8ba7508b58a498bf57d/openpublishing/test/abtesting/UM-AB-Portal-Experiments-Action.png) | HandedOffSuccess | [Details](#7a5f1d3027f5c404b1d0b5f7e5a13859c98f714423)
  [openpublishing\test\abtesting\UM-AB-Portal-Metric-Report-Config.png](https://github.com/Microsoft/openpublishing-test/blob/b0a6781e51aca147e972d8ba7508b58a498bf57d/openpublishing/test/abtesting/UM-AB-Portal-Metric-Report-Config.png) | HandedOffSuccess | [Details](#b08419de5c61576d8cba079b263d09c14176abf125)
  [openpublishing\test\abtesting\UM-AB-Portal-Metric-Report-Result.png](https://github.com/Microsoft/openpublishing-test/blob/b0a6781e51aca147e972d8ba7508b58a498bf57d/openpublishing/test/abtesting/UM-AB-Portal-Metric-Report-Result.png) | HandedOffSuccess | [Details](#e0a2cfb0f44f0ca1730d147d6ce0c7bbf12677c826)
+ [openpublishing\test\abtesting\UM-AB-Portal-Metrics.png](https://github.com/Microsoft/openpublishing-test/blob/b0a6781e51aca147e972d8ba7508b58a498bf57d/openpublishing/test/abtesting/UM-AB-Portal-Metrics.png) | HandedOffSuccess | [Details](#fdefdf4e0c5a990e26aa3bfa0feb5e9b770eed1e29)
+ [openpublishing\test\abtesting\UM-AB-Portal-Metrics-Config.png](https://github.com/Microsoft/openpublishing-test/blob/9bce633743bdade7f7d4b7a82ae424c7204dcaee/openpublishing/test/abtesting/UM-AB-Portal-Metrics-Config.png) | HandedOffSuccess | [Details](#3ef8bdc8c711e0d812939e0839510959e135cbf227)
+ [openpublishing\test\abtesting\UM-AB-Portal-Metrics-Result.png](https://github.com/Microsoft/openpublishing-test/blob/b0a6781e51aca147e972d8ba7508b58a498bf57d/openpublishing/test/abtesting/UM-AB-Portal-Metrics-Result.png) | HandedOffSuccess | [Details](#2e32dcb5e35020dafe50b8524c2faa1f98987d2728)
+ [openpublishing\test\abtesting\UM-Cleanup-Content-Experiment.png](https://github.com/Microsoft/openpublishing-test/blob/65c9d0774bdffbe9be8931506783e8570bf1275a/openpublishing/test/abtesting/UM-Cleanup-Content-Experiment.png) | HandedOffSuccess | [Details](#683891ac1ac0ad3ef4a7076b18279b98c77a3f3f30)
+ [openpublishing\test\abtesting\UM-New-Content-Experiment.png](https://github.com/Microsoft/openpublishing-test/blob/65c9d0774bdffbe9be8931506783e8570bf1275a/openpublishing/test/abtesting/UM-New-Content-Experiment.png) | HandedOffSuccess | [Details](#9880407fcee1bdacd4b99a78656f846b39beb4ce31)
+ [openpublishing\test\abtesting\UM-OP-Portal.png](https://github.com/Microsoft/openpublishing-test/blob/9bce633743bdade7f7d4b7a82ae424c7204dcaee/openpublishing/test/abtesting/UM-OP-Portal.png) | HandedOffSuccess | [Details](#6b9ff10a197ad5bb1849ccd5eba49a57e7dd20a032)
+ [openpublishing\test\abtesting\UM-Prerequisite.png](https://github.com/Microsoft/openpublishing-test/blob/65c9d0774bdffbe9be8931506783e8570bf1275a/openpublishing/test/abtesting/UM-Prerequisite.png) | HandedOffSuccess | [Details](#807e1fd2ee56ea6d3cb6175a427b44b47145865233)
+ [openpublishing\test\abtesting\users-manual-content.md](https://github.com/Microsoft/openpublishing-test/blob/2b74048b8a326579303fa1d80818973db48c0740/openpublishing/test/abtesting/users-manual-content.md) | HandedOffSuccess | [Details](#9787781066568e31adf68f88f7e2df70a6c9d87334)
+ [openpublishing\test\conceptual\Image\ATA_Center_Configuration.JPG](https://github.com/Microsoft/openpublishing-test/blob/8680111b305d2e9d628bdfb225b5789daedc9930/openpublishing/test/conceptual/Image/ATA_Center_Configuration.JPG) | HandedOffSuccess | [Details](#377436ada10ce7d4412b6b256396ea85ad93c5af36)
+ [openpublishing\test\conceptual\Image\ATA_Config_GW_Settings.jpg](https://github.com/Microsoft/openpublishing-test/blob/8680111b305d2e9d628bdfb225b5789daedc9930/openpublishing/test/conceptual/Image/ATA_Config_GW_Settings.jpg) | HandedOffSuccess | [Details](#28b811e014fbf38741d81c7418c6bb70ead5df7437)
+ [openpublishing\test\conceptual\Image\ATA_config_icon.JPG](https://github.com/Microsoft/openpublishing-test/blob/8680111b305d2e9d628bdfb225b5789daedc9930/openpublishing/test/conceptual/Image/ATA_config_icon.JPG) | HandedOffSuccess | [Details](#28bff0237cf9625b464859bd7f3dc309779c7fcb38)
+ [openpublishing\test\conceptual\Image\ATA_Domain_Connectivity_User.JPG](https://github.com/Microsoft/openpublishing-test/blob/8680111b305d2e9d628bdfb225b5789daedc9930/openpublishing/test/conceptual/Image/ATA_Domain_Connectivity_User.JPG) | HandedOffSuccess | [Details](#5381c4c0d584f8697c8053ef5c9ee7b1ab576be339)
+ [openpublishing\test\conceptual\Image\ATA_Gateway_Configuration.JPG](https://github.com/Microsoft/openpublishing-test/blob/8680111b305d2e9d628bdfb225b5789daedc9930/openpublishing/test/conceptual/Image/ATA_Gateway_Configuration.JPG) | HandedOffSuccess | [Details](#b79a81b193f258cfee46d1a6478d89e46c7eecdc40)
+ [openpublishing\test\conceptual\Image\ATA_performance_monitoring_add_counters.png](https://github.com/Microsoft/openpublishing-test/blob/8680111b305d2e9d628bdfb225b5789daedc9930/openpublishing/test/conceptual/Image/ATA_performance_monitoring_add_counters.png) | HandedOffSuccess | [Details](#bb82c0e8ef39951a2f35466d9912fe622fdac06e41)
+ [openpublishing\test\conceptual\Image\ATA_VPN_Subnets.JPG](https://github.com/Microsoft/openpublishing-test/blob/8680111b305d2e9d628bdfb225b5789daedc9930/openpublishing/test/conceptual/Image/ATA_VPN_Subnets.JPG) | HandedOffSuccess | [Details](#ce4a21e892357049d70b5ff1aa708547ca715b1742)
+ [openpublishing\test\conceptual\Image\ATAGWDomainController.png](https://github.com/Microsoft/openpublishing-test/blob/8680111b305d2e9d628bdfb225b5789daedc9930/openpublishing/test/conceptual/Image/ATAGWDomainController.png) | HandedOffSuccess | [Details](#dddd652fb096923a6ac044e9d8c151dc1af2982f43)
+ [openpublishing\test\conceptual\index.md](https://github.com/Microsoft/openpublishing-test/blob/8dd499f133cb092193621f807bc8be32efd23701/openpublishing/test/conceptual/index.md) | HandedOffSuccess | [Details](#24519e1e62df780035867ba37ee1ad5c2f49dcba44)
+ [openpublishing\test\conceptual\large.md](https://github.com/Microsoft/openpublishing-test/blob/fa3049f443f2e3b983a425ac61af4e7f78975d86/openpublishing/test/conceptual/large.md) | HandedOffSuccess | [Details](#2c74bf2966966c6ad37f200ca48efce885e6fd4245)
  [openpublishing\test\conceptual\long-in-page-toc.md](https://github.com/Microsoft/openpublishing-test/blob/5f7f5f4557cd856ed04b831b79907f280309ec44/openpublishing/test/conceptual/long-in-page-toc.md) | HandedOffSuccess | [Details](#1823b566ff33a3906090adc8195f79bf2316e2d746)
+ [openpublishing\test\conceptual\small.md](https://github.com/Microsoft/openpublishing-test/blob/4a2201cb860ffb0fbc144546df4aeabb79d9bebc/openpublishing/test/conceptual/small.md) | HandedOffSuccess | [Details](#5e7fffb2ce1a7a2840d88d84054d08e191a2192647)
+ [openpublishing\test\conceptual\ui-components.md](https://github.com/Microsoft/openpublishing-test/blob/2e06057baa9027376c531cb05605534f32c96f74/openpublishing/test/conceptual/ui-components.md) | HandedOffSuccess | [Details](#9e5a9efd6e99911880b2ed237eb72355aeaf417c48)
  [openpublishing\test\f1query\f1_vbaac10.chm13359_csharp.md](https://github.com/Microsoft/openpublishing-test/blob/50c870ab1de7269c24842cbc624a611e142954a1/openpublishing/test/f1query/f1_vbaac10.chm13359_csharp.md) | HandedOffSuccess | [Details](#265c933fc20b14ef79b000c564889a3d88ea6a9d50)
  [openpublishing\test\f1query\f1_vbaac10.chm13359_fsharp.md](https://github.com/Microsoft/openpublishing-test/blob/50c870ab1de7269c24842cbc624a611e142954a1/openpublishing/test/f1query/f1_vbaac10.chm13359_fsharp.md) | HandedOffSuccess | [Details](#38c8105f4fbb0dfec22e6e51f869227c97f71e4d51)
  [openpublishing\test\f1query\f1_vblr6.chm50006_csharp.md](https://github.com/Microsoft/openpublishing-test/blob/adbce97a72df87e2e6fe156bcfaa8dcdb4a7607f/openpublishing/test/f1query/f1_vblr6.chm50006_csharp.md) | HandedOffSuccess | [Details](#e2aed9302c7cb8e539ce56533550f9fa41d6b3dd52)
@@ -31,8 +68,24 @@
  [openpublishing\test\hubpage\Image\intune_byod_icon.png](https://github.com/Microsoft/openpublishing-test/blob/1ce7be7cf87b268e8d20213ec38cfeb4fcf0cd85/openpublishing/test/hubpage/Image/intune_byod_icon.png) | HandedOffSuccess | [Details](#4801d4b24f8c66abc1da68e075962c5cc820f93056)
  [openpublishing\test\hubpage\Image\mobile_devices_icon.png](https://github.com/Microsoft/openpublishing-test/blob/1ce7be7cf87b268e8d20213ec38cfeb4fcf0cd85/openpublishing/test/hubpage/Image/mobile_devices_icon.png) | HandedOffSuccess | [Details](#0f669e5642999152c9bdeb33b2306a43714cab7957)
  [openpublishing\test\hubpage\Image\mobile_engagement_icon.png](https://github.com/Microsoft/openpublishing-test/blob/1ce7be7cf87b268e8d20213ec38cfeb4fcf0cd85/openpublishing/test/hubpage/Image/mobile_engagement_icon.png) | HandedOffSuccess | [Details](#b241a9a18fa3ab470534603d032fa7cf8ff0f06658)
+ [openpublishing\test\hubpage\index.md](https://github.com/Microsoft/openpublishing-test/blob/38a7d023dce193c55509cb7058192957f826a3c4/openpublishing/test/hubpage/index.md) | HandedOffSuccess | [Details](#b44b882c6b4382abdb108471d9a18b08aabf481a59)
  [openpublishing\test\hubpage\msdn.md](https://github.com/Microsoft/openpublishing-test/blob/88ad90a9ca08bf78ff10d594d31fe3ad532cccb3/openpublishing/test/hubpage/msdn.md) | HandedOffSuccess | [Details](#e0ebe8dfd51f384cb86214ede18631e97b536fe260)
+ [openpublishing\test\index.md](https://github.com/Microsoft/openpublishing-test/blob/36bf09e915408ec5b5e55bad41bd264c0c8019da/openpublishing/test/index.md) | HandedOffSuccess | [Details](#45dd1d9b2f9bd7ffd6aacb362cb357d0d759ca0861)
+ [openpublishing\test\redirectUrl\AbsoluteUrl.md](https://github.com/Microsoft/openpublishing-test/blob/62518dcd018a4943ac2b32790fe909b9b38e414c/openpublishing/test/redirectUrl/AbsoluteUrl.md) | HandedOffSuccess | [Details](#ab461ee969842b116ae71917bf13aad8c7d4641962)
+ [openpublishing\test\redirectUrl\AbsoluteUrlWithAAD.md](https://github.com/Microsoft/openpublishing-test/blob/62518dcd018a4943ac2b32790fe909b9b38e414c/openpublishing/test/redirectUrl/AbsoluteUrlWithAAD.md) | HandedOffSuccess | [Details](#af6e564603baf4fa350a6d32012c63533929f99d63)
+ [openpublishing\test\redirectUrl\EmptyRelativeUrl.md](https://github.com/Microsoft/openpublishing-test/blob/a5748b9235361629a3b31d50b0b463155cc6cff3/openpublishing/test/redirectUrl/EmptyRelativeUrl.md) | HandedOffSuccess | [Details](#97f9643630550d318d05bd40c92984aad0e15fa664)
+ [openpublishing\test\redirectUrl\index.md](https://github.com/Microsoft/openpublishing-test/blob/a5748b9235361629a3b31d50b0b463155cc6cff3/openpublishing/test/redirectUrl/index.md) | HandedOffSuccess | [Details](#df5c21d1b72e838c1ed9ab90b99fe6e517f7ce5765)
+ [openpublishing\test\redirectUrl\InvalidAbsoluteUrl.md](https://github.com/Microsoft/openpublishing-test/blob/a5748b9235361629a3b31d50b0b463155cc6cff3/openpublishing/test/redirectUrl/InvalidAbsoluteUrl.md) | HandedOffSuccess | [Details](#e1eecfa4a15569dcecca777198c4b842a601e99766)
+ [openpublishing\test\redirectUrl\InvalidRelativeUrl.md](https://github.com/Microsoft/openpublishing-test/blob/a5748b9235361629a3b31d50b0b463155cc6cff3/openpublishing/test/redirectUrl/InvalidRelativeUrl.md) | HandedOffSuccess | [Details](#f2c19bcda85343af7181484d46f5210bf6397e0867)
+ [openpublishing\test\redirectUrl\RelativePage.md](https://github.com/Microsoft/openpublishing-test/blob/a5748b9235361629a3b31d50b0b463155cc6cff3/openpublishing/test/redirectUrl/RelativePage.md) | HandedOffSuccess | [Details](#c8ce93c1a5249718623cd7cf68522458c16e411a68)
+ [openpublishing\test\redirectUrl\RelativeUrl.md](https://github.com/Microsoft/openpublishing-test/blob/a5748b9235361629a3b31d50b0b463155cc6cff3/openpublishing/test/redirectUrl/RelativeUrl.md) | HandedOffSuccess | [Details](#21ca3df676528bfd38463315cb4e1a2e0b7bfe2769)
+ [openpublishing\test\reference\index.md](https://github.com/Microsoft/openpublishing-test/blob/58988bbb4dc07b6ff3028d264e8aadd66dde5043/openpublishing/test/reference/index.md) | HandedOffSuccess | [Details](#6d2b50160b03e5b84aee01a3fa576535fc3ef20f70)
+ [openpublishing\test\restapi\contacts-operations.md](https://github.com/Microsoft/openpublishing-test/blob/bac5bd157c70a4cb2ddfc1328c78a7520d6ebefa/openpublishing/test/restapi/contacts-operations.md) | HandedOffSuccess | [Details](#0f4ae8a7a9939d3dbfcd1cb5a45365e03056959880)
+ [openpublishing\test\restapi\entity-and-complex-type-reference.md](https://github.com/Microsoft/openpublishing-test/blob/002218238f017f48603b6fb52b16156f9dfa30b6/openpublishing/test/restapi/entity-and-complex-type-reference.md) | HandedOffSuccess | [Details](#cea5a5636c53dc5c1a796db957bdfa7617ec83c282)
+ [openpublishing\test\restapi\index.md](https://github.com/Microsoft/openpublishing-test/blob/002218238f017f48603b6fb52b16156f9dfa30b6/openpublishing/test/restapi/index.md) | HandedOffSuccess | [Details](#6634f738b8d60ff203729eb957fa36f369492f4783)
+ [openpublishing\test\restapi\TOC.md](https://github.com/Microsoft/openpublishing-test/blob/002218238f017f48603b6fb52b16156f9dfa30b6/openpublishing/test/restapi/TOC.md) | HandedOffSuccess | [Details](#fdcba3f1cbf4d2f58308142276d5a8932ab0cd5f84)
  [openpublishing\test\swagger\build.md](https://github.com/Microsoft/openpublishing-test/blob/887fe7688c03e667e0c265da920dc09b91bb56e0/openpublishing/test/swagger/build.md) | HandedOffSuccess | [Details](#d2850f3636299983caf8c4adbc7bb01c110252c6117)
+ [openpublishing\test\TOC.md](https://github.com/Microsoft/openpublishing-test/blob/b8245d10d6bd665f57b96234191b903aff568309/openpublishing/test/TOC.md) | HandedOffSuccess | [Details](#37d041d98f93f71669a339052e84863c43fce355118)
  [openpublishing\test\token\ATA.md](https://github.com/Microsoft/openpublishing-test/blob/825da588c9d653fd79da108e6f04108751fa3214/openpublishing/test/token/ATA.md) | HandedOffSuccess | [Details](#f79d0dafcd03aae651c12dff5732673689e40e12119)
 
 ## <a name='archive-failed-list'></a> Archive Failed File List
@@ -42,61 +95,6 @@
 ## <a name='handback-failed-list'></a> Handback Failed File List
 
 ## <a name='outofsync-handback-success-list'></a> Out Of Sync Handback Success File List
- Source File | Status | Details 
- ----------- | ------ | ------- 
- [openpublishing\test\abtesting\content-ab-testing-flow.png](https://github.com/Microsoft/openpublishing-test/blob/2c0809abb1ca855e11015291ca9bb9f088aa3b4d/openpublishing/test/abtesting/content-ab-testing-flow.png) | OutofSyncHandedBackSuccess | [Details](#9f5f9e8e98a690691aa9904ed29a2a010c1bf4e57)
- [openpublishing\test\abtesting\control-panel.md](https://github.com/Microsoft/openpublishing-test/blob/22434e01f7f64f85e86d1a133d7a48c0508483e1/openpublishing/test/abtesting/control-panel.md) | OutofSyncHandedBackSuccess | [Details](#2a131af24d52573900faf54bb34aea0ebaadb58f8)
- [openpublishing\test\abtesting\global-ab-testing-flow.png](https://github.com/Microsoft/openpublishing-test/blob/2c0809abb1ca855e11015291ca9bb9f088aa3b4d/openpublishing/test/abtesting/global-ab-testing-flow.png) | OutofSyncHandedBackSuccess | [Details](#b73b8ccd489b2326f1b0c47d30be910c5c4788a79)
- [openpublishing\test\abtesting\iceberg.experimental.jpg](https://github.com/Microsoft/openpublishing-test/blob/912e3e489b53010448e5ffedb546fe735ed78e92/openpublishing/test/abtesting/iceberg.experimental.jpg) | OutofSyncHandedBackSuccess | [Details](#532748fbca6599349f0655e85e79d2103156bd9b10)
- [openpublishing\test\abtesting\iceberg.jpg](https://github.com/Microsoft/openpublishing-test/blob/2da5f4a65a0182980ba63ff3d4b57f53e710fa5f/openpublishing/test/abtesting/iceberg.jpg) | OutofSyncHandedBackSuccess | [Details](#7c634bd01edf790ef91ded6d44abee709be27adc11)
- [openpublishing\test\abtesting\index.md](https://github.com/Microsoft/openpublishing-test/blob/5ac55bf521ef3c7918cbad0f621cbc7891f294bf/openpublishing/test/abtesting/index.md) | OutofSyncHandedBackSuccess | [Details](#ac0e265a62582fd53b04e80de8d32a1e11795cea13)
- [openpublishing\test\abtesting\multiple-topics-bar.experimental.md](https://github.com/Microsoft/openpublishing-test/blob/c1fedee77b6c4e62b2738ce35dabe3731c7e0750/openpublishing/test/abtesting/multiple-topics-bar.experimental.md) | OutofSyncHandedBackSuccess | [Details](#f2d8e40529232e9898c297e3a0701cf3a832d56114)
- [openpublishing\test\abtesting\multiple-topics-bar.md](https://github.com/Microsoft/openpublishing-test/blob/c1fedee77b6c4e62b2738ce35dabe3731c7e0750/openpublishing/test/abtesting/multiple-topics-bar.md) | OutofSyncHandedBackSuccess | [Details](#079b91da083d4cf552a9785bd817314cc1f0c05a15)
- [openpublishing\test\abtesting\multiple-topics-baz.experimental.md](https://github.com/Microsoft/openpublishing-test/blob/c1fedee77b6c4e62b2738ce35dabe3731c7e0750/openpublishing/test/abtesting/multiple-topics-baz.experimental.md) | OutofSyncHandedBackSuccess | [Details](#2d72efc56b615020d9c907194d796c287cdff93916)
- [openpublishing\test\abtesting\multiple-topics-baz.md](https://github.com/Microsoft/openpublishing-test/blob/c1fedee77b6c4e62b2738ce35dabe3731c7e0750/openpublishing/test/abtesting/multiple-topics-baz.md) | OutofSyncHandedBackSuccess | [Details](#9a2f58583677d63397a3ce24f2ede67c1f5ebffb17)
- [openpublishing\test\abtesting\multiple-topics-foo.experimental.md](https://github.com/Microsoft/openpublishing-test/blob/c1fedee77b6c4e62b2738ce35dabe3731c7e0750/openpublishing/test/abtesting/multiple-topics-foo.experimental.md) | OutofSyncHandedBackSuccess | [Details](#3eac377920ef84b4a1266ef73468ea459e5d7cdf18)
- [openpublishing\test\abtesting\multiple-topics-foo.md](https://github.com/Microsoft/openpublishing-test/blob/c1fedee77b6c4e62b2738ce35dabe3731c7e0750/openpublishing/test/abtesting/multiple-topics-foo.md) | OutofSyncHandedBackSuccess | [Details](#6d14893946a025f324e39edce7ed8fca7a8a562519)
- [openpublishing\test\abtesting\single-topic.experimental.md](https://github.com/Microsoft/openpublishing-test/blob/71685b693a2720beb1b63040c6576217e9bcb8e7/openpublishing/test/abtesting/single-topic.experimental.md) | OutofSyncHandedBackSuccess | [Details](#7eaae8a11a43097d9079560566cbe605f6bfcf8f20)
- [openpublishing\test\abtesting\single-topic.md](https://github.com/Microsoft/openpublishing-test/blob/71685b693a2720beb1b63040c6576217e9bcb8e7/openpublishing/test/abtesting/single-topic.md) | OutofSyncHandedBackSuccess | [Details](#efb939282e86dd5d6abb0a49156d90c3e2e16e2f21)
- [openpublishing\test\abtesting\UM-AB-Portal-Experiment-New.png](https://github.com/Microsoft/openpublishing-test/blob/b0a6781e51aca147e972d8ba7508b58a498bf57d/openpublishing/test/abtesting/UM-AB-Portal-Experiment-New.png) | OutofSyncHandedBackSuccess | [Details](#d8f60d16a863b25a5f10a18bc44a0c76614d4bd922)
- [openpublishing\test\abtesting\UM-AB-Portal-Experiments.png](https://github.com/Microsoft/openpublishing-test/blob/b0a6781e51aca147e972d8ba7508b58a498bf57d/openpublishing/test/abtesting/UM-AB-Portal-Experiments.png) | OutofSyncHandedBackSuccess | [Details](#ed6e256aa0a4afebf3aa254f4b8555ed3aa96e7324)
- [openpublishing\test\abtesting\UM-AB-Portal-Experiments-Action.png](https://github.com/Microsoft/openpublishing-test/blob/b0a6781e51aca147e972d8ba7508b58a498bf57d/openpublishing/test/abtesting/UM-AB-Portal-Experiments-Action.png) | OutofSyncHandedBackSuccess | [Details](#7a5f1d3027f5c404b1d0b5f7e5a13859c98f714423)
- [openpublishing\test\abtesting\UM-AB-Portal-Metrics.png](https://github.com/Microsoft/openpublishing-test/blob/b0a6781e51aca147e972d8ba7508b58a498bf57d/openpublishing/test/abtesting/UM-AB-Portal-Metrics.png) | OutofSyncHandedBackSuccess | [Details](#fdefdf4e0c5a990e26aa3bfa0feb5e9b770eed1e29)
- [openpublishing\test\abtesting\UM-AB-Portal-Metrics-Config.png](https://github.com/Microsoft/openpublishing-test/blob/9bce633743bdade7f7d4b7a82ae424c7204dcaee/openpublishing/test/abtesting/UM-AB-Portal-Metrics-Config.png) | OutofSyncHandedBackSuccess | [Details](#3ef8bdc8c711e0d812939e0839510959e135cbf227)
- [openpublishing\test\abtesting\UM-AB-Portal-Metrics-Result.png](https://github.com/Microsoft/openpublishing-test/blob/b0a6781e51aca147e972d8ba7508b58a498bf57d/openpublishing/test/abtesting/UM-AB-Portal-Metrics-Result.png) | OutofSyncHandedBackSuccess | [Details](#2e32dcb5e35020dafe50b8524c2faa1f98987d2728)
- [openpublishing\test\abtesting\UM-Cleanup-Content-Experiment.png](https://github.com/Microsoft/openpublishing-test/blob/65c9d0774bdffbe9be8931506783e8570bf1275a/openpublishing/test/abtesting/UM-Cleanup-Content-Experiment.png) | OutofSyncHandedBackSuccess | [Details](#683891ac1ac0ad3ef4a7076b18279b98c77a3f3f30)
- [openpublishing\test\abtesting\UM-New-Content-Experiment.png](https://github.com/Microsoft/openpublishing-test/blob/65c9d0774bdffbe9be8931506783e8570bf1275a/openpublishing/test/abtesting/UM-New-Content-Experiment.png) | OutofSyncHandedBackSuccess | [Details](#9880407fcee1bdacd4b99a78656f846b39beb4ce31)
- [openpublishing\test\abtesting\UM-OP-Portal.png](https://github.com/Microsoft/openpublishing-test/blob/9bce633743bdade7f7d4b7a82ae424c7204dcaee/openpublishing/test/abtesting/UM-OP-Portal.png) | OutofSyncHandedBackSuccess | [Details](#6b9ff10a197ad5bb1849ccd5eba49a57e7dd20a032)
- [openpublishing\test\abtesting\UM-Prerequisite.png](https://github.com/Microsoft/openpublishing-test/blob/65c9d0774bdffbe9be8931506783e8570bf1275a/openpublishing/test/abtesting/UM-Prerequisite.png) | OutofSyncHandedBackSuccess | [Details](#807e1fd2ee56ea6d3cb6175a427b44b47145865233)
- [openpublishing\test\abtesting\users-manual-content.md](https://github.com/Microsoft/openpublishing-test/blob/2b74048b8a326579303fa1d80818973db48c0740/openpublishing/test/abtesting/users-manual-content.md) | OutofSyncHandedBackSuccess | [Details](#9787781066568e31adf68f88f7e2df70a6c9d87334)
- [openpublishing\test\conceptual\Image\ATA_Center_Configuration.JPG](https://github.com/Microsoft/openpublishing-test/blob/8680111b305d2e9d628bdfb225b5789daedc9930/openpublishing/test/conceptual/Image/ATA_Center_Configuration.JPG) | OutofSyncHandedBackSuccess | [Details](#377436ada10ce7d4412b6b256396ea85ad93c5af36)
- [openpublishing\test\conceptual\Image\ATA_Config_GW_Settings.jpg](https://github.com/Microsoft/openpublishing-test/blob/8680111b305d2e9d628bdfb225b5789daedc9930/openpublishing/test/conceptual/Image/ATA_Config_GW_Settings.jpg) | OutofSyncHandedBackSuccess | [Details](#28b811e014fbf38741d81c7418c6bb70ead5df7437)
- [openpublishing\test\conceptual\Image\ATA_config_icon.JPG](https://github.com/Microsoft/openpublishing-test/blob/8680111b305d2e9d628bdfb225b5789daedc9930/openpublishing/test/conceptual/Image/ATA_config_icon.JPG) | OutofSyncHandedBackSuccess | [Details](#28bff0237cf9625b464859bd7f3dc309779c7fcb38)
- [openpublishing\test\conceptual\Image\ATA_Domain_Connectivity_User.JPG](https://github.com/Microsoft/openpublishing-test/blob/8680111b305d2e9d628bdfb225b5789daedc9930/openpublishing/test/conceptual/Image/ATA_Domain_Connectivity_User.JPG) | OutofSyncHandedBackSuccess | [Details](#5381c4c0d584f8697c8053ef5c9ee7b1ab576be339)
- [openpublishing\test\conceptual\Image\ATA_Gateway_Configuration.JPG](https://github.com/Microsoft/openpublishing-test/blob/8680111b305d2e9d628bdfb225b5789daedc9930/openpublishing/test/conceptual/Image/ATA_Gateway_Configuration.JPG) | OutofSyncHandedBackSuccess | [Details](#b79a81b193f258cfee46d1a6478d89e46c7eecdc40)
- [openpublishing\test\conceptual\Image\ATA_performance_monitoring_add_counters.png](https://github.com/Microsoft/openpublishing-test/blob/8680111b305d2e9d628bdfb225b5789daedc9930/openpublishing/test/conceptual/Image/ATA_performance_monitoring_add_counters.png) | OutofSyncHandedBackSuccess | [Details](#bb82c0e8ef39951a2f35466d9912fe622fdac06e41)
- [openpublishing\test\conceptual\Image\ATA_VPN_Subnets.JPG](https://github.com/Microsoft/openpublishing-test/blob/8680111b305d2e9d628bdfb225b5789daedc9930/openpublishing/test/conceptual/Image/ATA_VPN_Subnets.JPG) | OutofSyncHandedBackSuccess | [Details](#ce4a21e892357049d70b5ff1aa708547ca715b1742)
- [openpublishing\test\conceptual\Image\ATAGWDomainController.png](https://github.com/Microsoft/openpublishing-test/blob/8680111b305d2e9d628bdfb225b5789daedc9930/openpublishing/test/conceptual/Image/ATAGWDomainController.png) | OutofSyncHandedBackSuccess | [Details](#dddd652fb096923a6ac044e9d8c151dc1af2982f43)
- [openpublishing\test\conceptual\index.md](https://github.com/Microsoft/openpublishing-test/blob/8dd499f133cb092193621f807bc8be32efd23701/openpublishing/test/conceptual/index.md) | OutofSyncHandedBackSuccess | [Details](#24519e1e62df780035867ba37ee1ad5c2f49dcba44)
- [openpublishing\test\conceptual\large.md](https://github.com/Microsoft/openpublishing-test/blob/fa3049f443f2e3b983a425ac61af4e7f78975d86/openpublishing/test/conceptual/large.md) | OutofSyncHandedBackSuccess | [Details](#2c74bf2966966c6ad37f200ca48efce885e6fd4245)
- [openpublishing\test\conceptual\small.md](https://github.com/Microsoft/openpublishing-test/blob/4a2201cb860ffb0fbc144546df4aeabb79d9bebc/openpublishing/test/conceptual/small.md) | OutofSyncHandedBackSuccess | [Details](#5e7fffb2ce1a7a2840d88d84054d08e191a2192647)
- [openpublishing\test\conceptual\ui-components.md](https://github.com/Microsoft/openpublishing-test/blob/2e06057baa9027376c531cb05605534f32c96f74/openpublishing/test/conceptual/ui-components.md) | OutofSyncHandedBackSuccess | [Details](#9e5a9efd6e99911880b2ed237eb72355aeaf417c48)
- [openpublishing\test\hubpage\index.md](https://github.com/Microsoft/openpublishing-test/blob/38a7d023dce193c55509cb7058192957f826a3c4/openpublishing/test/hubpage/index.md) | OutofSyncHandedBackSuccess | [Details](#b44b882c6b4382abdb108471d9a18b08aabf481a59)
- [openpublishing\test\index.md](https://github.com/Microsoft/openpublishing-test/blob/36bf09e915408ec5b5e55bad41bd264c0c8019da/openpublishing/test/index.md) | OutofSyncHandedBackSuccess | [Details](#45dd1d9b2f9bd7ffd6aacb362cb357d0d759ca0861)
- [openpublishing\test\redirectUrl\AbsoluteUrl.md](https://github.com/Microsoft/openpublishing-test/blob/62518dcd018a4943ac2b32790fe909b9b38e414c/openpublishing/test/redirectUrl/AbsoluteUrl.md) | OutofSyncHandedBackSuccess | [Details](#ab461ee969842b116ae71917bf13aad8c7d4641962)
- [openpublishing\test\redirectUrl\AbsoluteUrlWithAAD.md](https://github.com/Microsoft/openpublishing-test/blob/62518dcd018a4943ac2b32790fe909b9b38e414c/openpublishing/test/redirectUrl/AbsoluteUrlWithAAD.md) | OutofSyncHandedBackSuccess | [Details](#af6e564603baf4fa350a6d32012c63533929f99d63)
- [openpublishing\test\redirectUrl\EmptyRelativeUrl.md](https://github.com/Microsoft/openpublishing-test/blob/a5748b9235361629a3b31d50b0b463155cc6cff3/openpublishing/test/redirectUrl/EmptyRelativeUrl.md) | OutofSyncHandedBackSuccess | [Details](#97f9643630550d318d05bd40c92984aad0e15fa664)
- [openpublishing\test\redirectUrl\index.md](https://github.com/Microsoft/openpublishing-test/blob/a5748b9235361629a3b31d50b0b463155cc6cff3/openpublishing/test/redirectUrl/index.md) | OutofSyncHandedBackSuccess | [Details](#df5c21d1b72e838c1ed9ab90b99fe6e517f7ce5765)
- [openpublishing\test\redirectUrl\InvalidAbsoluteUrl.md](https://github.com/Microsoft/openpublishing-test/blob/a5748b9235361629a3b31d50b0b463155cc6cff3/openpublishing/test/redirectUrl/InvalidAbsoluteUrl.md) | OutofSyncHandedBackSuccess | [Details](#e1eecfa4a15569dcecca777198c4b842a601e99766)
- [openpublishing\test\redirectUrl\InvalidRelativeUrl.md](https://github.com/Microsoft/openpublishing-test/blob/a5748b9235361629a3b31d50b0b463155cc6cff3/openpublishing/test/redirectUrl/InvalidRelativeUrl.md) | OutofSyncHandedBackSuccess | [Details](#f2c19bcda85343af7181484d46f5210bf6397e0867)
- [openpublishing\test\redirectUrl\RelativePage.md](https://github.com/Microsoft/openpublishing-test/blob/a5748b9235361629a3b31d50b0b463155cc6cff3/openpublishing/test/redirectUrl/RelativePage.md) | OutofSyncHandedBackSuccess | [Details](#c8ce93c1a5249718623cd7cf68522458c16e411a68)
- [openpublishing\test\redirectUrl\RelativeUrl.md](https://github.com/Microsoft/openpublishing-test/blob/a5748b9235361629a3b31d50b0b463155cc6cff3/openpublishing/test/redirectUrl/RelativeUrl.md) | OutofSyncHandedBackSuccess | [Details](#21ca3df676528bfd38463315cb4e1a2e0b7bfe2769)
- [openpublishing\test\reference\index.md](https://github.com/Microsoft/openpublishing-test/blob/58988bbb4dc07b6ff3028d264e8aadd66dde5043/openpublishing/test/reference/index.md) | OutofSyncHandedBackSuccess | [Details](#6d2b50160b03e5b84aee01a3fa576535fc3ef20f70)
- [openpublishing\test\restapi\contacts-operations.md](https://github.com/Microsoft/openpublishing-test/blob/bac5bd157c70a4cb2ddfc1328c78a7520d6ebefa/openpublishing/test/restapi/contacts-operations.md) | OutofSyncHandedBackSuccess | [Details](#0f4ae8a7a9939d3dbfcd1cb5a45365e03056959880)
- [openpublishing\test\restapi\entity-and-complex-type-reference.md](https://github.com/Microsoft/openpublishing-test/blob/002218238f017f48603b6fb52b16156f9dfa30b6/openpublishing/test/restapi/entity-and-complex-type-reference.md) | OutofSyncHandedBackSuccess | [Details](#cea5a5636c53dc5c1a796db957bdfa7617ec83c282)
- [openpublishing\test\restapi\index.md](https://github.com/Microsoft/openpublishing-test/blob/002218238f017f48603b6fb52b16156f9dfa30b6/openpublishing/test/restapi/index.md) | OutofSyncHandedBackSuccess | [Details](#6634f738b8d60ff203729eb957fa36f369492f4783)
- [openpublishing\test\restapi\TOC.md](https://github.com/Microsoft/openpublishing-test/blob/002218238f017f48603b6fb52b16156f9dfa30b6/openpublishing/test/restapi/TOC.md) | OutofSyncHandedBackSuccess | [Details](#fdcba3f1cbf4d2f58308142276d5a8932ab0cd5f84)
- [openpublishing\test\TOC.md](https://github.com/Microsoft/openpublishing-test/blob/b8245d10d6bd665f57b96234191b903aff568309/openpublishing/test/TOC.md) | OutofSyncHandedBackSuccess | [Details](#37d041d98f93f71669a339052e84863c43fce355118)
 
 ## <a name='insync-handback-success-list'></a> In Sync Handback File Success List
 
@@ -242,7 +240,7 @@
 * [Back to Top](#report-top)
 
 ##### <a name='9f5f9e8e98a690691aa9904ed29a2a010c1bf4e57'></a> Source: [openpublishing\test\abtesting\content-ab-testing-flow.png](https://github.com/Microsoft/openpublishing-test/blob/2c0809abb1ca855e11015291ca9bb9f088aa3b4d/openpublishing/test/abtesting/content-ab-testing-flow.png)
-* Status: OutofSyncHandedBackSuccess
+* Status: HandedOffSuccess
 * Target File: [openpublishing\test\abtesting\content-ab-testing-flow.png](https://github.com/openpublish/openpublishing-test.de-de/blob/6257e6251479504743e22f5ab322a7b0a6b92b6a/openpublishing/test/abtesting/content-ab-testing-flow.png)
 * Handoff File: [9f5f9e8e98a690691aa9904ed29a2a010c1bf4e5.png](https://github.com/openpublish/openpublishing-handoff-test/blob/cad1990f39dac29756127b8e2cca9f3081c64ab7/ol-handoff/openpublish/openpublishing-test.de-de/master/9f5f9e8e98a690691aa9904ed29a2a010c1bf4e5.png)
 * Handoff Datetime: 2016-07-28 07:39:49
@@ -255,7 +253,7 @@
 * [Back to Top](#report-top)
 
 ##### <a name='2a131af24d52573900faf54bb34aea0ebaadb58f8'></a> Source: [openpublishing\test\abtesting\control-panel.md](https://github.com/Microsoft/openpublishing-test/blob/22434e01f7f64f85e86d1a133d7a48c0508483e1/openpublishing/test/abtesting/control-panel.md)
-* Status: OutofSyncHandedBackSuccess
+* Status: HandedOffSuccess
 * Target File: [openpublishing\test\abtesting\control-panel.md](https://github.com/openpublish/openpublishing-test.de-de/blob/bc8995617c53cb85b3155daeebc3bbfd605971ca/openpublishing/test/abtesting/control-panel.md)
 * Handoff File: [control-panel.611c914fc083e64635d4fcb7c78760cde4272425.de-de.xlf](https://github.com/openpublish/openpublishing-handoff-test/blob/69d044923f05f1c237ff81b7229a2ad11a3b86c1/ol-handoff/openpublish/openpublishing-test.de-de/master/control-panel.611c914fc083e64635d4fcb7c78760cde4272425.de-de.xlf)
 * Handoff Datetime: 2016-06-27 09:43:46
@@ -267,7 +265,7 @@
 * [Back to Top](#report-top)
 
 ##### <a name='b73b8ccd489b2326f1b0c47d30be910c5c4788a79'></a> Source: [openpublishing\test\abtesting\global-ab-testing-flow.png](https://github.com/Microsoft/openpublishing-test/blob/2c0809abb1ca855e11015291ca9bb9f088aa3b4d/openpublishing/test/abtesting/global-ab-testing-flow.png)
-* Status: OutofSyncHandedBackSuccess
+* Status: HandedOffSuccess
 * Target File: [openpublishing\test\abtesting\global-ab-testing-flow.png](https://github.com/openpublish/openpublishing-test.de-de/blob/6257e6251479504743e22f5ab322a7b0a6b92b6a/openpublishing/test/abtesting/global-ab-testing-flow.png)
 * Handoff File: [b73b8ccd489b2326f1b0c47d30be910c5c4788a7.png](https://github.com/openpublish/openpublishing-handoff-test/blob/cad1990f39dac29756127b8e2cca9f3081c64ab7/ol-handoff/openpublish/openpublishing-test.de-de/master/b73b8ccd489b2326f1b0c47d30be910c5c4788a7.png)
 * Handoff Datetime: 2016-07-28 07:39:49
@@ -280,7 +278,7 @@
 * [Back to Top](#report-top)
 
 ##### <a name='532748fbca6599349f0655e85e79d2103156bd9b10'></a> Source: [openpublishing\test\abtesting\iceberg.experimental.jpg](https://github.com/Microsoft/openpublishing-test/blob/912e3e489b53010448e5ffedb546fe735ed78e92/openpublishing/test/abtesting/iceberg.experimental.jpg)
-* Status: OutofSyncHandedBackSuccess
+* Status: HandedOffSuccess
 * Target File: [openpublishing\test\abtesting\iceberg.experimental.jpg](https://github.com/openpublish/openpublishing-test.de-de/blob/6257e6251479504743e22f5ab322a7b0a6b92b6a/openpublishing/test/abtesting/iceberg.experimental.jpg)
 * Handoff File: [532748fbca6599349f0655e85e79d2103156bd9b.jpg](https://github.com/openpublish/openpublishing-handoff-test/blob/cad1990f39dac29756127b8e2cca9f3081c64ab7/ol-handoff/openpublish/openpublishing-test.de-de/master/532748fbca6599349f0655e85e79d2103156bd9b.jpg)
 * Handoff Datetime: 2016-07-28 07:39:49
@@ -293,7 +291,7 @@
 * [Back to Top](#report-top)
 
 ##### <a name='7c634bd01edf790ef91ded6d44abee709be27adc11'></a> Source: [openpublishing\test\abtesting\iceberg.jpg](https://github.com/Microsoft/openpublishing-test/blob/2da5f4a65a0182980ba63ff3d4b57f53e710fa5f/openpublishing/test/abtesting/iceberg.jpg)
-* Status: OutofSyncHandedBackSuccess
+* Status: HandedOffSuccess
 * Target File: [openpublishing\test\abtesting\iceberg.jpg](https://github.com/openpublish/openpublishing-test.de-de/blob/6257e6251479504743e22f5ab322a7b0a6b92b6a/openpublishing/test/abtesting/iceberg.jpg)
 * Handoff File: [7c634bd01edf790ef91ded6d44abee709be27adc.jpg](https://github.com/openpublish/openpublishing-handoff-test/blob/cad1990f39dac29756127b8e2cca9f3081c64ab7/ol-handoff/openpublish/openpublishing-test.de-de/master/7c634bd01edf790ef91ded6d44abee709be27adc.jpg)
 * Handoff Datetime: 2016-07-28 07:39:49
@@ -318,7 +316,7 @@
 * [Back to Top](#report-top)
 
 ##### <a name='ac0e265a62582fd53b04e80de8d32a1e11795cea13'></a> Source: [openpublishing\test\abtesting\index.md](https://github.com/Microsoft/openpublishing-test/blob/5ac55bf521ef3c7918cbad0f621cbc7891f294bf/openpublishing/test/abtesting/index.md)
-* Status: OutofSyncHandedBackSuccess
+* Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [index.1ccbda7a83b0df0ee5537fdcd6c2395c537bb9e8.de-de.xlf](https://github.com/openpublish/openpublishing-handoff-test/blob/589ae1fd4b0007d4994c47536b0694ae392f5201/ol-handoff/openpublish/openpublishing-test.de-de/master/index.1ccbda7a83b0df0ee5537fdcd6c2395c537bb9e8.de-de.xlf)
 * Handoff Datetime: 2016-06-12 07:00:41
@@ -333,7 +331,7 @@
 * [Back to Top](#report-top)
 
 ##### <a name='f2d8e40529232e9898c297e3a0701cf3a832d56114'></a> Source: [openpublishing\test\abtesting\multiple-topics-bar.experimental.md](https://github.com/Microsoft/openpublishing-test/blob/c1fedee77b6c4e62b2738ce35dabe3731c7e0750/openpublishing/test/abtesting/multiple-topics-bar.experimental.md)
-* Status: OutofSyncHandedBackSuccess
+* Status: HandedOffSuccess
 * Target File: [openpublishing\test\abtesting\multiple-topics-bar.experimental.md](https://github.com/openpublish/openpublishing-test.de-de/blob/bc8995617c53cb85b3155daeebc3bbfd605971ca/openpublishing/test/abtesting/multiple-topics-bar.experimental.md)
 * Handoff File: [multiple-topics-bar.experimental.9bbc3fdd6b4faf3f3f17c583f2e2c5aa7ca6d14d.de-de.xlf](https://github.com/openpublish/openpublishing-handoff-test/blob/69d044923f05f1c237ff81b7229a2ad11a3b86c1/ol-handoff/openpublish/openpublishing-test.de-de/master/multiple-topics-bar.experimental.9bbc3fdd6b4faf3f3f17c583f2e2c5aa7ca6d14d.de-de.xlf)
 * Handoff Datetime: 2016-06-27 09:43:46
@@ -345,7 +343,7 @@
 * [Back to Top](#report-top)
 
 ##### <a name='079b91da083d4cf552a9785bd817314cc1f0c05a15'></a> Source: [openpublishing\test\abtesting\multiple-topics-bar.md](https://github.com/Microsoft/openpublishing-test/blob/c1fedee77b6c4e62b2738ce35dabe3731c7e0750/openpublishing/test/abtesting/multiple-topics-bar.md)
-* Status: OutofSyncHandedBackSuccess
+* Status: HandedOffSuccess
 * Target File: [openpublishing\test\abtesting\multiple-topics-bar.md](https://github.com/openpublish/openpublishing-test.de-de/blob/bc8995617c53cb85b3155daeebc3bbfd605971ca/openpublishing/test/abtesting/multiple-topics-bar.md)
 * Handoff File: [multiple-topics-bar.b2dc6798d40a4351c453299ae8b2cc8c6ae4ab4e.de-de.xlf](https://github.com/openpublish/openpublishing-handoff-test/blob/69d044923f05f1c237ff81b7229a2ad11a3b86c1/ol-handoff/openpublish/openpublishing-test.de-de/master/multiple-topics-bar.b2dc6798d40a4351c453299ae8b2cc8c6ae4ab4e.de-de.xlf)
 * Handoff Datetime: 2016-06-27 09:43:46
@@ -357,7 +355,7 @@
 * [Back to Top](#report-top)
 
 ##### <a name='2d72efc56b615020d9c907194d796c287cdff93916'></a> Source: [openpublishing\test\abtesting\multiple-topics-baz.experimental.md](https://github.com/Microsoft/openpublishing-test/blob/c1fedee77b6c4e62b2738ce35dabe3731c7e0750/openpublishing/test/abtesting/multiple-topics-baz.experimental.md)
-* Status: OutofSyncHandedBackSuccess
+* Status: HandedOffSuccess
 * Target File: [openpublishing\test\abtesting\multiple-topics-baz.experimental.md](https://github.com/openpublish/openpublishing-test.de-de/blob/bc8995617c53cb85b3155daeebc3bbfd605971ca/openpublishing/test/abtesting/multiple-topics-baz.experimental.md)
 * Handoff File: [multiple-topics-baz.experimental.9695f25e3786c84666a85d797741bca363b79f24.de-de.xlf](https://github.com/openpublish/openpublishing-handoff-test/blob/69d044923f05f1c237ff81b7229a2ad11a3b86c1/ol-handoff/openpublish/openpublishing-test.de-de/master/multiple-topics-baz.experimental.9695f25e3786c84666a85d797741bca363b79f24.de-de.xlf)
 * Handoff Datetime: 2016-06-27 09:43:46
@@ -369,7 +367,7 @@
 * [Back to Top](#report-top)
 
 ##### <a name='9a2f58583677d63397a3ce24f2ede67c1f5ebffb17'></a> Source: [openpublishing\test\abtesting\multiple-topics-baz.md](https://github.com/Microsoft/openpublishing-test/blob/c1fedee77b6c4e62b2738ce35dabe3731c7e0750/openpublishing/test/abtesting/multiple-topics-baz.md)
-* Status: OutofSyncHandedBackSuccess
+* Status: HandedOffSuccess
 * Target File: [openpublishing\test\abtesting\multiple-topics-baz.md](https://github.com/openpublish/openpublishing-test.de-de/blob/bc8995617c53cb85b3155daeebc3bbfd605971ca/openpublishing/test/abtesting/multiple-topics-baz.md)
 * Handoff File: [multiple-topics-baz.96866be8084a8e2c2e6f42872b6cc406d216d6e2.de-de.xlf](https://github.com/openpublish/openpublishing-handoff-test/blob/69d044923f05f1c237ff81b7229a2ad11a3b86c1/ol-handoff/openpublish/openpublishing-test.de-de/master/multiple-topics-baz.96866be8084a8e2c2e6f42872b6cc406d216d6e2.de-de.xlf)
 * Handoff Datetime: 2016-06-27 09:43:46
@@ -381,7 +379,7 @@
 * [Back to Top](#report-top)
 
 ##### <a name='3eac377920ef84b4a1266ef73468ea459e5d7cdf18'></a> Source: [openpublishing\test\abtesting\multiple-topics-foo.experimental.md](https://github.com/Microsoft/openpublishing-test/blob/c1fedee77b6c4e62b2738ce35dabe3731c7e0750/openpublishing/test/abtesting/multiple-topics-foo.experimental.md)
-* Status: OutofSyncHandedBackSuccess
+* Status: HandedOffSuccess
 * Target File: [openpublishing\test\abtesting\multiple-topics-foo.experimental.md](https://github.com/openpublish/openpublishing-test.de-de/blob/bc8995617c53cb85b3155daeebc3bbfd605971ca/openpublishing/test/abtesting/multiple-topics-foo.experimental.md)
 * Handoff File: [multiple-topics-foo.experimental.ec8f896807eb094f82861165b0cd0792b541ed98.de-de.xlf](https://github.com/openpublish/openpublishing-handoff-test/blob/69d044923f05f1c237ff81b7229a2ad11a3b86c1/ol-handoff/openpublish/openpublishing-test.de-de/master/multiple-topics-foo.experimental.ec8f896807eb094f82861165b0cd0792b541ed98.de-de.xlf)
 * Handoff Datetime: 2016-06-27 09:43:46
@@ -393,7 +391,7 @@
 * [Back to Top](#report-top)
 
 ##### <a name='6d14893946a025f324e39edce7ed8fca7a8a562519'></a> Source: [openpublishing\test\abtesting\multiple-topics-foo.md](https://github.com/Microsoft/openpublishing-test/blob/c1fedee77b6c4e62b2738ce35dabe3731c7e0750/openpublishing/test/abtesting/multiple-topics-foo.md)
-* Status: OutofSyncHandedBackSuccess
+* Status: HandedOffSuccess
 * Target File: [openpublishing\test\abtesting\multiple-topics-foo.md](https://github.com/openpublish/openpublishing-test.de-de/blob/bc8995617c53cb85b3155daeebc3bbfd605971ca/openpublishing/test/abtesting/multiple-topics-foo.md)
 * Handoff File: [multiple-topics-foo.41e9841836ab4fd24846285274846c979199e46a.de-de.xlf](https://github.com/openpublish/openpublishing-handoff-test/blob/69d044923f05f1c237ff81b7229a2ad11a3b86c1/ol-handoff/openpublish/openpublishing-test.de-de/master/multiple-topics-foo.41e9841836ab4fd24846285274846c979199e46a.de-de.xlf)
 * Handoff Datetime: 2016-06-27 09:43:46
@@ -405,7 +403,7 @@
 * [Back to Top](#report-top)
 
 ##### <a name='7eaae8a11a43097d9079560566cbe605f6bfcf8f20'></a> Source: [openpublishing\test\abtesting\single-topic.experimental.md](https://github.com/Microsoft/openpublishing-test/blob/71685b693a2720beb1b63040c6576217e9bcb8e7/openpublishing/test/abtesting/single-topic.experimental.md)
-* Status: OutofSyncHandedBackSuccess
+* Status: HandedOffSuccess
 * Target File: [openpublishing\test\abtesting\single-topic.experimental.md](https://github.com/openpublish/openpublishing-test.de-de/blob/bc8995617c53cb85b3155daeebc3bbfd605971ca/openpublishing/test/abtesting/single-topic.experimental.md)
 * Handoff File: [single-topic.experimental.8b4e516cbf2629e5a9f5320bb921ecc585dc68fd.de-de.xlf](https://github.com/openpublish/openpublishing-handoff-test/blob/69d044923f05f1c237ff81b7229a2ad11a3b86c1/ol-handoff/openpublish/openpublishing-test.de-de/master/single-topic.experimental.8b4e516cbf2629e5a9f5320bb921ecc585dc68fd.de-de.xlf)
 * Handoff Datetime: 2016-06-27 09:43:46
@@ -417,7 +415,7 @@
 * [Back to Top](#report-top)
 
 ##### <a name='efb939282e86dd5d6abb0a49156d90c3e2e16e2f21'></a> Source: [openpublishing\test\abtesting\single-topic.md](https://github.com/Microsoft/openpublishing-test/blob/71685b693a2720beb1b63040c6576217e9bcb8e7/openpublishing/test/abtesting/single-topic.md)
-* Status: OutofSyncHandedBackSuccess
+* Status: HandedOffSuccess
 * Target File: [openpublishing\test\abtesting\single-topic.md](https://github.com/openpublish/openpublishing-test.de-de/blob/bc8995617c53cb85b3155daeebc3bbfd605971ca/openpublishing/test/abtesting/single-topic.md)
 * Handoff File: [single-topic.30dfa20aeacb6673b5dea3ff084ef31f9a7819e0.de-de.xlf](https://github.com/openpublish/openpublishing-handoff-test/blob/69d044923f05f1c237ff81b7229a2ad11a3b86c1/ol-handoff/openpublish/openpublishing-test.de-de/master/single-topic.30dfa20aeacb6673b5dea3ff084ef31f9a7819e0.de-de.xlf)
 * Handoff Datetime: 2016-06-27 09:43:46
@@ -429,7 +427,7 @@
 * [Back to Top](#report-top)
 
 ##### <a name='d8f60d16a863b25a5f10a18bc44a0c76614d4bd922'></a> Source: [openpublishing\test\abtesting\UM-AB-Portal-Experiment-New.png](https://github.com/Microsoft/openpublishing-test/blob/b0a6781e51aca147e972d8ba7508b58a498bf57d/openpublishing/test/abtesting/UM-AB-Portal-Experiment-New.png)
-* Status: OutofSyncHandedBackSuccess
+* Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [d8f60d16a863b25a5f10a18bc44a0c76614d4bd9.png](https://github.com/openpublish/openpublishing-handoff-test/blob/42e3f097c3991e846bf9d8217500c4fe5a736101/ol-handoff/openpublish/openpublishing-test.de-de/master/d8f60d16a863b25a5f10a18bc44a0c76614d4bd9.png)
 * Handoff Datetime: 2016-06-12 02:31:46
@@ -445,7 +443,7 @@
 * [Back to Top](#report-top)
 
 ##### <a name='ed6e256aa0a4afebf3aa254f4b8555ed3aa96e7324'></a> Source: [openpublishing\test\abtesting\UM-AB-Portal-Experiments.png](https://github.com/Microsoft/openpublishing-test/blob/b0a6781e51aca147e972d8ba7508b58a498bf57d/openpublishing/test/abtesting/UM-AB-Portal-Experiments.png)
-* Status: OutofSyncHandedBackSuccess
+* Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [ed6e256aa0a4afebf3aa254f4b8555ed3aa96e73.png](https://github.com/openpublish/openpublishing-handoff-test/blob/42e3f097c3991e846bf9d8217500c4fe5a736101/ol-handoff/openpublish/openpublishing-test.de-de/master/ed6e256aa0a4afebf3aa254f4b8555ed3aa96e73.png)
 * Handoff Datetime: 2016-06-12 02:31:46
@@ -461,7 +459,7 @@
 * [Back to Top](#report-top)
 
 ##### <a name='7a5f1d3027f5c404b1d0b5f7e5a13859c98f714423'></a> Source: [openpublishing\test\abtesting\UM-AB-Portal-Experiments-Action.png](https://github.com/Microsoft/openpublishing-test/blob/b0a6781e51aca147e972d8ba7508b58a498bf57d/openpublishing/test/abtesting/UM-AB-Portal-Experiments-Action.png)
-* Status: OutofSyncHandedBackSuccess
+* Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [7a5f1d3027f5c404b1d0b5f7e5a13859c98f7144.png](https://github.com/openpublish/openpublishing-handoff-test/blob/42e3f097c3991e846bf9d8217500c4fe5a736101/ol-handoff/openpublish/openpublishing-test.de-de/master/7a5f1d3027f5c404b1d0b5f7e5a13859c98f7144.png)
 * Handoff Datetime: 2016-06-12 02:31:46
@@ -503,7 +501,7 @@
 * [Back to Top](#report-top)
 
 ##### <a name='fdefdf4e0c5a990e26aa3bfa0feb5e9b770eed1e29'></a> Source: [openpublishing\test\abtesting\UM-AB-Portal-Metrics.png](https://github.com/Microsoft/openpublishing-test/blob/b0a6781e51aca147e972d8ba7508b58a498bf57d/openpublishing/test/abtesting/UM-AB-Portal-Metrics.png)
-* Status: OutofSyncHandedBackSuccess
+* Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [fdefdf4e0c5a990e26aa3bfa0feb5e9b770eed1e.png](https://github.com/openpublish/openpublishing-handoff-test/blob/42e3f097c3991e846bf9d8217500c4fe5a736101/ol-handoff/openpublish/openpublishing-test.de-de/master/fdefdf4e0c5a990e26aa3bfa0feb5e9b770eed1e.png)
 * Handoff Datetime: 2016-06-12 02:31:46
@@ -519,7 +517,7 @@
 * [Back to Top](#report-top)
 
 ##### <a name='3ef8bdc8c711e0d812939e0839510959e135cbf227'></a> Source: [openpublishing\test\abtesting\UM-AB-Portal-Metrics-Config.png](https://github.com/Microsoft/openpublishing-test/blob/9bce633743bdade7f7d4b7a82ae424c7204dcaee/openpublishing/test/abtesting/UM-AB-Portal-Metrics-Config.png)
-* Status: OutofSyncHandedBackSuccess
+* Status: HandedOffSuccess
 * Target File: [openpublishing\test\abtesting\UM-AB-Portal-Metrics-Config.png](https://github.com/openpublish/openpublishing-test.de-de/blob/6257e6251479504743e22f5ab322a7b0a6b92b6a/openpublishing/test/abtesting/UM-AB-Portal-Metrics-Config.png)
 * Handoff File: [3ef8bdc8c711e0d812939e0839510959e135cbf2.png](https://github.com/openpublish/openpublishing-handoff-test/blob/cad1990f39dac29756127b8e2cca9f3081c64ab7/ol-handoff/openpublish/openpublishing-test.de-de/master/3ef8bdc8c711e0d812939e0839510959e135cbf2.png)
 * Handoff Datetime: 2016-07-28 07:39:49
@@ -532,7 +530,7 @@
 * [Back to Top](#report-top)
 
 ##### <a name='2e32dcb5e35020dafe50b8524c2faa1f98987d2728'></a> Source: [openpublishing\test\abtesting\UM-AB-Portal-Metrics-Result.png](https://github.com/Microsoft/openpublishing-test/blob/b0a6781e51aca147e972d8ba7508b58a498bf57d/openpublishing/test/abtesting/UM-AB-Portal-Metrics-Result.png)
-* Status: OutofSyncHandedBackSuccess
+* Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [2e32dcb5e35020dafe50b8524c2faa1f98987d27.png](https://github.com/openpublish/openpublishing-handoff-test/blob/42e3f097c3991e846bf9d8217500c4fe5a736101/ol-handoff/openpublish/openpublishing-test.de-de/master/2e32dcb5e35020dafe50b8524c2faa1f98987d27.png)
 * Handoff Datetime: 2016-06-12 02:31:46
@@ -548,7 +546,7 @@
 * [Back to Top](#report-top)
 
 ##### <a name='683891ac1ac0ad3ef4a7076b18279b98c77a3f3f30'></a> Source: [openpublishing\test\abtesting\UM-Cleanup-Content-Experiment.png](https://github.com/Microsoft/openpublishing-test/blob/65c9d0774bdffbe9be8931506783e8570bf1275a/openpublishing/test/abtesting/UM-Cleanup-Content-Experiment.png)
-* Status: OutofSyncHandedBackSuccess
+* Status: HandedOffSuccess
 * Target File: [openpublishing\test\abtesting\UM-Cleanup-Content-Experiment.png](https://github.com/openpublish/openpublishing-test.de-de/blob/6257e6251479504743e22f5ab322a7b0a6b92b6a/openpublishing/test/abtesting/UM-Cleanup-Content-Experiment.png)
 * Handoff File: [683891ac1ac0ad3ef4a7076b18279b98c77a3f3f.png](https://github.com/openpublish/openpublishing-handoff-test/blob/cad1990f39dac29756127b8e2cca9f3081c64ab7/ol-handoff/openpublish/openpublishing-test.de-de/master/683891ac1ac0ad3ef4a7076b18279b98c77a3f3f.png)
 * Handoff Datetime: 2016-07-28 07:39:49
@@ -561,7 +559,7 @@
 * [Back to Top](#report-top)
 
 ##### <a name='9880407fcee1bdacd4b99a78656f846b39beb4ce31'></a> Source: [openpublishing\test\abtesting\UM-New-Content-Experiment.png](https://github.com/Microsoft/openpublishing-test/blob/65c9d0774bdffbe9be8931506783e8570bf1275a/openpublishing/test/abtesting/UM-New-Content-Experiment.png)
-* Status: OutofSyncHandedBackSuccess
+* Status: HandedOffSuccess
 * Target File: [openpublishing\test\abtesting\UM-New-Content-Experiment.png](https://github.com/openpublish/openpublishing-test.de-de/blob/6257e6251479504743e22f5ab322a7b0a6b92b6a/openpublishing/test/abtesting/UM-New-Content-Experiment.png)
 * Handoff File: [9880407fcee1bdacd4b99a78656f846b39beb4ce.png](https://github.com/openpublish/openpublishing-handoff-test/blob/cad1990f39dac29756127b8e2cca9f3081c64ab7/ol-handoff/openpublish/openpublishing-test.de-de/master/9880407fcee1bdacd4b99a78656f846b39beb4ce.png)
 * Handoff Datetime: 2016-07-28 07:39:49
@@ -574,7 +572,7 @@
 * [Back to Top](#report-top)
 
 ##### <a name='6b9ff10a197ad5bb1849ccd5eba49a57e7dd20a032'></a> Source: [openpublishing\test\abtesting\UM-OP-Portal.png](https://github.com/Microsoft/openpublishing-test/blob/9bce633743bdade7f7d4b7a82ae424c7204dcaee/openpublishing/test/abtesting/UM-OP-Portal.png)
-* Status: OutofSyncHandedBackSuccess
+* Status: HandedOffSuccess
 * Target File: [openpublishing\test\abtesting\UM-OP-Portal.png](https://github.com/openpublish/openpublishing-test.de-de/blob/6257e6251479504743e22f5ab322a7b0a6b92b6a/openpublishing/test/abtesting/UM-OP-Portal.png)
 * Handoff File: [6b9ff10a197ad5bb1849ccd5eba49a57e7dd20a0.png](https://github.com/openpublish/openpublishing-handoff-test/blob/cad1990f39dac29756127b8e2cca9f3081c64ab7/ol-handoff/openpublish/openpublishing-test.de-de/master/6b9ff10a197ad5bb1849ccd5eba49a57e7dd20a0.png)
 * Handoff Datetime: 2016-07-28 07:39:49
@@ -587,7 +585,7 @@
 * [Back to Top](#report-top)
 
 ##### <a name='807e1fd2ee56ea6d3cb6175a427b44b47145865233'></a> Source: [openpublishing\test\abtesting\UM-Prerequisite.png](https://github.com/Microsoft/openpublishing-test/blob/65c9d0774bdffbe9be8931506783e8570bf1275a/openpublishing/test/abtesting/UM-Prerequisite.png)
-* Status: OutofSyncHandedBackSuccess
+* Status: HandedOffSuccess
 * Target File: [openpublishing\test\abtesting\UM-Prerequisite.png](https://github.com/openpublish/openpublishing-test.de-de/blob/6257e6251479504743e22f5ab322a7b0a6b92b6a/openpublishing/test/abtesting/UM-Prerequisite.png)
 * Handoff File: [807e1fd2ee56ea6d3cb6175a427b44b471458652.png](https://github.com/openpublish/openpublishing-handoff-test/blob/cad1990f39dac29756127b8e2cca9f3081c64ab7/ol-handoff/openpublish/openpublishing-test.de-de/master/807e1fd2ee56ea6d3cb6175a427b44b471458652.png)
 * Handoff Datetime: 2016-07-28 07:39:49
@@ -600,7 +598,7 @@
 * [Back to Top](#report-top)
 
 ##### <a name='9787781066568e31adf68f88f7e2df70a6c9d87334'></a> Source: [openpublishing\test\abtesting\users-manual-content.md](https://github.com/Microsoft/openpublishing-test/blob/2b74048b8a326579303fa1d80818973db48c0740/openpublishing/test/abtesting/users-manual-content.md)
-* Status: OutofSyncHandedBackSuccess
+* Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [users-manual-content.b4aebd733aa89fe887cf8b8aa2ee374538ab72b8.de-de.xlf](https://github.com/openpublish/openpublishing-handoff-test/blob/b1394693b1d8f88c7d7cdbb8f6c0c4854f08611d/ol-handoff/openpublish/openpublishing-test.de-de/master/users-manual-content.b4aebd733aa89fe887cf8b8aa2ee374538ab72b8.de-de.xlf)
 * Handoff Datetime: 2016-06-24 01:44:56
@@ -627,7 +625,7 @@
 * [Back to Top](#report-top)
 
 ##### <a name='377436ada10ce7d4412b6b256396ea85ad93c5af36'></a> Source: [openpublishing\test\conceptual\Image\ATA_Center_Configuration.JPG](https://github.com/Microsoft/openpublishing-test/blob/8680111b305d2e9d628bdfb225b5789daedc9930/openpublishing/test/conceptual/Image/ATA_Center_Configuration.JPG)
-* Status: OutofSyncHandedBackSuccess
+* Status: HandedOffSuccess
 * Target File: [openpublishing\test\conceptual\Image\ATA_Center_Configuration.JPG](https://github.com/openpublish/openpublishing-test.de-de/blob/6257e6251479504743e22f5ab322a7b0a6b92b6a/openpublishing/test/conceptual/Image/ATA_Center_Configuration.JPG)
 * Handoff File: [377436ada10ce7d4412b6b256396ea85ad93c5af.JPG](https://github.com/openpublish/openpublishing-handoff-test/blob/cad1990f39dac29756127b8e2cca9f3081c64ab7/ol-handoff/openpublish/openpublishing-test.de-de/master/377436ada10ce7d4412b6b256396ea85ad93c5af.JPG)
 * Handoff Datetime: 2016-07-28 07:39:49
@@ -640,7 +638,7 @@
 * [Back to Top](#report-top)
 
 ##### <a name='28b811e014fbf38741d81c7418c6bb70ead5df7437'></a> Source: [openpublishing\test\conceptual\Image\ATA_Config_GW_Settings.jpg](https://github.com/Microsoft/openpublishing-test/blob/8680111b305d2e9d628bdfb225b5789daedc9930/openpublishing/test/conceptual/Image/ATA_Config_GW_Settings.jpg)
-* Status: OutofSyncHandedBackSuccess
+* Status: HandedOffSuccess
 * Target File: [openpublishing\test\conceptual\Image\ATA_Config_GW_Settings.jpg](https://github.com/openpublish/openpublishing-test.de-de/blob/6257e6251479504743e22f5ab322a7b0a6b92b6a/openpublishing/test/conceptual/Image/ATA_Config_GW_Settings.jpg)
 * Handoff File: [28b811e014fbf38741d81c7418c6bb70ead5df74.jpg](https://github.com/openpublish/openpublishing-handoff-test/blob/cad1990f39dac29756127b8e2cca9f3081c64ab7/ol-handoff/openpublish/openpublishing-test.de-de/master/28b811e014fbf38741d81c7418c6bb70ead5df74.jpg)
 * Handoff Datetime: 2016-07-28 07:39:49
@@ -653,7 +651,7 @@
 * [Back to Top](#report-top)
 
 ##### <a name='28bff0237cf9625b464859bd7f3dc309779c7fcb38'></a> Source: [openpublishing\test\conceptual\Image\ATA_config_icon.JPG](https://github.com/Microsoft/openpublishing-test/blob/8680111b305d2e9d628bdfb225b5789daedc9930/openpublishing/test/conceptual/Image/ATA_config_icon.JPG)
-* Status: OutofSyncHandedBackSuccess
+* Status: HandedOffSuccess
 * Target File: [openpublishing\test\conceptual\Image\ATA_config_icon.JPG](https://github.com/openpublish/openpublishing-test.de-de/blob/6257e6251479504743e22f5ab322a7b0a6b92b6a/openpublishing/test/conceptual/Image/ATA_config_icon.JPG)
 * Handoff File: [28bff0237cf9625b464859bd7f3dc309779c7fcb.JPG](https://github.com/openpublish/openpublishing-handoff-test/blob/cad1990f39dac29756127b8e2cca9f3081c64ab7/ol-handoff/openpublish/openpublishing-test.de-de/master/28bff0237cf9625b464859bd7f3dc309779c7fcb.JPG)
 * Handoff Datetime: 2016-07-28 07:39:49
@@ -666,7 +664,7 @@
 * [Back to Top](#report-top)
 
 ##### <a name='5381c4c0d584f8697c8053ef5c9ee7b1ab576be339'></a> Source: [openpublishing\test\conceptual\Image\ATA_Domain_Connectivity_User.JPG](https://github.com/Microsoft/openpublishing-test/blob/8680111b305d2e9d628bdfb225b5789daedc9930/openpublishing/test/conceptual/Image/ATA_Domain_Connectivity_User.JPG)
-* Status: OutofSyncHandedBackSuccess
+* Status: HandedOffSuccess
 * Target File: [openpublishing\test\conceptual\Image\ATA_Domain_Connectivity_User.JPG](https://github.com/openpublish/openpublishing-test.de-de/blob/6257e6251479504743e22f5ab322a7b0a6b92b6a/openpublishing/test/conceptual/Image/ATA_Domain_Connectivity_User.JPG)
 * Handoff File: [5381c4c0d584f8697c8053ef5c9ee7b1ab576be3.JPG](https://github.com/openpublish/openpublishing-handoff-test/blob/cad1990f39dac29756127b8e2cca9f3081c64ab7/ol-handoff/openpublish/openpublishing-test.de-de/master/5381c4c0d584f8697c8053ef5c9ee7b1ab576be3.JPG)
 * Handoff Datetime: 2016-07-28 07:39:49
@@ -679,7 +677,7 @@
 * [Back to Top](#report-top)
 
 ##### <a name='b79a81b193f258cfee46d1a6478d89e46c7eecdc40'></a> Source: [openpublishing\test\conceptual\Image\ATA_Gateway_Configuration.JPG](https://github.com/Microsoft/openpublishing-test/blob/8680111b305d2e9d628bdfb225b5789daedc9930/openpublishing/test/conceptual/Image/ATA_Gateway_Configuration.JPG)
-* Status: OutofSyncHandedBackSuccess
+* Status: HandedOffSuccess
 * Target File: [openpublishing\test\conceptual\Image\ATA_Gateway_Configuration.JPG](https://github.com/openpublish/openpublishing-test.de-de/blob/6257e6251479504743e22f5ab322a7b0a6b92b6a/openpublishing/test/conceptual/Image/ATA_Gateway_Configuration.JPG)
 * Handoff File: [b79a81b193f258cfee46d1a6478d89e46c7eecdc.JPG](https://github.com/openpublish/openpublishing-handoff-test/blob/cad1990f39dac29756127b8e2cca9f3081c64ab7/ol-handoff/openpublish/openpublishing-test.de-de/master/b79a81b193f258cfee46d1a6478d89e46c7eecdc.JPG)
 * Handoff Datetime: 2016-07-28 07:39:49
@@ -692,7 +690,7 @@
 * [Back to Top](#report-top)
 
 ##### <a name='bb82c0e8ef39951a2f35466d9912fe622fdac06e41'></a> Source: [openpublishing\test\conceptual\Image\ATA_performance_monitoring_add_counters.png](https://github.com/Microsoft/openpublishing-test/blob/8680111b305d2e9d628bdfb225b5789daedc9930/openpublishing/test/conceptual/Image/ATA_performance_monitoring_add_counters.png)
-* Status: OutofSyncHandedBackSuccess
+* Status: HandedOffSuccess
 * Target File: [openpublishing\test\conceptual\Image\ATA_performance_monitoring_add_counters.png](https://github.com/openpublish/openpublishing-test.de-de/blob/6257e6251479504743e22f5ab322a7b0a6b92b6a/openpublishing/test/conceptual/Image/ATA_performance_monitoring_add_counters.png)
 * Handoff File: [bb82c0e8ef39951a2f35466d9912fe622fdac06e.png](https://github.com/openpublish/openpublishing-handoff-test/blob/cad1990f39dac29756127b8e2cca9f3081c64ab7/ol-handoff/openpublish/openpublishing-test.de-de/master/bb82c0e8ef39951a2f35466d9912fe622fdac06e.png)
 * Handoff Datetime: 2016-07-28 07:39:49
@@ -705,7 +703,7 @@
 * [Back to Top](#report-top)
 
 ##### <a name='ce4a21e892357049d70b5ff1aa708547ca715b1742'></a> Source: [openpublishing\test\conceptual\Image\ATA_VPN_Subnets.JPG](https://github.com/Microsoft/openpublishing-test/blob/8680111b305d2e9d628bdfb225b5789daedc9930/openpublishing/test/conceptual/Image/ATA_VPN_Subnets.JPG)
-* Status: OutofSyncHandedBackSuccess
+* Status: HandedOffSuccess
 * Target File: [openpublishing\test\conceptual\Image\ATA_VPN_Subnets.JPG](https://github.com/openpublish/openpublishing-test.de-de/blob/6257e6251479504743e22f5ab322a7b0a6b92b6a/openpublishing/test/conceptual/Image/ATA_VPN_Subnets.JPG)
 * Handoff File: [ce4a21e892357049d70b5ff1aa708547ca715b17.JPG](https://github.com/openpublish/openpublishing-handoff-test/blob/cad1990f39dac29756127b8e2cca9f3081c64ab7/ol-handoff/openpublish/openpublishing-test.de-de/master/ce4a21e892357049d70b5ff1aa708547ca715b17.JPG)
 * Handoff Datetime: 2016-07-28 07:39:49
@@ -718,7 +716,7 @@
 * [Back to Top](#report-top)
 
 ##### <a name='dddd652fb096923a6ac044e9d8c151dc1af2982f43'></a> Source: [openpublishing\test\conceptual\Image\ATAGWDomainController.png](https://github.com/Microsoft/openpublishing-test/blob/8680111b305d2e9d628bdfb225b5789daedc9930/openpublishing/test/conceptual/Image/ATAGWDomainController.png)
-* Status: OutofSyncHandedBackSuccess
+* Status: HandedOffSuccess
 * Target File: [openpublishing\test\conceptual\Image\ATAGWDomainController.png](https://github.com/openpublish/openpublishing-test.de-de/blob/6257e6251479504743e22f5ab322a7b0a6b92b6a/openpublishing/test/conceptual/Image/ATAGWDomainController.png)
 * Handoff File: [dddd652fb096923a6ac044e9d8c151dc1af2982f.png](https://github.com/openpublish/openpublishing-handoff-test/blob/cad1990f39dac29756127b8e2cca9f3081c64ab7/ol-handoff/openpublish/openpublishing-test.de-de/master/dddd652fb096923a6ac044e9d8c151dc1af2982f.png)
 * Handoff Datetime: 2016-07-28 07:39:49
@@ -731,7 +729,7 @@
 * [Back to Top](#report-top)
 
 ##### <a name='24519e1e62df780035867ba37ee1ad5c2f49dcba44'></a> Source: [openpublishing\test\conceptual\index.md](https://github.com/Microsoft/openpublishing-test/blob/8dd499f133cb092193621f807bc8be32efd23701/openpublishing/test/conceptual/index.md)
-* Status: OutofSyncHandedBackSuccess
+* Status: HandedOffSuccess
 * Target File: [openpublishing\test\conceptual\index.md](https://github.com/openpublish/openpublishing-test.de-de/blob/bc8995617c53cb85b3155daeebc3bbfd605971ca/openpublishing/test/conceptual/index.md)
 * Handoff File: [index.c9c0369d0b155b081723894540fda2e788d91baf.de-de.xlf](https://github.com/openpublish/openpublishing-handoff-test/blob/69d044923f05f1c237ff81b7229a2ad11a3b86c1/ol-handoff/openpublish/openpublishing-test.de-de/master/index.c9c0369d0b155b081723894540fda2e788d91baf.de-de.xlf)
 * Handoff Datetime: 2016-06-27 09:43:46
@@ -743,7 +741,7 @@
 * [Back to Top](#report-top)
 
 ##### <a name='2c74bf2966966c6ad37f200ca48efce885e6fd4245'></a> Source: [openpublishing\test\conceptual\large.md](https://github.com/Microsoft/openpublishing-test/blob/fa3049f443f2e3b983a425ac61af4e7f78975d86/openpublishing/test/conceptual/large.md)
-* Status: OutofSyncHandedBackSuccess
+* Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [large.1ada80b65df96198694194b2dad9063e0b0ff35a.de-de.xlf](https://github.com/openpublish/openpublishing-handoff-test/blob/816f988ca60fd062dbc52e70998b416123a26652/ol-handoff/openpublish/openpublishing-test.de-de/master/large.1ada80b65df96198694194b2dad9063e0b0ff35a.de-de.xlf)
 * Handoff Datetime: 2016-08-01 07:09:35
@@ -770,7 +768,7 @@
 * [Back to Top](#report-top)
 
 ##### <a name='5e7fffb2ce1a7a2840d88d84054d08e191a2192647'></a> Source: [openpublishing\test\conceptual\small.md](https://github.com/Microsoft/openpublishing-test/blob/4a2201cb860ffb0fbc144546df4aeabb79d9bebc/openpublishing/test/conceptual/small.md)
-* Status: OutofSyncHandedBackSuccess
+* Status: HandedOffSuccess
 * Target File: [openpublishing\test\conceptual\small.md](https://github.com/openpublish/openpublishing-test.de-de/blob/bc8995617c53cb85b3155daeebc3bbfd605971ca/openpublishing/test/conceptual/small.md)
 * Handoff File: [small.7784cb202c2cbbbca6538cb14d51a50e91054011.de-de.xlf](https://github.com/openpublish/openpublishing-handoff-test/blob/69d044923f05f1c237ff81b7229a2ad11a3b86c1/ol-handoff/openpublish/openpublishing-test.de-de/master/small.7784cb202c2cbbbca6538cb14d51a50e91054011.de-de.xlf)
 * Handoff Datetime: 2016-06-27 09:43:46
@@ -782,7 +780,7 @@
 * [Back to Top](#report-top)
 
 ##### <a name='9e5a9efd6e99911880b2ed237eb72355aeaf417c48'></a> Source: [openpublishing\test\conceptual\ui-components.md](https://github.com/Microsoft/openpublishing-test/blob/2e06057baa9027376c531cb05605534f32c96f74/openpublishing/test/conceptual/ui-components.md)
-* Status: OutofSyncHandedBackSuccess
+* Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [ui-components.dcec11372e71c4c665652bab5c7d58946b0a5468.de-de.xlf](https://github.com/openpublish/openpublishing-handoff-test/blob/cb407cc3f3efd1de792fe367c931263815d148bc/ol-handoff/openpublish/openpublishing-test.de-de/master/ui-components.dcec11372e71c4c665652bab5c7d58946b0a5468.de-de.xlf)
 * Handoff Datetime: 2016-08-08 02:34:53
@@ -922,7 +920,7 @@
 * [Back to Top](#report-top)
 
 ##### <a name='b44b882c6b4382abdb108471d9a18b08aabf481a59'></a> Source: [openpublishing\test\hubpage\index.md](https://github.com/Microsoft/openpublishing-test/blob/38a7d023dce193c55509cb7058192957f826a3c4/openpublishing/test/hubpage/index.md)
-* Status: OutofSyncHandedBackSuccess
+* Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [index.e680af2eb257e7b4b907a3e7e3364826a5f7ad25.de-de.xlf](https://github.com/openpublish/openpublishing-handoff-test/blob/caf61d54d4e45113a6466d2066b9c2d9b0db6ae0/ol-handoff/openpublish/openpublishing-test.de-de/master/index.e680af2eb257e7b4b907a3e7e3364826a5f7ad25.de-de.xlf)
 * Handoff Datetime: 2016-07-11 06:49:25
@@ -949,7 +947,7 @@
 * [Back to Top](#report-top)
 
 ##### <a name='45dd1d9b2f9bd7ffd6aacb362cb357d0d759ca0861'></a> Source: [openpublishing\test\index.md](https://github.com/Microsoft/openpublishing-test/blob/36bf09e915408ec5b5e55bad41bd264c0c8019da/openpublishing/test/index.md)
-* Status: OutofSyncHandedBackSuccess
+* Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [index.9373ed93305bd176b9bcf02dce8ecdcbe15066e1.de-de.xlf](https://github.com/openpublish/openpublishing-handoff-test/blob/884fa4144809989db05ae021b2d7c53c3cf0c8c9/ol-handoff/openpublish/openpublishing-test.de-de/master/index.9373ed93305bd176b9bcf02dce8ecdcbe15066e1.de-de.xlf)
 * Handoff Datetime: 2016-06-16 02:11:40
@@ -964,7 +962,7 @@
 * [Back to Top](#report-top)
 
 ##### <a name='ab461ee969842b116ae71917bf13aad8c7d4641962'></a> Source: [openpublishing\test\redirectUrl\AbsoluteUrl.md](https://github.com/Microsoft/openpublishing-test/blob/62518dcd018a4943ac2b32790fe909b9b38e414c/openpublishing/test/redirectUrl/AbsoluteUrl.md)
-* Status: OutofSyncHandedBackSuccess
+* Status: HandedOffSuccess
 * Target File: [openpublishing\test\redirectUrl\AbsoluteUrl.md](https://github.com/openpublish/openpublishing-test.de-de/blob/bc8995617c53cb85b3155daeebc3bbfd605971ca/openpublishing/test/redirectUrl/AbsoluteUrl.md)
 * Handoff File: [AbsoluteUrl.8b3d944bba6453aba07ab868b257ade0656a3747.de-de.xlf](https://github.com/openpublish/openpublishing-handoff-test/blob/69d044923f05f1c237ff81b7229a2ad11a3b86c1/ol-handoff/openpublish/openpublishing-test.de-de/master/AbsoluteUrl.8b3d944bba6453aba07ab868b257ade0656a3747.de-de.xlf)
 * Handoff Datetime: 2016-06-27 09:43:46
@@ -976,7 +974,7 @@
 * [Back to Top](#report-top)
 
 ##### <a name='af6e564603baf4fa350a6d32012c63533929f99d63'></a> Source: [openpublishing\test\redirectUrl\AbsoluteUrlWithAAD.md](https://github.com/Microsoft/openpublishing-test/blob/62518dcd018a4943ac2b32790fe909b9b38e414c/openpublishing/test/redirectUrl/AbsoluteUrlWithAAD.md)
-* Status: OutofSyncHandedBackSuccess
+* Status: HandedOffSuccess
 * Target File: [openpublishing\test\redirectUrl\AbsoluteUrlWithAAD.md](https://github.com/openpublish/openpublishing-test.de-de/blob/bc8995617c53cb85b3155daeebc3bbfd605971ca/openpublishing/test/redirectUrl/AbsoluteUrlWithAAD.md)
 * Handoff File: [AbsoluteUrlWithAAD.3945bfecc85805ad5d2609e4150a510ddf55f536.de-de.xlf](https://github.com/openpublish/openpublishing-handoff-test/blob/69d044923f05f1c237ff81b7229a2ad11a3b86c1/ol-handoff/openpublish/openpublishing-test.de-de/master/AbsoluteUrlWithAAD.3945bfecc85805ad5d2609e4150a510ddf55f536.de-de.xlf)
 * Handoff Datetime: 2016-06-27 09:43:46
@@ -988,7 +986,7 @@
 * [Back to Top](#report-top)
 
 ##### <a name='97f9643630550d318d05bd40c92984aad0e15fa664'></a> Source: [openpublishing\test\redirectUrl\EmptyRelativeUrl.md](https://github.com/Microsoft/openpublishing-test/blob/a5748b9235361629a3b31d50b0b463155cc6cff3/openpublishing/test/redirectUrl/EmptyRelativeUrl.md)
-* Status: OutofSyncHandedBackSuccess
+* Status: HandedOffSuccess
 * Target File: [openpublishing\test\redirectUrl\EmptyRelativeUrl.md](https://github.com/openpublish/openpublishing-test.de-de/blob/bc8995617c53cb85b3155daeebc3bbfd605971ca/openpublishing/test/redirectUrl/EmptyRelativeUrl.md)
 * Handoff File: [EmptyRelativeUrl.71865166daff573b6978a9ed4d135ac088a036c8.de-de.xlf](https://github.com/openpublish/openpublishing-handoff-test/blob/69d044923f05f1c237ff81b7229a2ad11a3b86c1/ol-handoff/openpublish/openpublishing-test.de-de/master/EmptyRelativeUrl.71865166daff573b6978a9ed4d135ac088a036c8.de-de.xlf)
 * Handoff Datetime: 2016-06-27 09:43:46
@@ -1000,7 +998,7 @@
 * [Back to Top](#report-top)
 
 ##### <a name='df5c21d1b72e838c1ed9ab90b99fe6e517f7ce5765'></a> Source: [openpublishing\test\redirectUrl\index.md](https://github.com/Microsoft/openpublishing-test/blob/a5748b9235361629a3b31d50b0b463155cc6cff3/openpublishing/test/redirectUrl/index.md)
-* Status: OutofSyncHandedBackSuccess
+* Status: HandedOffSuccess
 * Target File: [openpublishing\test\redirectUrl\index.md](https://github.com/openpublish/openpublishing-test.de-de/blob/bc8995617c53cb85b3155daeebc3bbfd605971ca/openpublishing/test/redirectUrl/index.md)
 * Handoff File: [index.d3796100377452b5bedb3e374d6fa97c546002ad.de-de.xlf](https://github.com/openpublish/openpublishing-handoff-test/blob/69d044923f05f1c237ff81b7229a2ad11a3b86c1/ol-handoff/openpublish/openpublishing-test.de-de/master/index.d3796100377452b5bedb3e374d6fa97c546002ad.de-de.xlf)
 * Handoff Datetime: 2016-06-27 09:43:46
@@ -1012,7 +1010,7 @@
 * [Back to Top](#report-top)
 
 ##### <a name='e1eecfa4a15569dcecca777198c4b842a601e99766'></a> Source: [openpublishing\test\redirectUrl\InvalidAbsoluteUrl.md](https://github.com/Microsoft/openpublishing-test/blob/a5748b9235361629a3b31d50b0b463155cc6cff3/openpublishing/test/redirectUrl/InvalidAbsoluteUrl.md)
-* Status: OutofSyncHandedBackSuccess
+* Status: HandedOffSuccess
 * Target File: [openpublishing\test\redirectUrl\InvalidAbsoluteUrl.md](https://github.com/openpublish/openpublishing-test.de-de/blob/bc8995617c53cb85b3155daeebc3bbfd605971ca/openpublishing/test/redirectUrl/InvalidAbsoluteUrl.md)
 * Handoff File: [InvalidAbsoluteUrl.3d35a91ba19b3d44a9c2a81ae471ad307e04c99e.de-de.xlf](https://github.com/openpublish/openpublishing-handoff-test/blob/69d044923f05f1c237ff81b7229a2ad11a3b86c1/ol-handoff/openpublish/openpublishing-test.de-de/master/InvalidAbsoluteUrl.3d35a91ba19b3d44a9c2a81ae471ad307e04c99e.de-de.xlf)
 * Handoff Datetime: 2016-06-27 09:43:46
@@ -1024,7 +1022,7 @@
 * [Back to Top](#report-top)
 
 ##### <a name='f2c19bcda85343af7181484d46f5210bf6397e0867'></a> Source: [openpublishing\test\redirectUrl\InvalidRelativeUrl.md](https://github.com/Microsoft/openpublishing-test/blob/a5748b9235361629a3b31d50b0b463155cc6cff3/openpublishing/test/redirectUrl/InvalidRelativeUrl.md)
-* Status: OutofSyncHandedBackSuccess
+* Status: HandedOffSuccess
 * Target File: [openpublishing\test\redirectUrl\InvalidRelativeUrl.md](https://github.com/openpublish/openpublishing-test.de-de/blob/bc8995617c53cb85b3155daeebc3bbfd605971ca/openpublishing/test/redirectUrl/InvalidRelativeUrl.md)
 * Handoff File: [InvalidRelativeUrl.c80646d86643e3163e939eadf93798e7f6786df1.de-de.xlf](https://github.com/openpublish/openpublishing-handoff-test/blob/69d044923f05f1c237ff81b7229a2ad11a3b86c1/ol-handoff/openpublish/openpublishing-test.de-de/master/InvalidRelativeUrl.c80646d86643e3163e939eadf93798e7f6786df1.de-de.xlf)
 * Handoff Datetime: 2016-06-27 09:43:46
@@ -1036,7 +1034,7 @@
 * [Back to Top](#report-top)
 
 ##### <a name='c8ce93c1a5249718623cd7cf68522458c16e411a68'></a> Source: [openpublishing\test\redirectUrl\RelativePage.md](https://github.com/Microsoft/openpublishing-test/blob/a5748b9235361629a3b31d50b0b463155cc6cff3/openpublishing/test/redirectUrl/RelativePage.md)
-* Status: OutofSyncHandedBackSuccess
+* Status: HandedOffSuccess
 * Target File: [openpublishing\test\redirectUrl\RelativePage.md](https://github.com/openpublish/openpublishing-test.de-de/blob/bc8995617c53cb85b3155daeebc3bbfd605971ca/openpublishing/test/redirectUrl/RelativePage.md)
 * Handoff File: [RelativePage.7174d65c97ce6e8c2cbe8430fa2c92194291e42f.de-de.xlf](https://github.com/openpublish/openpublishing-handoff-test/blob/69d044923f05f1c237ff81b7229a2ad11a3b86c1/ol-handoff/openpublish/openpublishing-test.de-de/master/RelativePage.7174d65c97ce6e8c2cbe8430fa2c92194291e42f.de-de.xlf)
 * Handoff Datetime: 2016-06-27 09:43:46
@@ -1048,7 +1046,7 @@
 * [Back to Top](#report-top)
 
 ##### <a name='21ca3df676528bfd38463315cb4e1a2e0b7bfe2769'></a> Source: [openpublishing\test\redirectUrl\RelativeUrl.md](https://github.com/Microsoft/openpublishing-test/blob/a5748b9235361629a3b31d50b0b463155cc6cff3/openpublishing/test/redirectUrl/RelativeUrl.md)
-* Status: OutofSyncHandedBackSuccess
+* Status: HandedOffSuccess
 * Target File: [openpublishing\test\redirectUrl\RelativeUrl.md](https://github.com/openpublish/openpublishing-test.de-de/blob/bc8995617c53cb85b3155daeebc3bbfd605971ca/openpublishing/test/redirectUrl/RelativeUrl.md)
 * Handoff File: [RelativeUrl.55b6680466f3af93757bba9640ee05efd816931c.de-de.xlf](https://github.com/openpublish/openpublishing-handoff-test/blob/69d044923f05f1c237ff81b7229a2ad11a3b86c1/ol-handoff/openpublish/openpublishing-test.de-de/master/RelativeUrl.55b6680466f3af93757bba9640ee05efd816931c.de-de.xlf)
 * Handoff Datetime: 2016-06-27 09:43:46
@@ -1060,7 +1058,7 @@
 * [Back to Top](#report-top)
 
 ##### <a name='6d2b50160b03e5b84aee01a3fa576535fc3ef20f70'></a> Source: [openpublishing\test\reference\index.md](https://github.com/Microsoft/openpublishing-test/blob/58988bbb4dc07b6ff3028d264e8aadd66dde5043/openpublishing/test/reference/index.md)
-* Status: OutofSyncHandedBackSuccess
+* Status: HandedOffSuccess
 * Target File: [openpublishing\test\reference\index.md](https://github.com/openpublish/openpublishing-test.de-de/blob/bc8995617c53cb85b3155daeebc3bbfd605971ca/openpublishing/test/reference/index.md)
 * Handoff File: [index.e9474ea5527f26245e807f6aaf427cb25a81f6e1.de-de.xlf](https://github.com/openpublish/openpublishing-handoff-test/blob/69d044923f05f1c237ff81b7229a2ad11a3b86c1/ol-handoff/openpublish/openpublishing-test.de-de/master/index.e9474ea5527f26245e807f6aaf427cb25a81f6e1.de-de.xlf)
 * Handoff Datetime: 2016-06-27 09:43:46
@@ -1192,7 +1190,7 @@
 * [Back to Top](#report-top)
 
 ##### <a name='0f4ae8a7a9939d3dbfcd1cb5a45365e03056959880'></a> Source: [openpublishing\test\restapi\contacts-operations.md](https://github.com/Microsoft/openpublishing-test/blob/bac5bd157c70a4cb2ddfc1328c78a7520d6ebefa/openpublishing/test/restapi/contacts-operations.md)
-* Status: OutofSyncHandedBackSuccess
+* Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [contacts-operations.a201e952311565856c026d87189a869cf38f6bc9.de-de.xlf](https://github.com/openpublish/openpublishing-handoff-test/blob/ac1ebef3a20b6da0095d43ed029f0bedb0c32273/ol-handoff/openpublish/openpublishing-test.de-de/master/contacts-operations.a201e952311565856c026d87189a869cf38f6bc9.de-de.xlf)
 * Handoff Datetime: 2016-07-06 08:48:39
@@ -1207,7 +1205,7 @@
 * [Back to Top](#report-top)
 
 ##### <a name='cea5a5636c53dc5c1a796db957bdfa7617ec83c282'></a> Source: [openpublishing\test\restapi\entity-and-complex-type-reference.md](https://github.com/Microsoft/openpublishing-test/blob/002218238f017f48603b6fb52b16156f9dfa30b6/openpublishing/test/restapi/entity-and-complex-type-reference.md)
-* Status: OutofSyncHandedBackSuccess
+* Status: HandedOffSuccess
 * Target File: [openpublishing\test\restapi\entity-and-complex-type-reference.md](https://github.com/openpublish/openpublishing-test.de-de/blob/bc8995617c53cb85b3155daeebc3bbfd605971ca/openpublishing/test/restapi/entity-and-complex-type-reference.md)
 * Handoff File: [entity-and-complex-type-reference.13ce6f04ba2195bafbf358ad95a6379cf8e662d3.de-de.xlf](https://github.com/openpublish/openpublishing-handoff-test/blob/69d044923f05f1c237ff81b7229a2ad11a3b86c1/ol-handoff/openpublish/openpublishing-test.de-de/master/entity-and-complex-type-reference.13ce6f04ba2195bafbf358ad95a6379cf8e662d3.de-de.xlf)
 * Handoff Datetime: 2016-06-27 09:43:46
@@ -1219,7 +1217,7 @@
 * [Back to Top](#report-top)
 
 ##### <a name='6634f738b8d60ff203729eb957fa36f369492f4783'></a> Source: [openpublishing\test\restapi\index.md](https://github.com/Microsoft/openpublishing-test/blob/002218238f017f48603b6fb52b16156f9dfa30b6/openpublishing/test/restapi/index.md)
-* Status: OutofSyncHandedBackSuccess
+* Status: HandedOffSuccess
 * Target File: [openpublishing\test\restapi\index.md](https://github.com/openpublish/openpublishing-test.de-de/blob/bc8995617c53cb85b3155daeebc3bbfd605971ca/openpublishing/test/restapi/index.md)
 * Handoff File: [index.0e2537923c463f008e00297b3d0c9da0d247c264.de-de.xlf](https://github.com/openpublish/openpublishing-handoff-test/blob/69d044923f05f1c237ff81b7229a2ad11a3b86c1/ol-handoff/openpublish/openpublishing-test.de-de/master/index.0e2537923c463f008e00297b3d0c9da0d247c264.de-de.xlf)
 * Handoff Datetime: 2016-06-27 09:43:46
@@ -1231,7 +1229,7 @@
 * [Back to Top](#report-top)
 
 ##### <a name='fdcba3f1cbf4d2f58308142276d5a8932ab0cd5f84'></a> Source: [openpublishing\test\restapi\TOC.md](https://github.com/Microsoft/openpublishing-test/blob/002218238f017f48603b6fb52b16156f9dfa30b6/openpublishing/test/restapi/TOC.md)
-* Status: OutofSyncHandedBackSuccess
+* Status: HandedOffSuccess
 * Target File: [openpublishing\test\restapi\TOC.md](https://github.com/openpublish/openpublishing-test.de-de/blob/bc8995617c53cb85b3155daeebc3bbfd605971ca/openpublishing/test/restapi/TOC.md)
 * Handoff File: [TOC.c470cf695035ba020c763912e8871ba89266b704.de-de.xlf](https://github.com/openpublish/openpublishing-handoff-test/blob/69d044923f05f1c237ff81b7229a2ad11a3b86c1/ol-handoff/openpublish/openpublishing-test.de-de/master/TOC.c470cf695035ba020c763912e8871ba89266b704.de-de.xlf)
 * Handoff Datetime: 2016-06-27 09:43:46
@@ -1639,7 +1637,7 @@
 * [Back to Top](#report-top)
 
 ##### <a name='37d041d98f93f71669a339052e84863c43fce355118'></a> Source: [openpublishing\test\TOC.md](https://github.com/Microsoft/openpublishing-test/blob/b8245d10d6bd665f57b96234191b903aff568309/openpublishing/test/TOC.md)
-* Status: OutofSyncHandedBackSuccess
+* Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [TOC.aff33f4763a521dfe8256a4d8a4caf592c09b34b.de-de.xlf](https://github.com/openpublish/openpublishing-handoff-test/blob/54b6b8dba5c742467d7bfc2fe73758b53e776c71/ol-handoff/openpublish/openpublishing-test.de-de/master/TOC.aff33f4763a521dfe8256a4d8a4caf592c09b34b.de-de.xlf)
 * Handoff Datetime: 2016-08-01 03:11:19
