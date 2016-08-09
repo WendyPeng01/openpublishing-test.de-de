@@ -1,5 +1,5 @@
 {
-  "LastProcessedCommit": "4e145e76c5354936d403ed48234732205ac5c54b",
+  "LastProcessedCommit": "874148e70522026076d4c1652a079c849e9d4403",
   "LastTranslatedCommit": "6257e6251479504743e22f5ab322a7b0a6b92b6a",
   "Items": {
     "9f5f9e8e98a690691aa9904ed29a2a010c1bf4e5": {
@@ -4082,6 +4082,41 @@
       "HandoffFilePath": "ol-handoff\\openpublish\\openpublishing-test.de-de\\master\\ui-components.dcec11372e71c4c665652bab5c7d58946b0a5468.de-de.xlf",
       "HandoffFileCommit": "cb407cc3f3efd1de792fe367c931263815d148bc",
       "HandoffDateTime": "2016-08-08T02:34:53.6983545Z",
+      "HandoffPriority": "",
+      "HandoffException": null,
+      "HandoffFailureTimes": 0,
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "HandbackException": null,
+      "HandbackFailureTimes": 0,
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveException": null,
+      "BilingualFilePath": null,
+      "BilingualFileCommit": null,
+      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualException": null
+    },
+    "4f46251636432b91af9ef710814aa0f0e4a59bec": {
+      "FileHash": "4f46251636432b91af9ef710814aa0f0e4a59bec",
+      "SourceFileCommit": "874148e70522026076d4c1652a079c849e9d4403",
+      "SourceFilePath": "openpublishing\\test\\404.md",
+      "HandoffReason": 1,
+      "DependencyFrom": null,
+      "TokenReference": null,
+      "FilePathList": [
+        "openpublishing\\test\\404.md"
+      ],
+      "HasMetadata": true,
+      "TranslationType": 1,
+      "HandoffFilePath": "ol-handoff\\openpublish\\openpublishing-test.de-de\\master\\404.09ab33cb8469fb789375e35f5452723cc319f68a.de-de.xlf",
+      "HandoffFileCommit": "1ab0723c732d0cd467b37114cae2ae2866b32048",
+      "HandoffDateTime": "2016-08-09T01:01:23.5618627Z",
       "HandoffPriority": "",
       "HandoffException": null,
       "HandoffFailureTimes": 0,
