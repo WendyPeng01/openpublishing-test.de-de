@@ -1,26 +1,11 @@
 # <a name='report-top'></a> Localization Handoff Report
 
 ## Summary
- Total Files | 1
+ Total Files | 0
 
 ## File List
- Source File | Status | Details 
- ----------- | ------ | ------- 
- [openpublishing\test\404.md](https://github.com/Microsoft/openpublishing-test/blob/735a333d61d76aa65033b30ce698e48f9b001a35/openpublishing/test/404.md) | HandedOffSuccess | [Details](#178af9509f21c169749469419ef954a616ef07925)
 
 ## Item Details
-##### <a name='178af9509f21c169749469419ef954a616ef07925'></a> Source: [openpublishing\test\404.md](https://github.com/Microsoft/openpublishing-test/blob/735a333d61d76aa65033b30ce698e48f9b001a35/openpublishing/test/404.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [404.09ab33cb8469fb789375e35f5452723cc319f68a.de-de.xlf](https://github.com/openpublish/openpublishing-handoff-test/blob/f00fbe966bb47392dc287976ddfb7738e36d952c/ol-handoff/openpublish/openpublishing-test.de-de/master/404.09ab33cb8469fb789375e35f5452723cc319f68a.de-de.xlf)
-* Handoff Datetime: 2016-08-09 02:01:58
-* Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
 
 ## Error Details
 
