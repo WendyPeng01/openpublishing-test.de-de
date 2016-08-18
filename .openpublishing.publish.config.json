@@ -30,6 +30,21 @@
         "RestApi": "Content"
       },
       "build_entry_point": "docs"
+    },
+    {
+      "docset_name": "openpublishing-test-static-vscom",
+      "build_source_folder": "openpublishing/test",
+      "build_output_subfolder": "openpublishing/test",
+      "locale": "zh-cn",
+      "version": 0,
+      "open_to_public_contributors": true,
+      "type_mapping": {
+        "Conceptual": "Content",
+        "ManagedReference": "Content",
+        "RestApi": "Content"
+      },
+      "build_entry_point": "docs",
+      "template_folder": "_themes.VS.Modern"
     }
   ],
   "notification_subscribers": [
@@ -38,5 +53,31 @@
   "branches_to_filter": [
     "live"
   ],
-  "skip_source_output_uploading": false
+  "skip_source_output_uploading": false,
+  "dependent_repositories": [
+    {
+      "path_to_root": "_themes",
+      "url": "https://github.com/Microsoft/templates.docs.msft.zh-cn",
+      "branch": "master",
+      "branch_mapping": {
+        "develop_e2e": "develop",
+        "release_e2e": "release",
+        "hotfix_e2e": "hotfix",
+        "docs_develop_e2e": "ops_develop",
+        "docs_release_e2e": "ops_release",
+        "docs_hotfix_e2e": "ops_hotfix"
+      }
+    },
+    {
+      "path_to_root": "_themes.VS.Modern",
+      "url": "https://github.com/Microsoft/templates.vs.com.zh-cn",
+      "branch": "master",
+      "branch_mapping": {
+        "master": "develop",
+        "vscom_develop_e2e": "develop",
+        "vscom_release_e2e": "release",
+        "vscom_hotfix_e2e": "hotfix"
+      }
+    }
+  ]
 }
