@@ -35,7 +35,7 @@
       "docset_name": "openpublishing-test-static-vscom",
       "build_source_folder": "openpublishing/test",
       "build_output_subfolder": "openpublishing/test",
-      "locale": "zh-cn",
+      "locale": "de-de",
       "version": 0,
       "open_to_public_contributors": true,
       "type_mapping": {
@@ -57,7 +57,7 @@
   "dependent_repositories": [
     {
       "path_to_root": "_themes",
-      "url": "https://github.com/Microsoft/templates.docs.msft.zh-cn",
+      "url": "https://github.com/Microsoft/templates.docs.msft.de-de",
       "branch": "master",
       "branch_mapping": {
         "develop_e2e": "develop",
@@ -70,7 +70,7 @@
     },
     {
       "path_to_root": "_themes.VS.Modern",
-      "url": "https://github.com/Microsoft/templates.vs.com.zh-cn",
+      "url": "https://github.com/Microsoft/templates.vs.com.de-de",
       "branch": "master",
       "branch_mapping": {
         "master": "develop",
