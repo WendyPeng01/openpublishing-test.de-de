@@ -1,5 +1,4 @@
 {
-  "build_entry_point": "",
   "need_generate_pdf": false,
   "need_generate_intellisense": false,
   "docsets_to_publish": [
@@ -19,7 +18,7 @@
       "template_folder": "_themes"
     },
     {
-      "docset_name": "openpublishing-test-op",
+      "docset_name": "openpublishing-test-op-technet",
       "build_source_folder": "openpublishing/test",
       "build_output_subfolder": "openpublishing/test-op",
       "locale": "de-de",
@@ -31,21 +30,6 @@
         "RestApi": "Content"
       },
       "build_entry_point": "op"
-    },
-    {
-      "docset_name": "openpublishing-test-static-vscom",
-      "build_source_folder": "openpublishing/test",
-      "build_output_subfolder": "openpublishing/test",
-      "locale": "de-de",
-      "version": 0,
-      "open_to_public_contributors": true,
-      "type_mapping": {
-        "Conceptual": "Content",
-        "ManagedReference": "Content",
-        "RestApi": "Content"
-      },
-      "build_entry_point": "docs",
-      "template_folder": "_themes.VS.Modern"
     }
   ],
   "notification_subscribers": [
@@ -70,8 +54,18 @@
       }
     },
     {
+      "path_to_root": "_themes.MSDN.Modern",
+      "url": "https://github.com/Microsoft/templates.msdn.msft",
+      "branch": "master",
+      "branch_mapping": {
+        "msdn_develop_e2e": "develop",
+        "msdn_release_e2e": "release",
+        "msdn_hotfix_e2e": "hotfix"
+      }
+    },
+    {
       "path_to_root": "_themes.VS.Modern",
-      "url": "https://github.com/Microsoft/templates.vs.com.de-de",
+      "url": "https://github.com/Microsoft/templates.vs.com",
       "branch": "master",
       "branch_mapping": {
         "master": "develop",
@@ -79,6 +73,12 @@
         "vscom_release_e2e": "release",
         "vscom_hotfix_e2e": "hotfix"
       }
+    },
+    {
+      "path_to_root": "_themes.OPS",
+      "url": "https://github.com/Microsoft/templates.starterkit",
+      "branch": "master",
+      "branch_mapping": {}
     }
   ]
 }
