@@ -30,6 +30,21 @@
         "RestApi": "Content"
       },
       "build_entry_point": "op"
+    },
+    {
+      "docset_name": "openpublishing-test-static-vscom",
+      "build_source_folder": "openpublishing/test",
+      "build_output_subfolder": "openpublishing/test",
+      "locale": "de-de",
+      "version": 0,
+      "open_to_public_contributors": true,
+      "type_mapping": {
+        "Conceptual": "Content",
+        "ManagedReference": "Content",
+        "RestApi": "Content"
+      },
+      "build_entry_point": "docs",
+      "template_folder": "_themes.VS.Modern"
     }
   ],
   "notification_subscribers": [
