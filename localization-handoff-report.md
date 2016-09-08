@@ -1,39 +1,11 @@
 # <a name='report-top'></a> Localization Handoff Report
 
 ## Summary
- Total Files | 2
+ Total Files | 0
 
 ## File List
- Source File | Status | Details 
- ----------- | ------ | ------- 
- [openpublishing\test-reference\index.md](https://github.com/Microsoft/openpublishing-test/blob/be6ea2786ab4a3e652f866b4f34717ba3d6b5c7e/openpublishing/test-reference/index.md) | HandedOffSuccess | [Details](#865258c0b403d4e7979d7ee32d3f87b63a349f085)
- [openpublishing\test-reference\TOC.md](https://github.com/Microsoft/openpublishing-test/blob/be6ea2786ab4a3e652f866b4f34717ba3d6b5c7e/openpublishing/test-reference/TOC.md) | HandedOffSuccess | [Details](#46f0f0189b1d7df4cb842a21abffd06dc9a7d2c16)
 
 ## Item Details
-##### <a name='865258c0b403d4e7979d7ee32d3f87b63a349f085'></a> Source: [openpublishing\test-reference\index.md](https://github.com/Microsoft/openpublishing-test/blob/be6ea2786ab4a3e652f866b4f34717ba3d6b5c7e/openpublishing/test-reference/index.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [index.f0030d43304c44c11312b80d0098f8b8816a5a32.de-de.xlf](https://github.com/openpublish/openpublishing-handoff-test/blob/d26c8e51d0bd60aaa41963fe1762d7e9684ff545/ol-handoff/openpublish/openpublishing-test.de-de/master/index.f0030d43304c44c11312b80d0098f8b8816a5a32.de-de.xlf)
-* Handoff Datetime: 2016-09-08 08:10:50
-* Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
-##### <a name='46f0f0189b1d7df4cb842a21abffd06dc9a7d2c16'></a> Source: [openpublishing\test-reference\TOC.md](https://github.com/Microsoft/openpublishing-test/blob/be6ea2786ab4a3e652f866b4f34717ba3d6b5c7e/openpublishing/test-reference/TOC.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [TOC.1ee7efcdee37200bec114cbd5ce49c4bb58aadd4.de-de.xlf](https://github.com/openpublish/openpublishing-handoff-test/blob/d26c8e51d0bd60aaa41963fe1762d7e9684ff545/ol-handoff/openpublish/openpublishing-test.de-de/master/TOC.1ee7efcdee37200bec114cbd5ce49c4bb58aadd4.de-de.xlf)
-* Handoff Datetime: 2016-09-08 08:10:50
-* Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
 
 ## Error Details
 
