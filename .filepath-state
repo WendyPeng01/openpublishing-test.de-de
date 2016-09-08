@@ -280,5 +280,11 @@
   ],
   "bbb7a35b59976605a8f6264507743d6c7c5999a4": [
     "openpublishing\\test\\404.md"
+  ],
+  "865258c0b403d4e7979d7ee32d3f87b63a349f08": [
+    "openpublishing\\test-reference\\index.md"
+  ],
+  "46f0f0189b1d7df4cb842a21abffd06dc9a7d2c1": [
+    "openpublishing\\test-reference\\TOC.md"
   ]
 }
