@@ -18,7 +18,7 @@
       "template_folder": "_themes"
     },
     {
-      "docset_name": "openpublishing-test-op-technet",
+      "docset_name": "openpublishing-test-op",
       "build_source_folder": "openpublishing/test",
       "build_output_subfolder": "openpublishing/test-op",
       "locale": "de-de",
@@ -32,9 +32,53 @@
       "build_entry_point": "op"
     },
     {
+      "docset_name": "openpublishing-test-op-technet",
+      "build_source_folder": "openpublishing/test",
+      "build_output_subfolder": "openpublishing/test-op-technet",
+      "locale": "de-de",
+      "version": 0,
+      "open_to_public_contributors": false,
+      "type_mapping": {
+        "Conceptual": "Content",
+        "ManagedReference": "Content",
+        "RestApi": "Content"
+      },
+      "build_entry_point": "op"
+    },
+    {
+      "docset_name": "openpublishing-test-starterkit",
+      "build_source_folder": "openpublishing/test",
+      "build_output_subfolder": "openpublishing/test-starterkit",
+      "locale": "de-de",
+      "version": 0,
+      "open_to_public_contributors": true,
+      "type_mapping": {
+        "Conceptual": "Content",
+        "ManagedReference": "Content",
+        "RestApi": "Content"
+      },
+      "build_entry_point": "docs",
+      "template_folder": "_themes.OPS"
+    },
+    {
+      "docset_name": "openpublishing-test-static-msdn",
+      "build_source_folder": "openpublishing/test",
+      "build_output_subfolder": "openpublishing/test-static-msdn",
+      "locale": "de-de",
+      "version": 0,
+      "open_to_public_contributors": false,
+      "type_mapping": {
+        "Conceptual": "Content",
+        "ManagedReference": "Content",
+        "RestApi": "Content"
+      },
+      "build_entry_point": "docs",
+      "template_folder": "_themes.MSDN.Modern"
+    },
+    {
       "docset_name": "openpublishing-test-static-vscom",
       "build_source_folder": "openpublishing/test",
-      "build_output_subfolder": "openpublishing/test",
+      "build_output_subfolder": "openpublishing/test-static-vscom",
       "locale": "de-de",
       "version": 0,
       "open_to_public_contributors": true,
@@ -69,8 +113,18 @@
       }
     },
     {
+      "path_to_root": "_themes.OPS",
+      "url": "https://github.com/Microsoft/templates.starterkit",
+      "branch": "master",
+      "branch_mapping": {
+        "develop_e2e": "develop",
+        "release_e2e": "release",
+        "hotfix_e2e": "hotfix"
+      }
+    },
+    {
       "path_to_root": "_themes.MSDN.Modern",
-      "url": "https://github.com/Microsoft/templates.msdn.msft",
+      "url": "https://github.com/Microsoft/templates.msdn.msft.de-de",
       "branch": "master",
       "branch_mapping": {
         "msdn_develop_e2e": "develop",
@@ -82,13 +136,12 @@
       "path_to_root": "_themes.VS.Modern",
       "url": "https://github.com/Microsoft/templates.vs.com.de-de",
       "branch": "master",
-      "branch_mapping": {}
-    },
-    {
-      "path_to_root": "_themes.OPS",
-      "url": "https://github.com/Microsoft/templates.starterkit",
-      "branch": "master",
-      "branch_mapping": {}
+      "branch_mapping": {
+        "master": "develop",
+        "vscom_develop_e2e": "develop",
+        "vscom_release_e2e": "release",
+        "vscom_hotfix_e2e": "hotfix"
+      }
     }
   ]
 }
