@@ -1,0 +1,27 @@
+[{
+		"toc_title" : "Dokumentation",
+		"href" : "/",
+		"level" : 1,
+		"children" : [{
+				"href" : "https://github.com/",
+				"homepage" : "https://github.com/",
+				"toc_title" : "Github",
+				"level" : 2
+			},
+			{
+				"href" : "/openpublishing/test/",
+				"homepage" : "/openpublishing/test/index",
+				"toc_title" : "Openpublishing Test",
+				"level" : 2,
+				"children" : [{
+						"href" : "/openpublishing/test/reference/",
+						"homepage" : "/openpublishing/test/reference/",
+						"toc_title" : "referenz",
+						"level" : 3
+					}
+				]
+			}
+		]
+	}
+]
+
