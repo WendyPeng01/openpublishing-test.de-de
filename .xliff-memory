@@ -1,3 +1,14 @@
 {
-  "Table": {}
+  "Table": {
+    "openpublishing\\test\\TOC.md.f648ec1f7422006668177fb559df4e9060082851.HT": {
+      "SourceFilename": "openpublishing\\test\\TOC.md",
+      "XliffHash": "f648ec1f7422006668177fb559df4e9060082851",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\openpublish\\openpublishing-test.de-de\\master\\faf4e94e98e2d2093813dd92a43e7d10e47b90fc.2264908abe2575010b2aa805429a529f82291fe1.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    }
+  }
 }
