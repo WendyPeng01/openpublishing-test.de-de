@@ -149,6 +149,9 @@
   "fdcba3f1cbf4d2f58308142276d5a8932ab0cd5f": [
     "openpublishing\\test\\restapi\\TOC.md"
   ],
+  "6f3054f4ac72ad7bd6f4546c3f60506e9bf4c2aa": [
+    "openpublishing\\test\\TOC.md"
+  ],
   "c9732ce97a4481bbcb4de96be4e995685d080d3b": [
     "openpublishing\\test\\TOC.md"
   ],
@@ -292,5 +295,8 @@
   ],
   "bbb7a35b59976605a8f6264507743d6c7c5999a4": [
     "openpublishing\\test\\404.md"
+  ],
+  "3d86747f2905a9e70f401a0ce9e5c382a82e0a0e": [
+    "openpublishing\\test\\restapi\\azure\\cognitiveservices\\overwrite.md"
   ]
 }

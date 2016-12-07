@@ -39,6 +39,26 @@
       "SkeletonFile": "ol-xliffcache\\openpublish\\openpublishing-test.de-de\\master\\56b6f173da3639510999bf742b343461793e0a20.554432ed507153a8976887486569c4ecc15e9b8d.xml",
       "LocXliff": null,
       "LocXliffCommit": null
+    },
+    "openpublishing\\test\\restapi\\azure\\cognitiveservices\\overwrite.md.276ab5baf316565ba86d97af9f757aab3395e1a2.HT": {
+      "SourceFilename": "openpublishing\\test\\restapi\\azure\\cognitiveservices\\overwrite.md",
+      "XliffHash": "276ab5baf316565ba86d97af9f757aab3395e1a2",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\openpublish\\openpublishing-test.de-de\\master\\3d86747f2905a9e70f401a0ce9e5c382a82e0a0e.bd7fb037748b3765cc6fd5a02e101b587a666dfc.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "openpublishing\\test\\TOC.md.3dc2e6e187694d5af9ec609ececa547d8bce4ac5.HT": {
+      "SourceFilename": "openpublishing\\test\\TOC.md",
+      "XliffHash": "3dc2e6e187694d5af9ec609ececa547d8bce4ac5",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\openpublish\\openpublishing-test.de-de\\master\\6f3054f4ac72ad7bd6f4546c3f60506e9bf4c2aa.915264134f9555d9443623a78b8a361bf3161b20.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
     }
   }
 }
