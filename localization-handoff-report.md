@@ -6,14 +6,14 @@
 ## File List
  Source File | Status | Details 
  ----------- | ------ | ------- 
- [openpublishing\test\conceptual\long-in-page-toc.md](https://github.com/Microsoft/openpublishing-test/blob/22de245114a4a0d928bf889fb39a94b119833392/openpublishing/test/conceptual/long-in-page-toc.md) | HandedOffSuccess | [Details](#ae3c8be17b4223c429f49ff9c5e5613fbc9da4e049)
+ [openpublishing\test\swagger\build.md](https://github.com/Microsoft/openpublishing-test/blob/25db39786d9e3e96a3cef48e403688a7b3189d5a/openpublishing/test/swagger/build.md) | HandedOffSuccess | [Details](#acf9dfc896878b414c73c4f0072d543111235b22129)
 
 ## Item Details
-##### <a name='ae3c8be17b4223c429f49ff9c5e5613fbc9da4e049'></a> Source: [openpublishing\test\conceptual\long-in-page-toc.md](https://github.com/Microsoft/openpublishing-test/blob/22de245114a4a0d928bf889fb39a94b119833392/openpublishing/test/conceptual/long-in-page-toc.md)
+##### <a name='acf9dfc896878b414c73c4f0072d543111235b22129'></a> Source: [openpublishing\test\swagger\build.md](https://github.com/Microsoft/openpublishing-test/blob/25db39786d9e3e96a3cef48e403688a7b3189d5a/openpublishing/test/swagger/build.md)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [long-in-page-toc.130b5915528c06011ca6a60e745a20247a172368.de-de.xlf](https://github.com/openpublish/openpublishing-handoff-test/blob/223e13083f8c251ff7f2e46225f930e4ab085bb7/ol-handoff/openpublish/openpublishing-test.de-de/master/long-in-page-toc.130b5915528c06011ca6a60e745a20247a172368.de-de.xlf)
-* Handoff Datetime: 2016-12-14 06:10:56
+* Handoff File: [build.bc05be9100f5352299eb80f2c4a981c4fafb94f5.de-de.xlf](https://github.com/openpublish/openpublishing-handoff-test/blob/5e66f3cbc948df4d341c29bf5d30b3561d1c72f1/ol-handoff/openpublish/openpublishing-test.de-de/master/build.bc05be9100f5352299eb80f2c4a981c4fafb94f5.de-de.xlf)
+* Handoff Datetime: 2016-12-14 07:11:16
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
