@@ -16,7 +16,7 @@ ms.assetid: 3715b69e-e631-449b-9aed-144d0f9bcee7
 ms.author: 5f6e9ed0-302d-496f-873c-7a2b94e50410
 ---
 # ATA installieren
-Im folgenden sind die erforderlichen Schritte zum Abrufen der ATA bereitgestellt, konfiguriert und ausgeführt wird.
+Im folgenden sind die erforderlichen Schritte zum Abrufen der ATA bereitgestellt [!INCLUDE[ATA](../token/ATA.md)], konfiguriert und ausgeführt wird.
 
 Gehen Sie folgendermaßen vor, um ATA zu konfigurieren:
 
