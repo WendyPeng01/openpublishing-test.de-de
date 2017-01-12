@@ -1,4 +1,4 @@
-# Öffnen Sie Veröffentlichungsdienst (OPS) asfsaf
+# Öffnen Sie Veröffentlichungsdienst (OPS)
 ## [Einführung in OPS](https://ppe.msdn.microsoft.com/en-us/openpublishing/docs?branch=master)
 # Öffnen Sie veröffentlicht
 ## [Erste Schritte](index.md)
