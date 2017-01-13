@@ -17,6 +17,7 @@ ms.author: 5f6e9ed0-302d-496f-873c-7a2b94e50410
 ---
 # ATA installieren
 Im folgenden sind die erforderlichen Schritte zum Abrufen der ATA bereitgestellt, konfiguriert und ausgeführt wird.
+[!INCLUDE[ATA](../token/ATA.md)]
 
 Gehen Sie folgendermaßen vor, um ATA zu konfigurieren:
 
