@@ -1,4 +1,5 @@
 {
+  "build_entry_point": "docs",
   "need_generate_pdf": false,
   "need_generate_intellisense": false,
   "docsets_to_publish": [
@@ -8,7 +9,7 @@
       "build_output_subfolder": "openpublishing/test-docs",
       "locale": "de-de",
       "version": 0,
-      "open_to_public_contributors": false,
+      "open_to_public_contributors": true,
       "type_mapping": {
         "Conceptual": "Content",
         "ManagedReference": "Content",
@@ -23,13 +24,14 @@
       "build_output_subfolder": "openpublishing/test-op",
       "locale": "de-de",
       "version": 0,
-      "open_to_public_contributors": false,
+      "open_to_public_contributors": true,
       "type_mapping": {
         "Conceptual": "Content",
         "ManagedReference": "Content",
         "RestApi": "Content"
       },
-      "build_entry_point": "op"
+      "build_entry_point": "docs",
+      "template_folder": "_themes"
     },
     {
       "docset_name": "openpublishing-test-op-technet",
@@ -37,13 +39,14 @@
       "build_output_subfolder": "openpublishing/test-op-technet",
       "locale": "de-de",
       "version": 0,
-      "open_to_public_contributors": false,
+      "open_to_public_contributors": true,
       "type_mapping": {
         "Conceptual": "Content",
         "ManagedReference": "Content",
         "RestApi": "Content"
       },
-      "build_entry_point": "op"
+      "build_entry_point": "docs",
+      "template_folder": "_themes"
     },
     {
       "docset_name": "openpublishing-test-reference",
@@ -57,8 +60,8 @@
         "ManagedReference": "Content",
         "RestApi": "Content"
       },
-      "build_entry_point": "op",
-      "template_folder": "_themes.OPS"
+      "build_entry_point": "docs",
+      "template_folder": "_themes"
     },
     {
       "docset_name": "openpublishing-test-starterkit",
@@ -73,7 +76,7 @@
         "RestApi": "Content"
       },
       "build_entry_point": "docs",
-      "template_folder": "_themes.OPS"
+      "template_folder": "_themes"
     },
     {
       "docset_name": "openpublishing-test-static-msdn",
@@ -81,14 +84,14 @@
       "build_output_subfolder": "openpublishing/test-static-msdn",
       "locale": "de-de",
       "version": 0,
-      "open_to_public_contributors": false,
+      "open_to_public_contributors": true,
       "type_mapping": {
         "Conceptual": "Content",
         "ManagedReference": "Content",
         "RestApi": "Content"
       },
       "build_entry_point": "docs",
-      "template_folder": "_themes.MSDN.Modern"
+      "template_folder": "_themes"
     },
     {
       "docset_name": "openpublishing-test-static-technet",
@@ -103,7 +106,7 @@
         "RestApi": "Content"
       },
       "build_entry_point": "docs",
-      "template_folder": "_themes.TechNet.Modern"
+      "template_folder": "_themes"
     },
     {
       "docset_name": "openpublishing-test-static-vscom",
@@ -118,7 +121,7 @@
         "RestApi": "Content"
       },
       "build_entry_point": "docs",
-      "template_folder": "_themes.VS.Modern"
+      "template_folder": "_themes"
     }
   ],
   "notification_subscribers": [
@@ -183,5 +186,6 @@
         "vscom_hotfix_e2e": "hotfix"
       }
     }
-  ]
+  ],
+  "need_generate_pdf_url_template": false
 }
