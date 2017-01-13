@@ -79,6 +79,26 @@
       "SkeletonFile": "ol-xliffcache\\openpublish\\openpublishing-test.de-de\\master\\acf9dfc896878b414c73c4f0072d543111235b22.6e482c2c680763cb99a9d06530faca7c6d52746a.xml",
       "LocXliff": null,
       "LocXliffCommit": null
+    },
+    "openpublishing\\azure-docs-pr\\index.md.c64d300c822f10ebec76c44ca245536021b976d6.HT": {
+      "SourceFilename": "openpublishing\\azure-docs-pr\\index.md",
+      "XliffHash": "c64d300c822f10ebec76c44ca245536021b976d6",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\openpublish\\openpublishing-test.de-de\\master\\fc3f3b1c6459cc48b7c2cc06369569cfd7883f71.2f1956e1e3a4b18420a9851b0c50999a8391874c.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "openpublishing\\azure-docs-pr\\TOC.md.4082fce269510cceabdb7c5ec0715c3bbaef1200.HT": {
+      "SourceFilename": "openpublishing\\azure-docs-pr\\TOC.md",
+      "XliffHash": "4082fce269510cceabdb7c5ec0715c3bbaef1200",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\openpublish\\openpublishing-test.de-de\\master\\46f0f0189b1d7df4cb842a21abffd06dc9a7d2c1.21fbdd36d696dd2d65638040ac2167fa920f1e11.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
     }
   }
 }

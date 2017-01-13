@@ -302,7 +302,13 @@
   "bbb7a35b59976605a8f6264507743d6c7c5999a4": [
     "openpublishing\\test\\404.md"
   ],
+  "46f0f0189b1d7df4cb842a21abffd06dc9a7d2c1": [
+    "openpublishing\\azure-docs-pr\\TOC.md"
+  ],
   "3d86747f2905a9e70f401a0ce9e5c382a82e0a0e": [
     "openpublishing\\test\\restapi\\azure\\cognitiveservices\\overwrite.md"
+  ],
+  "fc3f3b1c6459cc48b7c2cc06369569cfd7883f71": [
+    "openpublishing\\azure-docs-pr\\index.md"
   ]
 }
