@@ -1,11 +1,43 @@
 # <a name='report-top'></a> Localization Handoff Report
 
 ## Summary
- Total Files | 0
+ Total Files | 2
 
 ## File List
+ Source File | Status | Details 
+ ----------- | ------ | ------- 
+ [openpublishing\azure-docs-pr\index.md](https://github.com/Microsoft/openpublishing-test/blob/f60a37e557542e83ae3918ef74c9cce12b95d879/openpublishing/azure-docs-pr/index.md) | HandedOffSuccess | [Details](#fc3f3b1c6459cc48b7c2cc06369569cfd7883f717)
+ [openpublishing\azure-docs-pr\TOC.md](https://github.com/Microsoft/openpublishing-test/blob/f60a37e557542e83ae3918ef74c9cce12b95d879/openpublishing/azure-docs-pr/TOC.md) | HandedOffSuccess | [Details](#46f0f0189b1d7df4cb842a21abffd06dc9a7d2c18)
 
 ## Item Details
+##### <a name='fc3f3b1c6459cc48b7c2cc06369569cfd7883f717'></a> Source: [openpublishing\azure-docs-pr\index.md](https://github.com/Microsoft/openpublishing-test/blob/f60a37e557542e83ae3918ef74c9cce12b95d879/openpublishing/azure-docs-pr/index.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [index.6bf49800b6e882d432e524c6ee42b144a7d470f3.de-de.xlf](https://github.com/openpublish/openpublishing-handoff-test/blob/db8667bae0b481718185dad36b80556b67133850/ol-handoff/openpublish/openpublishing-test.de-de/master/index.6bf49800b6e882d432e524c6ee42b144a7d470f3.de-de.xlf)
+* Handoff Datetime: 2017-01-13 11:06:28
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='46f0f0189b1d7df4cb842a21abffd06dc9a7d2c18'></a> Source: [openpublishing\azure-docs-pr\TOC.md](https://github.com/Microsoft/openpublishing-test/blob/f60a37e557542e83ae3918ef74c9cce12b95d879/openpublishing/azure-docs-pr/TOC.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [TOC.5dbda23d71b95b53d766a4f852740cf7074d6591.de-de.xlf](https://github.com/openpublish/openpublishing-handoff-test/blob/db8667bae0b481718185dad36b80556b67133850/ol-handoff/openpublish/openpublishing-test.de-de/master/TOC.5dbda23d71b95b53d766a4f852740cf7074d6591.de-de.xlf)
+* Handoff Datetime: 2017-01-13 11:06:28
+* Handoff Reason: Include
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
 
 ## Error Details
 
